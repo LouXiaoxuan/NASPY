@@ -1,5 +1,5 @@
 # NASPY
-Source code of ICLR 2022 paper "NASPY: Automated Extraction of Automated Machine Learning Models"
+Source code of ICLR 2022 spotlight paper [NASPY: Automated Extraction of Automated Machine Learning Models](https://openreview.net/pdf?id=KhLK0sHMgXK)
 
 # Note:
 CRNN_CTC models require the third library [ctcdecode](https://github.com/parlance/ctcdecode) to run. Just Download the library and put it under the directory CRNN_CTC.
