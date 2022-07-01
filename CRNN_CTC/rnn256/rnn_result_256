@@ -1,0 +1,3300 @@
+
+start training!
+Train Epoch: 0, Batch: 20, Loss: 3.664034
+Train Epoch: 0, Batch: 40, Loss: 3.198303
+Train Epoch: 0, Batch: 60, Loss: 2.719870
+Train Epoch: 0, Batch: 80, Loss: 2.250865
+Train Epoch: 0, Batch: 100, Loss: 1.798239
+Train Epoch: 0, Batch: 120, Loss: 1.493778
+Train Epoch: 0, Batch: 140, Loss: 1.476439
+Train Epoch: 0, Batch: 160, Loss: 1.237657
+Train Epoch: 0, Batch: 180, Loss: 1.181796
+Train Epoch: 0, Batch: 200, Loss: 1.165937
+Train Epoch: 0, Batch: 220, Loss: 1.079802
+Train Epoch: 0, Batch: 240, Loss: 1.044730
+Train Epoch: 0, Batch: 260, Loss: 0.996762
+Train Epoch: 0, Batch: 280, Loss: 1.104583
+Train Epoch: 0, Batch: 300, Loss: 1.076632
+Train Epoch: 0, Batch: 320, Loss: 1.027433
+Train Epoch: 0, Batch: 340, Loss: 1.002374
+Train Epoch: 0, Batch: 360, Loss: 1.090617
+Train Epoch: 0, Batch: 380, Loss: 1.037261
+Train Epoch: 0, Batch: 400, Loss: 0.989381
+Train Epoch: 0, AverageLoss: 1.589793, Oer:0.000000
+training for epoch 0 takes 225.00138926506042 seconds
+
+start evaluating!
+Epoch: 0, batch: 20, loss: 1.015211, aver_batch_oer:0.997898
+Epoch: 0, batch: 40, loss: 0.992442, aver_batch_oer:0.998141
+Epoch: 0, batch: 60, loss: 1.049374, aver_batch_oer:0.997603
+Epoch: 0, batch: 80, loss: 0.992112, aver_batch_oer:0.997989
+Epoch: 0, batch: 100, loss: 1.001191, aver_batch_oer:0.997949
+Test Epoch: 0, Loss: 1.017495, oer:0.997748
+testing for epoch 0 takes 24.840428113937378 seconds
+
+start training!
+Train Epoch: 1, Batch: 20, Loss: 0.945228
+Train Epoch: 1, Batch: 40, Loss: 1.015929
+Train Epoch: 1, Batch: 60, Loss: 1.029178
+Train Epoch: 1, Batch: 80, Loss: 0.992988
+Train Epoch: 1, Batch: 100, Loss: 1.004565
+Train Epoch: 1, Batch: 120, Loss: 0.962665
+Train Epoch: 1, Batch: 140, Loss: 0.975079
+Train Epoch: 1, Batch: 160, Loss: 0.978819
+Train Epoch: 1, Batch: 180, Loss: 0.978324
+Train Epoch: 1, Batch: 200, Loss: 0.988378
+Train Epoch: 1, Batch: 220, Loss: 0.931726
+Train Epoch: 1, Batch: 240, Loss: 0.959133
+Train Epoch: 1, Batch: 260, Loss: 0.961345
+Train Epoch: 1, Batch: 280, Loss: 1.001759
+Train Epoch: 1, Batch: 300, Loss: 0.970166
+Train Epoch: 1, Batch: 320, Loss: 0.960323
+Train Epoch: 1, Batch: 340, Loss: 1.021769
+Train Epoch: 1, Batch: 360, Loss: 0.919629
+Train Epoch: 1, Batch: 380, Loss: 0.959575
+Train Epoch: 1, Batch: 400, Loss: 0.909791
+Train Epoch: 1, AverageLoss: 0.995627, Oer:0.000000
+training for epoch 1 takes 224.52159333229065 seconds
+
+start evaluating!
+Epoch: 1, batch: 20, loss: 0.925543, aver_batch_oer:0.979424
+Epoch: 1, batch: 40, loss: 0.902571, aver_batch_oer:0.981787
+Epoch: 1, batch: 60, loss: 0.955333, aver_batch_oer:0.982312
+Epoch: 1, batch: 80, loss: 0.911242, aver_batch_oer:0.980959
+Epoch: 1, batch: 100, loss: 0.903844, aver_batch_oer:0.981449
+Test Epoch: 1, Loss: 0.926968, oer:0.980796
+testing for epoch 1 takes 25.31851553916931 seconds
+
+start training!
+Train Epoch: 2, Batch: 20, Loss: 0.898726
+Train Epoch: 2, Batch: 40, Loss: 0.953192
+Train Epoch: 2, Batch: 60, Loss: 0.912341
+Train Epoch: 2, Batch: 80, Loss: 0.919267
+Train Epoch: 2, Batch: 100, Loss: 0.877236
+Train Epoch: 2, Batch: 120, Loss: 0.833352
+Train Epoch: 2, Batch: 140, Loss: 0.830932
+Train Epoch: 2, Batch: 160, Loss: 0.867972
+Train Epoch: 2, Batch: 180, Loss: 0.860166
+Train Epoch: 2, Batch: 200, Loss: 0.778687
+Train Epoch: 2, Batch: 220, Loss: 0.788488
+Train Epoch: 2, Batch: 240, Loss: 0.770440
+Train Epoch: 2, Batch: 260, Loss: 0.744310
+Train Epoch: 2, Batch: 280, Loss: 0.717559
+Train Epoch: 2, Batch: 300, Loss: 0.746193
+Train Epoch: 2, Batch: 320, Loss: 0.693391
+Train Epoch: 2, Batch: 340, Loss: 0.718533
+Train Epoch: 2, Batch: 360, Loss: 0.721988
+Train Epoch: 2, Batch: 380, Loss: 0.712944
+Train Epoch: 2, Batch: 400, Loss: 0.702857
+Train Epoch: 2, AverageLoss: 0.827366, Oer:0.000000
+training for epoch 2 takes 224.77166175842285 seconds
+
+start evaluating!
+Epoch: 2, batch: 20, loss: 0.721396, aver_batch_oer:0.974875
+Epoch: 2, batch: 40, loss: 0.662562, aver_batch_oer:0.979131
+Epoch: 2, batch: 60, loss: 0.726189, aver_batch_oer:0.979872
+Epoch: 2, batch: 80, loss: 0.715957, aver_batch_oer:0.977129
+Epoch: 2, batch: 100, loss: 0.646215, aver_batch_oer:0.980313
+Test Epoch: 2, Loss: 0.717009, oer:0.977658
+testing for epoch 2 takes 24.485140800476074 seconds
+
+start training!
+Train Epoch: 3, Batch: 20, Loss: 0.690567
+Train Epoch: 3, Batch: 40, Loss: 0.655716
+Train Epoch: 3, Batch: 60, Loss: 0.676315
+Train Epoch: 3, Batch: 80, Loss: 0.819952
+Train Epoch: 3, Batch: 100, Loss: 0.685115
+Train Epoch: 3, Batch: 120, Loss: 0.719689
+Train Epoch: 3, Batch: 140, Loss: 0.690791
+Train Epoch: 3, Batch: 160, Loss: 0.638118
+Train Epoch: 3, Batch: 180, Loss: 0.679531
+Train Epoch: 3, Batch: 200, Loss: 0.639703
+Train Epoch: 3, Batch: 220, Loss: 0.687147
+Train Epoch: 3, Batch: 240, Loss: 0.756997
+Train Epoch: 3, Batch: 260, Loss: 0.690556
+Train Epoch: 3, Batch: 280, Loss: 0.580474
+Train Epoch: 3, Batch: 300, Loss: 0.640121
+Train Epoch: 3, Batch: 320, Loss: 0.620705
+Train Epoch: 3, Batch: 340, Loss: 0.679055
+Train Epoch: 3, Batch: 360, Loss: 0.575805
+Train Epoch: 3, Batch: 380, Loss: 0.651133
+Train Epoch: 3, Batch: 400, Loss: 0.647737
+Train Epoch: 3, AverageLoss: 0.688432, Oer:0.000000
+training for epoch 3 takes 225.0547115802765 seconds
+
+start evaluating!
+Epoch: 3, batch: 20, loss: 0.619313, aver_batch_oer:0.967725
+Epoch: 3, batch: 40, loss: 0.560488, aver_batch_oer:0.967309
+Epoch: 3, batch: 60, loss: 0.636350, aver_batch_oer:0.967244
+Epoch: 3, batch: 80, loss: 0.627298, aver_batch_oer:0.963972
+Epoch: 3, batch: 100, loss: 0.552024, aver_batch_oer:0.969450
+Test Epoch: 3, Loss: 0.635966, oer:0.964844
+testing for epoch 3 takes 24.546618223190308 seconds
+
+start training!
+Train Epoch: 4, Batch: 20, Loss: 0.540790
+Train Epoch: 4, Batch: 40, Loss: 0.653658
+Train Epoch: 4, Batch: 60, Loss: 0.605700
+Train Epoch: 4, Batch: 80, Loss: 0.611822
+Train Epoch: 4, Batch: 100, Loss: 0.648400
+Train Epoch: 4, Batch: 120, Loss: 0.535965
+Train Epoch: 4, Batch: 140, Loss: 0.588330
+Train Epoch: 4, Batch: 160, Loss: 0.572632
+Train Epoch: 4, Batch: 180, Loss: 0.536751
+Train Epoch: 4, Batch: 200, Loss: 0.538932
+Train Epoch: 4, Batch: 220, Loss: 0.500337
+Train Epoch: 4, Batch: 240, Loss: 0.575633
+Train Epoch: 4, Batch: 260, Loss: 0.471162
+Train Epoch: 4, Batch: 280, Loss: 0.507374
+Train Epoch: 4, Batch: 300, Loss: 0.645825
+Train Epoch: 4, Batch: 320, Loss: 0.566789
+Train Epoch: 4, Batch: 340, Loss: 0.545997
+Train Epoch: 4, Batch: 360, Loss: 0.509438
+Train Epoch: 4, Batch: 380, Loss: 0.482411
+Train Epoch: 4, Batch: 400, Loss: 0.487351
+Train Epoch: 4, AverageLoss: 0.584856, Oer:0.000000
+training for epoch 4 takes 226.43317031860352 seconds
+
+start evaluating!
+Epoch: 4, batch: 20, loss: 0.491685, aver_batch_oer:0.382167
+Epoch: 4, batch: 40, loss: 0.415395, aver_batch_oer:0.348282
+Epoch: 4, batch: 60, loss: 0.485036, aver_batch_oer:0.391953
+Epoch: 4, batch: 80, loss: 0.503809, aver_batch_oer:0.376446
+Epoch: 4, batch: 100, loss: 0.453316, aver_batch_oer:0.410237
+Test Epoch: 4, Loss: 0.508846, oer:0.394763
+testing for epoch 4 takes 31.92190957069397 seconds
+
+start training!
+Train Epoch: 5, Batch: 20, Loss: 0.474575
+Train Epoch: 5, Batch: 40, Loss: 0.427453
+Train Epoch: 5, Batch: 60, Loss: 0.495643
+Train Epoch: 5, Batch: 80, Loss: 0.444615
+Train Epoch: 5, Batch: 100, Loss: 0.545338
+Train Epoch: 5, Batch: 120, Loss: 0.514677
+Train Epoch: 5, Batch: 140, Loss: 0.489762
+Train Epoch: 5, Batch: 160, Loss: 0.457170
+Train Epoch: 5, Batch: 180, Loss: 0.480007
+Train Epoch: 5, Batch: 200, Loss: 0.461587
+Train Epoch: 5, Batch: 220, Loss: 0.556234
+Train Epoch: 5, Batch: 240, Loss: 0.353479
+Train Epoch: 5, Batch: 260, Loss: 0.488090
+Train Epoch: 5, Batch: 280, Loss: 0.414625
+Train Epoch: 5, Batch: 300, Loss: 0.447515
+Train Epoch: 5, Batch: 320, Loss: 0.381079
+Train Epoch: 5, Batch: 340, Loss: 0.439084
+Train Epoch: 5, Batch: 360, Loss: 0.406276
+Train Epoch: 5, Batch: 380, Loss: 0.428524
+Train Epoch: 5, Batch: 400, Loss: 0.337731
+Train Epoch: 5, AverageLoss: 0.492239, Oer:0.000000
+training for epoch 5 takes 226.9350986480713 seconds
+
+start evaluating!
+Epoch: 5, batch: 20, loss: 0.382549, aver_batch_oer:0.316249
+Epoch: 5, batch: 40, loss: 0.332185, aver_batch_oer:0.258909
+Epoch: 5, batch: 60, loss: 0.417251, aver_batch_oer:0.326274
+Epoch: 5, batch: 80, loss: 0.418946, aver_batch_oer:0.312875
+Epoch: 5, batch: 100, loss: 0.360426, aver_batch_oer:0.323459
+Test Epoch: 5, Loss: 0.424035, oer:0.333447
+testing for epoch 5 takes 33.81362295150757 seconds
+
+start training!
+Train Epoch: 6, Batch: 20, Loss: 0.362094
+Train Epoch: 6, Batch: 40, Loss: 0.325618
+Train Epoch: 6, Batch: 60, Loss: 0.527472
+Train Epoch: 6, Batch: 80, Loss: 0.431745
+Train Epoch: 6, Batch: 100, Loss: 0.474022
+Train Epoch: 6, Batch: 120, Loss: 0.425345
+Train Epoch: 6, Batch: 140, Loss: 0.339387
+Train Epoch: 6, Batch: 160, Loss: 0.308155
+Train Epoch: 6, Batch: 180, Loss: 0.370298
+Train Epoch: 6, Batch: 200, Loss: 0.421056
+Train Epoch: 6, Batch: 220, Loss: 0.366225
+Train Epoch: 6, Batch: 240, Loss: 0.365891
+Train Epoch: 6, Batch: 260, Loss: 0.392367
+Train Epoch: 6, Batch: 280, Loss: 0.334082
+Train Epoch: 6, Batch: 300, Loss: 0.467091
+Train Epoch: 6, Batch: 320, Loss: 0.355680
+Train Epoch: 6, Batch: 340, Loss: 0.347818
+Train Epoch: 6, Batch: 360, Loss: 0.399120
+Train Epoch: 6, Batch: 380, Loss: 0.400165
+Train Epoch: 6, Batch: 400, Loss: 0.405729
+Train Epoch: 6, AverageLoss: 0.420769, Oer:0.000000
+training for epoch 6 takes 225.81777238845825 seconds
+
+start evaluating!
+Epoch: 6, batch: 20, loss: 0.362687, aver_batch_oer:0.325581
+Epoch: 6, batch: 40, loss: 0.282942, aver_batch_oer:0.236337
+Epoch: 6, batch: 60, loss: 0.374959, aver_batch_oer:0.293564
+Epoch: 6, batch: 80, loss: 0.374757, aver_batch_oer:0.316846
+Epoch: 6, batch: 100, loss: 0.334910, aver_batch_oer:0.305439
+Test Epoch: 6, Loss: 0.375032, oer:0.320043
+testing for epoch 6 takes 33.3774151802063 seconds
+
+start training!
+Train Epoch: 7, Batch: 20, Loss: 0.319602
+Train Epoch: 7, Batch: 40, Loss: 0.394188
+Train Epoch: 7, Batch: 60, Loss: 0.328080
+Train Epoch: 7, Batch: 80, Loss: 0.381625
+Train Epoch: 7, Batch: 100, Loss: 0.351016
+Train Epoch: 7, Batch: 120, Loss: 0.334433
+Train Epoch: 7, Batch: 140, Loss: 0.454869
+Train Epoch: 7, Batch: 160, Loss: 0.310593
+Train Epoch: 7, Batch: 180, Loss: 0.427984
+Train Epoch: 7, Batch: 200, Loss: 0.349734
+Train Epoch: 7, Batch: 220, Loss: 0.416820
+Train Epoch: 7, Batch: 240, Loss: 0.299782
+Train Epoch: 7, Batch: 260, Loss: 0.330879
+Train Epoch: 7, Batch: 280, Loss: 0.410607
+Train Epoch: 7, Batch: 300, Loss: 0.305750
+Train Epoch: 7, Batch: 320, Loss: 0.347679
+Train Epoch: 7, Batch: 340, Loss: 0.292628
+Train Epoch: 7, Batch: 360, Loss: 0.310864
+Train Epoch: 7, Batch: 380, Loss: 0.245160
+Train Epoch: 7, Batch: 400, Loss: 0.393450
+Train Epoch: 7, AverageLoss: 0.359508, Oer:0.000000
+training for epoch 7 takes 224.84423971176147 seconds
+
+start evaluating!
+Epoch: 7, batch: 20, loss: 0.310533, aver_batch_oer:0.235695
+Epoch: 7, batch: 40, loss: 0.240128, aver_batch_oer:0.187678
+Epoch: 7, batch: 60, loss: 0.317208, aver_batch_oer:0.232166
+Epoch: 7, batch: 80, loss: 0.337949, aver_batch_oer:0.248585
+Epoch: 7, batch: 100, loss: 0.265022, aver_batch_oer:0.219501
+Test Epoch: 7, Loss: 0.316153, oer:0.236388
+testing for epoch 7 takes 34.839794635772705 seconds
+
+start training!
+Train Epoch: 8, Batch: 20, Loss: 0.295353
+Train Epoch: 8, Batch: 40, Loss: 0.323368
+Train Epoch: 8, Batch: 60, Loss: 0.357641
+Train Epoch: 8, Batch: 80, Loss: 0.294836
+Train Epoch: 8, Batch: 100, Loss: 0.215066
+Train Epoch: 8, Batch: 120, Loss: 0.251042
+Train Epoch: 8, Batch: 140, Loss: 0.254165
+Train Epoch: 8, Batch: 160, Loss: 0.273374
+Train Epoch: 8, Batch: 180, Loss: 0.336289
+Train Epoch: 8, Batch: 200, Loss: 0.216970
+Train Epoch: 8, Batch: 220, Loss: 0.286504
+Train Epoch: 8, Batch: 240, Loss: 0.274702
+Train Epoch: 8, Batch: 260, Loss: 0.219973
+Train Epoch: 8, Batch: 280, Loss: 0.218679
+Train Epoch: 8, Batch: 300, Loss: 0.324974
+Train Epoch: 8, Batch: 320, Loss: 0.272754
+Train Epoch: 8, Batch: 340, Loss: 0.197051
+Train Epoch: 8, Batch: 360, Loss: 0.288631
+Train Epoch: 8, Batch: 380, Loss: 0.193033
+Train Epoch: 8, Batch: 400, Loss: 0.366902
+Train Epoch: 8, AverageLoss: 0.310839, Oer:0.000000
+training for epoch 8 takes 226.0645980834961 seconds
+
+start evaluating!
+Epoch: 8, batch: 20, loss: 0.313552, aver_batch_oer:0.255899
+Epoch: 8, batch: 40, loss: 0.252496, aver_batch_oer:0.214681
+Epoch: 8, batch: 60, loss: 0.352081, aver_batch_oer:0.291868
+Epoch: 8, batch: 80, loss: 0.345339, aver_batch_oer:0.272153
+Epoch: 8, batch: 100, loss: 0.233917, aver_batch_oer:0.241246
+Test Epoch: 8, Loss: 0.330197, oer:0.262132
+testing for epoch 8 takes 33.211429595947266 seconds
+
+start training!
+Train Epoch: 9, Batch: 20, Loss: 0.437170
+Train Epoch: 9, Batch: 40, Loss: 0.285216
+Train Epoch: 9, Batch: 60, Loss: 0.300444
+Train Epoch: 9, Batch: 80, Loss: 0.334795
+Train Epoch: 9, Batch: 100, Loss: 0.359205
+Train Epoch: 9, Batch: 120, Loss: 0.337713
+Train Epoch: 9, Batch: 140, Loss: 0.244813
+Train Epoch: 9, Batch: 160, Loss: 0.265921
+Train Epoch: 9, Batch: 180, Loss: 0.337123
+Train Epoch: 9, Batch: 200, Loss: 0.282453
+Train Epoch: 9, Batch: 220, Loss: 0.239179
+Train Epoch: 9, Batch: 240, Loss: 0.276174
+Train Epoch: 9, Batch: 260, Loss: 0.204836
+Train Epoch: 9, Batch: 280, Loss: 0.217535
+Train Epoch: 9, Batch: 300, Loss: 0.311668
+Train Epoch: 9, Batch: 320, Loss: 0.277312
+Train Epoch: 9, Batch: 340, Loss: 0.312741
+Train Epoch: 9, Batch: 360, Loss: 0.219486
+Train Epoch: 9, Batch: 380, Loss: 0.197387
+Train Epoch: 9, Batch: 400, Loss: 0.279800
+Train Epoch: 9, AverageLoss: 0.283780, Oer:0.000000
+training for epoch 9 takes 225.89763236045837 seconds
+
+start evaluating!
+Epoch: 9, batch: 20, loss: 0.241801, aver_batch_oer:0.200090
+Epoch: 9, batch: 40, loss: 0.192825, aver_batch_oer:0.165097
+Epoch: 9, batch: 60, loss: 0.210428, aver_batch_oer:0.185218
+Epoch: 9, batch: 80, loss: 0.278725, aver_batch_oer:0.210290
+Epoch: 9, batch: 100, loss: 0.195899, aver_batch_oer:0.191561
+Test Epoch: 9, Loss: 0.249836, oer:0.205402
+testing for epoch 9 takes 34.006205558776855 seconds
+
+start training!
+Train Epoch: 10, Batch: 20, Loss: 0.221261
+Train Epoch: 10, Batch: 40, Loss: 0.229315
+Train Epoch: 10, Batch: 60, Loss: 0.267516
+Train Epoch: 10, Batch: 80, Loss: 0.347676
+Train Epoch: 10, Batch: 100, Loss: 0.272253
+Train Epoch: 10, Batch: 120, Loss: 0.295317
+Train Epoch: 10, Batch: 140, Loss: 0.131788
+Train Epoch: 10, Batch: 160, Loss: 0.230241
+Train Epoch: 10, Batch: 180, Loss: 0.248398
+Train Epoch: 10, Batch: 200, Loss: 0.252828
+Train Epoch: 10, Batch: 220, Loss: 0.167716
+Train Epoch: 10, Batch: 240, Loss: 0.251731
+Train Epoch: 10, Batch: 260, Loss: 0.145211
+Train Epoch: 10, Batch: 280, Loss: 0.213761
+Train Epoch: 10, Batch: 300, Loss: 0.241197
+Train Epoch: 10, Batch: 320, Loss: 0.214227
+Train Epoch: 10, Batch: 340, Loss: 0.202279
+Train Epoch: 10, Batch: 360, Loss: 0.250899
+Train Epoch: 10, Batch: 380, Loss: 0.232301
+Train Epoch: 10, Batch: 400, Loss: 0.268846
+Train Epoch: 10, AverageLoss: 0.251709, Oer:0.000000
+training for epoch 10 takes 229.19458508491516 seconds
+
+start evaluating!
+Epoch: 10, batch: 20, loss: 0.306548, aver_batch_oer:0.179475
+Epoch: 10, batch: 40, loss: 0.234930, aver_batch_oer:0.136749
+Epoch: 10, batch: 60, loss: 0.335049, aver_batch_oer:0.186671
+Epoch: 10, batch: 80, loss: 0.372015, aver_batch_oer:0.216000
+Epoch: 10, batch: 100, loss: 0.265871, aver_batch_oer:0.179804
+Test Epoch: 10, Loss: 0.315910, oer:0.180635
+testing for epoch 10 takes 36.93595051765442 seconds
+
+start training!
+Train Epoch: 11, Batch: 20, Loss: 0.267856
+Train Epoch: 11, Batch: 40, Loss: 0.205947
+Train Epoch: 11, Batch: 60, Loss: 0.279545
+Train Epoch: 11, Batch: 80, Loss: 0.226721
+Train Epoch: 11, Batch: 100, Loss: 0.209174
+Train Epoch: 11, Batch: 120, Loss: 0.190519
+Train Epoch: 11, Batch: 140, Loss: 0.174520
+Train Epoch: 11, Batch: 160, Loss: 0.196266
+Train Epoch: 11, Batch: 180, Loss: 0.224490
+Train Epoch: 11, Batch: 200, Loss: 0.182795
+Train Epoch: 11, Batch: 220, Loss: 0.198840
+Train Epoch: 11, Batch: 240, Loss: 0.246296
+Train Epoch: 11, Batch: 260, Loss: 0.211342
+Train Epoch: 11, Batch: 280, Loss: 0.295815
+Train Epoch: 11, Batch: 300, Loss: 0.373325
+Train Epoch: 11, Batch: 320, Loss: 0.215326
+Train Epoch: 11, Batch: 340, Loss: 0.225568
+Train Epoch: 11, Batch: 360, Loss: 0.271144
+Train Epoch: 11, Batch: 380, Loss: 0.203946
+Train Epoch: 11, Batch: 400, Loss: 0.244694
+Train Epoch: 11, AverageLoss: 0.242620, Oer:0.000000
+training for epoch 11 takes 222.8009660243988 seconds
+
+start evaluating!
+Epoch: 11, batch: 20, loss: 0.205737, aver_batch_oer:0.194254
+Epoch: 11, batch: 40, loss: 0.167839, aver_batch_oer:0.161485
+Epoch: 11, batch: 60, loss: 0.180240, aver_batch_oer:0.180369
+Epoch: 11, batch: 80, loss: 0.257472, aver_batch_oer:0.194401
+Epoch: 11, batch: 100, loss: 0.151919, aver_batch_oer:0.176668
+Test Epoch: 11, Loss: 0.219761, oer:0.194233
+testing for epoch 11 takes 33.49158215522766 seconds
+
+start training!
+Train Epoch: 12, Batch: 20, Loss: 0.194022
+Train Epoch: 12, Batch: 40, Loss: 0.242924
+Train Epoch: 12, Batch: 60, Loss: 0.318599
+Train Epoch: 12, Batch: 80, Loss: 0.189685
+Train Epoch: 12, Batch: 100, Loss: 0.214872
+Train Epoch: 12, Batch: 120, Loss: 0.200336
+Train Epoch: 12, Batch: 140, Loss: 0.241159
+Train Epoch: 12, Batch: 160, Loss: 0.224127
+Train Epoch: 12, Batch: 180, Loss: 0.165517
+Train Epoch: 12, Batch: 200, Loss: 0.246772
+Train Epoch: 12, Batch: 220, Loss: 0.245358
+Train Epoch: 12, Batch: 240, Loss: 0.181627
+Train Epoch: 12, Batch: 260, Loss: 0.169345
+Train Epoch: 12, Batch: 280, Loss: 0.187033
+Train Epoch: 12, Batch: 300, Loss: 0.180517
+Train Epoch: 12, Batch: 320, Loss: 0.216393
+Train Epoch: 12, Batch: 340, Loss: 0.139501
+Train Epoch: 12, Batch: 360, Loss: 0.185104
+Train Epoch: 12, Batch: 380, Loss: 0.173045
+Train Epoch: 12, Batch: 400, Loss: 0.210694
+Train Epoch: 12, AverageLoss: 0.221210, Oer:0.000000
+training for epoch 12 takes 224.3694679737091 seconds
+
+start evaluating!
+Epoch: 12, batch: 20, loss: 0.208108, aver_batch_oer:0.173139
+Epoch: 12, batch: 40, loss: 0.172893, aver_batch_oer:0.138562
+Epoch: 12, batch: 60, loss: 0.214534, aver_batch_oer:0.180221
+Epoch: 12, batch: 80, loss: 0.245373, aver_batch_oer:0.168281
+Epoch: 12, batch: 100, loss: 0.120023, aver_batch_oer:0.123150
+Test Epoch: 12, Loss: 0.214707, oer:0.163810
+testing for epoch 12 takes 34.58894443511963 seconds
+
+start training!
+Train Epoch: 13, Batch: 20, Loss: 0.127752
+Train Epoch: 13, Batch: 40, Loss: 0.261768
+Train Epoch: 13, Batch: 60, Loss: 0.271351
+Train Epoch: 13, Batch: 80, Loss: 0.257105
+Train Epoch: 13, Batch: 100, Loss: 0.245718
+Train Epoch: 13, Batch: 120, Loss: 0.219641
+Train Epoch: 13, Batch: 140, Loss: 0.190668
+Train Epoch: 13, Batch: 160, Loss: 0.353973
+Train Epoch: 13, Batch: 180, Loss: 0.138459
+Train Epoch: 13, Batch: 200, Loss: 0.169500
+Train Epoch: 13, Batch: 220, Loss: 0.211080
+Train Epoch: 13, Batch: 240, Loss: 0.319018
+Train Epoch: 13, Batch: 260, Loss: 0.310022
+Train Epoch: 13, Batch: 280, Loss: 0.166639
+Train Epoch: 13, Batch: 300, Loss: 0.218175
+Train Epoch: 13, Batch: 320, Loss: 0.178436
+Train Epoch: 13, Batch: 340, Loss: 0.262932
+Train Epoch: 13, Batch: 360, Loss: 0.142401
+Train Epoch: 13, Batch: 380, Loss: 0.160672
+Train Epoch: 13, Batch: 400, Loss: 0.196043
+Train Epoch: 13, AverageLoss: 0.214089, Oer:0.000000
+training for epoch 13 takes 232.0047640800476 seconds
+
+start evaluating!
+Epoch: 13, batch: 20, loss: 0.160594, aver_batch_oer:0.148431
+Epoch: 13, batch: 40, loss: 0.159802, aver_batch_oer:0.131314
+Epoch: 13, batch: 60, loss: 0.148986, aver_batch_oer:0.144644
+Epoch: 13, batch: 80, loss: 0.236302, aver_batch_oer:0.173585
+Epoch: 13, batch: 100, loss: 0.124355, aver_batch_oer:0.139406
+Test Epoch: 13, Loss: 0.196717, oer:0.159223
+testing for epoch 13 takes 34.45293188095093 seconds
+
+start training!
+Train Epoch: 14, Batch: 20, Loss: 0.162629
+Train Epoch: 14, Batch: 40, Loss: 0.183612
+Train Epoch: 14, Batch: 60, Loss: 0.132077
+Train Epoch: 14, Batch: 80, Loss: 0.133316
+Train Epoch: 14, Batch: 100, Loss: 0.236160
+Train Epoch: 14, Batch: 120, Loss: 0.183012
+Train Epoch: 14, Batch: 140, Loss: 0.253116
+Train Epoch: 14, Batch: 160, Loss: 0.194033
+Train Epoch: 14, Batch: 180, Loss: 0.086489
+Train Epoch: 14, Batch: 200, Loss: 0.257499
+Train Epoch: 14, Batch: 220, Loss: 0.163865
+Train Epoch: 14, Batch: 240, Loss: 0.174873
+Train Epoch: 14, Batch: 260, Loss: 0.164803
+Train Epoch: 14, Batch: 280, Loss: 0.119397
+Train Epoch: 14, Batch: 300, Loss: 0.156145
+Train Epoch: 14, Batch: 320, Loss: 0.338086
+Train Epoch: 14, Batch: 340, Loss: 0.110800
+Train Epoch: 14, Batch: 360, Loss: 0.183054
+Train Epoch: 14, Batch: 380, Loss: 0.166128
+Train Epoch: 14, Batch: 400, Loss: 0.198013
+Train Epoch: 14, AverageLoss: 0.202300, Oer:0.000000
+training for epoch 14 takes 225.72814846038818 seconds
+
+start evaluating!
+Epoch: 14, batch: 20, loss: 0.142980, aver_batch_oer:0.134311
+Epoch: 14, batch: 40, loss: 0.147601, aver_batch_oer:0.118459
+Epoch: 14, batch: 60, loss: 0.121150, aver_batch_oer:0.129370
+Epoch: 14, batch: 80, loss: 0.222520, aver_batch_oer:0.146158
+Epoch: 14, batch: 100, loss: 0.110208, aver_batch_oer:0.133161
+Test Epoch: 14, Loss: 0.173767, oer:0.142075
+testing for epoch 14 takes 34.67986989021301 seconds
+
+start training!
+Train Epoch: 15, Batch: 20, Loss: 0.096483
+Train Epoch: 15, Batch: 40, Loss: 0.223403
+Train Epoch: 15, Batch: 60, Loss: 0.265769
+Train Epoch: 15, Batch: 80, Loss: 0.143856
+Train Epoch: 15, Batch: 100, Loss: 0.130989
+Train Epoch: 15, Batch: 120, Loss: 0.176881
+Train Epoch: 15, Batch: 140, Loss: 0.097615
+Train Epoch: 15, Batch: 160, Loss: 0.199990
+Train Epoch: 15, Batch: 180, Loss: 0.209535
+Train Epoch: 15, Batch: 200, Loss: 0.138038
+Train Epoch: 15, Batch: 220, Loss: 0.314864
+Train Epoch: 15, Batch: 240, Loss: 0.121587
+Train Epoch: 15, Batch: 260, Loss: 0.194465
+Train Epoch: 15, Batch: 280, Loss: 0.161026
+Train Epoch: 15, Batch: 300, Loss: 0.098057
+Train Epoch: 15, Batch: 320, Loss: 0.181932
+Train Epoch: 15, Batch: 340, Loss: 0.180821
+Train Epoch: 15, Batch: 360, Loss: 0.140060
+Train Epoch: 15, Batch: 380, Loss: 0.165863
+Train Epoch: 15, Batch: 400, Loss: 0.123925
+Train Epoch: 15, AverageLoss: 0.190308, Oer:0.000000
+training for epoch 15 takes 234.71874046325684 seconds
+
+start evaluating!
+Epoch: 15, batch: 20, loss: 0.141125, aver_batch_oer:0.120282
+Epoch: 15, batch: 40, loss: 0.152853, aver_batch_oer:0.108790
+Epoch: 15, batch: 60, loss: 0.113501, aver_batch_oer:0.108009
+Epoch: 15, batch: 80, loss: 0.212194, aver_batch_oer:0.127561
+Epoch: 15, batch: 100, loss: 0.099925, aver_batch_oer:0.107483
+Test Epoch: 15, Loss: 0.165331, oer:0.120502
+testing for epoch 15 takes 34.29495310783386 seconds
+
+start training!
+Train Epoch: 16, Batch: 20, Loss: 0.172199
+Train Epoch: 16, Batch: 40, Loss: 0.152982
+Train Epoch: 16, Batch: 60, Loss: 0.180884
+Train Epoch: 16, Batch: 80, Loss: 0.201857
+Train Epoch: 16, Batch: 100, Loss: 0.185185
+Train Epoch: 16, Batch: 120, Loss: 0.132756
+Train Epoch: 16, Batch: 140, Loss: 0.205667
+Train Epoch: 16, Batch: 160, Loss: 0.117294
+Train Epoch: 16, Batch: 180, Loss: 0.136045
+Train Epoch: 16, Batch: 200, Loss: 0.185201
+Train Epoch: 16, Batch: 220, Loss: 0.310021
+Train Epoch: 16, Batch: 240, Loss: 0.127608
+Train Epoch: 16, Batch: 260, Loss: 0.111202
+Train Epoch: 16, Batch: 280, Loss: 0.101030
+Train Epoch: 16, Batch: 300, Loss: 0.170491
+Train Epoch: 16, Batch: 320, Loss: 0.132525
+Train Epoch: 16, Batch: 340, Loss: 0.185514
+Train Epoch: 16, Batch: 360, Loss: 0.155196
+Train Epoch: 16, Batch: 380, Loss: 0.207371
+Train Epoch: 16, Batch: 400, Loss: 0.123617
+Train Epoch: 16, AverageLoss: 0.182205, Oer:0.000000
+training for epoch 16 takes 224.36407208442688 seconds
+
+start evaluating!
+Epoch: 16, batch: 20, loss: 0.138618, aver_batch_oer:0.095152
+Epoch: 16, batch: 40, loss: 0.156710, aver_batch_oer:0.092956
+Epoch: 16, batch: 60, loss: 0.105777, aver_batch_oer:0.081075
+Epoch: 16, batch: 80, loss: 0.236600, aver_batch_oer:0.138990
+Epoch: 16, batch: 100, loss: 0.095350, aver_batch_oer:0.072016
+Test Epoch: 16, Loss: 0.163788, oer:0.099901
+testing for epoch 16 takes 32.274245500564575 seconds
+
+start training!
+Train Epoch: 17, Batch: 20, Loss: 0.145089
+Train Epoch: 17, Batch: 40, Loss: 0.341799
+Train Epoch: 17, Batch: 60, Loss: 0.158259
+Train Epoch: 17, Batch: 80, Loss: 0.116569
+Train Epoch: 17, Batch: 100, Loss: 0.152179
+Train Epoch: 17, Batch: 120, Loss: 0.199193
+Train Epoch: 17, Batch: 140, Loss: 0.089273
+Train Epoch: 17, Batch: 160, Loss: 0.099256
+Train Epoch: 17, Batch: 180, Loss: 0.119766
+Train Epoch: 17, Batch: 200, Loss: 0.205306
+Train Epoch: 17, Batch: 220, Loss: 0.089056
+Train Epoch: 17, Batch: 240, Loss: 0.085235
+Train Epoch: 17, Batch: 260, Loss: 0.238176
+Train Epoch: 17, Batch: 280, Loss: 0.141720
+Train Epoch: 17, Batch: 300, Loss: 0.063619
+Train Epoch: 17, Batch: 320, Loss: 0.171986
+Train Epoch: 17, Batch: 340, Loss: 0.126907
+Train Epoch: 17, Batch: 360, Loss: 0.134822
+Train Epoch: 17, Batch: 380, Loss: 0.147453
+Train Epoch: 17, Batch: 400, Loss: 0.104415
+Train Epoch: 17, AverageLoss: 0.169482, Oer:0.000000
+training for epoch 17 takes 229.63456630706787 seconds
+
+start evaluating!
+Epoch: 17, batch: 20, loss: 0.117860, aver_batch_oer:0.064715
+Epoch: 17, batch: 40, loss: 0.140462, aver_batch_oer:0.065065
+Epoch: 17, batch: 60, loss: 0.091246, aver_batch_oer:0.054966
+Epoch: 17, batch: 80, loss: 0.199139, aver_batch_oer:0.090977
+Epoch: 17, batch: 100, loss: 0.084094, aver_batch_oer:0.056270
+Test Epoch: 17, Loss: 0.148432, oer:0.076887
+testing for epoch 17 takes 36.053954124450684 seconds
+
+start training!
+Train Epoch: 18, Batch: 20, Loss: 0.124233
+Train Epoch: 18, Batch: 40, Loss: 0.117278
+Train Epoch: 18, Batch: 60, Loss: 0.086750
+Train Epoch: 18, Batch: 80, Loss: 0.116882
+Train Epoch: 18, Batch: 100, Loss: 0.173330
+Train Epoch: 18, Batch: 120, Loss: 0.092136
+Train Epoch: 18, Batch: 140, Loss: 0.105189
+Train Epoch: 18, Batch: 160, Loss: 0.145992
+Train Epoch: 18, Batch: 180, Loss: 0.131586
+Train Epoch: 18, Batch: 200, Loss: 0.146993
+Train Epoch: 18, Batch: 220, Loss: 0.094946
+Train Epoch: 18, Batch: 240, Loss: 0.149979
+Train Epoch: 18, Batch: 260, Loss: 0.090674
+Train Epoch: 18, Batch: 280, Loss: 0.196376
+Train Epoch: 18, Batch: 300, Loss: 0.128242
+Train Epoch: 18, Batch: 320, Loss: 0.157312
+Train Epoch: 18, Batch: 340, Loss: 0.123155
+Train Epoch: 18, Batch: 360, Loss: 0.214999
+Train Epoch: 18, Batch: 380, Loss: 0.293791
+Train Epoch: 18, Batch: 400, Loss: 0.191289
+Train Epoch: 18, AverageLoss: 0.160481, Oer:0.000000
+training for epoch 18 takes 222.42714500427246 seconds
+
+start evaluating!
+Epoch: 18, batch: 20, loss: 0.197029, aver_batch_oer:0.097614
+Epoch: 18, batch: 40, loss: 0.190946, aver_batch_oer:0.081724
+Epoch: 18, batch: 60, loss: 0.160842, aver_batch_oer:0.084413
+Epoch: 18, batch: 80, loss: 0.240757, aver_batch_oer:0.102984
+Epoch: 18, batch: 100, loss: 0.141596, aver_batch_oer:0.072293
+Test Epoch: 18, Loss: 0.216067, oer:0.101322
+testing for epoch 18 takes 35.44576907157898 seconds
+
+start training!
+Train Epoch: 19, Batch: 20, Loss: 0.324894
+Train Epoch: 19, Batch: 40, Loss: 0.164944
+Train Epoch: 19, Batch: 60, Loss: 0.132424
+Train Epoch: 19, Batch: 80, Loss: 0.115439
+Train Epoch: 19, Batch: 100, Loss: 0.143095
+Train Epoch: 19, Batch: 120, Loss: 0.122590
+Train Epoch: 19, Batch: 140, Loss: 0.160869
+Train Epoch: 19, Batch: 160, Loss: 0.124379
+Train Epoch: 19, Batch: 180, Loss: 0.092130
+Train Epoch: 19, Batch: 200, Loss: 0.141196
+Train Epoch: 19, Batch: 220, Loss: 0.119991
+Train Epoch: 19, Batch: 240, Loss: 0.097774
+Train Epoch: 19, Batch: 260, Loss: 0.163373
+Train Epoch: 19, Batch: 280, Loss: 0.132355
+Train Epoch: 19, Batch: 300, Loss: 0.093506
+Train Epoch: 19, Batch: 320, Loss: 0.106821
+Train Epoch: 19, Batch: 340, Loss: 0.104030
+Train Epoch: 19, Batch: 360, Loss: 0.124712
+Train Epoch: 19, Batch: 380, Loss: 0.158554
+Train Epoch: 19, Batch: 400, Loss: 0.123579
+Train Epoch: 19, AverageLoss: 0.162541, Oer:0.000000
+training for epoch 19 takes 230.46802377700806 seconds
+
+start evaluating!
+Epoch: 19, batch: 20, loss: 0.135927, aver_batch_oer:0.064885
+Epoch: 19, batch: 40, loss: 0.149563, aver_batch_oer:0.057320
+Epoch: 19, batch: 60, loss: 0.091445, aver_batch_oer:0.046065
+Epoch: 19, batch: 80, loss: 0.258062, aver_batch_oer:0.105174
+Epoch: 19, batch: 100, loss: 0.071682, aver_batch_oer:0.045529
+Test Epoch: 19, Loss: 0.146447, oer:0.066780
+testing for epoch 19 takes 35.7084481716156 seconds
+
+start training!
+Train Epoch: 20, Batch: 20, Loss: 0.237125
+Train Epoch: 20, Batch: 40, Loss: 0.190397
+Train Epoch: 20, Batch: 60, Loss: 0.138655
+Train Epoch: 20, Batch: 80, Loss: 0.070858
+Train Epoch: 20, Batch: 100, Loss: 0.201248
+Train Epoch: 20, Batch: 120, Loss: 0.110917
+Train Epoch: 20, Batch: 140, Loss: 0.291501
+Train Epoch: 20, Batch: 160, Loss: 0.139709
+Train Epoch: 20, Batch: 180, Loss: 0.094410
+Train Epoch: 20, Batch: 200, Loss: 0.181210
+Train Epoch: 20, Batch: 220, Loss: 0.106063
+Train Epoch: 20, Batch: 240, Loss: 0.144172
+Train Epoch: 20, Batch: 260, Loss: 0.078119
+Train Epoch: 20, Batch: 280, Loss: 0.139090
+Train Epoch: 20, Batch: 300, Loss: 0.143441
+Train Epoch: 20, Batch: 320, Loss: 0.086432
+Train Epoch: 20, Batch: 340, Loss: 0.105710
+Train Epoch: 20, Batch: 360, Loss: 0.170204
+Train Epoch: 20, Batch: 380, Loss: 0.106493
+Train Epoch: 20, Batch: 400, Loss: 0.108812
+Train Epoch: 20, AverageLoss: 0.143170, Oer:0.000000
+training for epoch 20 takes 225.90780568122864 seconds
+
+start evaluating!
+Epoch: 20, batch: 20, loss: 0.100325, aver_batch_oer:0.054050
+Epoch: 20, batch: 40, loss: 0.131847, aver_batch_oer:0.057313
+Epoch: 20, batch: 60, loss: 0.061087, aver_batch_oer:0.027834
+Epoch: 20, batch: 80, loss: 0.157085, aver_batch_oer:0.066702
+Epoch: 20, batch: 100, loss: 0.071753, aver_batch_oer:0.046284
+Test Epoch: 20, Loss: 0.128095, oer:0.059512
+testing for epoch 20 takes 35.45672631263733 seconds
+
+start training!
+Train Epoch: 21, Batch: 20, Loss: 0.094156
+Train Epoch: 21, Batch: 40, Loss: 0.212587
+Train Epoch: 21, Batch: 60, Loss: 0.093321
+Train Epoch: 21, Batch: 80, Loss: 0.159429
+Train Epoch: 21, Batch: 100, Loss: 0.080336
+Train Epoch: 21, Batch: 120, Loss: 0.433867
+Train Epoch: 21, Batch: 140, Loss: 0.105747
+Train Epoch: 21, Batch: 160, Loss: 0.096043
+Train Epoch: 21, Batch: 180, Loss: 0.081449
+Train Epoch: 21, Batch: 200, Loss: 0.121406
+Train Epoch: 21, Batch: 220, Loss: 0.192618
+Train Epoch: 21, Batch: 240, Loss: 0.226764
+Train Epoch: 21, Batch: 260, Loss: 0.192707
+Train Epoch: 21, Batch: 280, Loss: 0.078742
+Train Epoch: 21, Batch: 300, Loss: 0.064696
+Train Epoch: 21, Batch: 320, Loss: 0.114831
+Train Epoch: 21, Batch: 340, Loss: 0.087606
+Train Epoch: 21, Batch: 360, Loss: 0.160940
+Train Epoch: 21, Batch: 380, Loss: 0.116928
+Train Epoch: 21, Batch: 400, Loss: 0.111178
+Train Epoch: 21, AverageLoss: 0.135655, Oer:0.000000
+training for epoch 21 takes 232.12392926216125 seconds
+
+start evaluating!
+Epoch: 21, batch: 20, loss: 0.111108, aver_batch_oer:0.056770
+Epoch: 21, batch: 40, loss: 0.118900, aver_batch_oer:0.047353
+Epoch: 21, batch: 60, loss: 0.054296, aver_batch_oer:0.031501
+Epoch: 21, batch: 80, loss: 0.153431, aver_batch_oer:0.078875
+Epoch: 21, batch: 100, loss: 0.066425, aver_batch_oer:0.045400
+Test Epoch: 21, Loss: 0.122331, oer:0.058625
+testing for epoch 21 takes 35.90159225463867 seconds
+
+start training!
+Train Epoch: 22, Batch: 20, Loss: 0.063199
+Train Epoch: 22, Batch: 40, Loss: 0.086808
+Train Epoch: 22, Batch: 60, Loss: 0.095828
+Train Epoch: 22, Batch: 80, Loss: 0.099151
+Train Epoch: 22, Batch: 100, Loss: 0.089112
+Train Epoch: 22, Batch: 120, Loss: 0.167401
+Train Epoch: 22, Batch: 140, Loss: 0.119985
+Train Epoch: 22, Batch: 160, Loss: 0.055812
+Train Epoch: 22, Batch: 180, Loss: 0.077754
+Train Epoch: 22, Batch: 200, Loss: 0.169601
+Train Epoch: 22, Batch: 220, Loss: 0.136186
+Train Epoch: 22, Batch: 240, Loss: 0.114871
+Train Epoch: 22, Batch: 260, Loss: 0.141440
+Train Epoch: 22, Batch: 280, Loss: 0.158222
+Train Epoch: 22, Batch: 300, Loss: 0.118469
+Train Epoch: 22, Batch: 320, Loss: 0.089872
+Train Epoch: 22, Batch: 340, Loss: 0.103200
+Train Epoch: 22, Batch: 360, Loss: 0.218104
+Train Epoch: 22, Batch: 380, Loss: 0.238754
+Train Epoch: 22, Batch: 400, Loss: 0.089705
+Train Epoch: 22, AverageLoss: 0.130288, Oer:0.000000
+training for epoch 22 takes 230.53659415245056 seconds
+
+start evaluating!
+Epoch: 22, batch: 20, loss: 0.106746, aver_batch_oer:0.056726
+Epoch: 22, batch: 40, loss: 0.122432, aver_batch_oer:0.049435
+Epoch: 22, batch: 60, loss: 0.070547, aver_batch_oer:0.032377
+Epoch: 22, batch: 80, loss: 0.190025, aver_batch_oer:0.090640
+Epoch: 22, batch: 100, loss: 0.075437, aver_batch_oer:0.044049
+Test Epoch: 22, Loss: 0.128832, oer:0.060086
+testing for epoch 22 takes 35.65996479988098 seconds
+
+start training!
+Train Epoch: 23, Batch: 20, Loss: 0.065304
+Train Epoch: 23, Batch: 40, Loss: 0.141332
+Train Epoch: 23, Batch: 60, Loss: 0.111931
+Train Epoch: 23, Batch: 80, Loss: 0.060387
+Train Epoch: 23, Batch: 100, Loss: 0.134252
+Train Epoch: 23, Batch: 120, Loss: 0.042919
+Train Epoch: 23, Batch: 140, Loss: 0.095392
+Train Epoch: 23, Batch: 160, Loss: 0.158065
+Train Epoch: 23, Batch: 180, Loss: 0.065460
+Train Epoch: 23, Batch: 200, Loss: 0.086710
+Train Epoch: 23, Batch: 220, Loss: 0.080195
+Train Epoch: 23, Batch: 240, Loss: 0.144574
+Train Epoch: 23, Batch: 260, Loss: 0.167783
+Train Epoch: 23, Batch: 280, Loss: 0.136168
+Train Epoch: 23, Batch: 300, Loss: 0.158635
+Train Epoch: 23, Batch: 320, Loss: 0.210460
+Train Epoch: 23, Batch: 340, Loss: 0.156024
+Train Epoch: 23, Batch: 360, Loss: 0.179755
+Train Epoch: 23, Batch: 380, Loss: 0.103843
+Train Epoch: 23, Batch: 400, Loss: 0.087881
+Train Epoch: 23, AverageLoss: 0.124991, Oer:0.000000
+training for epoch 23 takes 230.55957317352295 seconds
+
+start evaluating!
+Epoch: 23, batch: 20, loss: 0.133227, aver_batch_oer:0.060382
+Epoch: 23, batch: 40, loss: 0.139151, aver_batch_oer:0.051958
+Epoch: 23, batch: 60, loss: 0.100898, aver_batch_oer:0.049950
+Epoch: 23, batch: 80, loss: 0.226707, aver_batch_oer:0.082476
+Epoch: 23, batch: 100, loss: 0.072968, aver_batch_oer:0.037485
+Test Epoch: 23, Loss: 0.159676, oer:0.067359
+testing for epoch 23 takes 36.295713663101196 seconds
+
+start training!
+Train Epoch: 24, Batch: 20, Loss: 0.101204
+Train Epoch: 24, Batch: 40, Loss: 0.102263
+Train Epoch: 24, Batch: 60, Loss: 0.128453
+Train Epoch: 24, Batch: 80, Loss: 0.157558
+Train Epoch: 24, Batch: 100, Loss: 0.146775
+Train Epoch: 24, Batch: 120, Loss: 0.090599
+Train Epoch: 24, Batch: 140, Loss: 0.117068
+Train Epoch: 24, Batch: 160, Loss: 0.119052
+Train Epoch: 24, Batch: 180, Loss: 0.159958
+Train Epoch: 24, Batch: 200, Loss: 0.171971
+Train Epoch: 24, Batch: 220, Loss: 0.112256
+Train Epoch: 24, Batch: 240, Loss: 0.137133
+Train Epoch: 24, Batch: 260, Loss: 0.094032
+Train Epoch: 24, Batch: 280, Loss: 0.100054
+Train Epoch: 24, Batch: 300, Loss: 0.086631
+Train Epoch: 24, Batch: 320, Loss: 0.089605
+Train Epoch: 24, Batch: 340, Loss: 0.104270
+Train Epoch: 24, Batch: 360, Loss: 0.127984
+Train Epoch: 24, Batch: 380, Loss: 0.214203
+Train Epoch: 24, Batch: 400, Loss: 0.063085
+Train Epoch: 24, AverageLoss: 0.125671, Oer:0.000000
+training for epoch 24 takes 231.0158941745758 seconds
+
+start evaluating!
+Epoch: 24, batch: 20, loss: 0.085885, aver_batch_oer:0.045501
+Epoch: 24, batch: 40, loss: 0.135433, aver_batch_oer:0.051164
+Epoch: 24, batch: 60, loss: 0.056601, aver_batch_oer:0.029031
+Epoch: 24, batch: 80, loss: 0.126866, aver_batch_oer:0.056951
+Epoch: 24, batch: 100, loss: 0.070765, aver_batch_oer:0.042965
+Test Epoch: 24, Loss: 0.122854, oer:0.057177
+testing for epoch 24 takes 35.521294355392456 seconds
+
+start training!
+Train Epoch: 25, Batch: 20, Loss: 0.120416
+Train Epoch: 25, Batch: 40, Loss: 0.149940
+Train Epoch: 25, Batch: 60, Loss: 0.075958
+Train Epoch: 25, Batch: 80, Loss: 0.089412
+Train Epoch: 25, Batch: 100, Loss: 0.107060
+Train Epoch: 25, Batch: 120, Loss: 0.075357
+Train Epoch: 25, Batch: 140, Loss: 0.075919
+Train Epoch: 25, Batch: 160, Loss: 0.091296
+Train Epoch: 25, Batch: 180, Loss: 0.111474
+Train Epoch: 25, Batch: 200, Loss: 0.066588
+Train Epoch: 25, Batch: 220, Loss: 0.093999
+Train Epoch: 25, Batch: 240, Loss: 0.133349
+Train Epoch: 25, Batch: 260, Loss: 0.093402
+Train Epoch: 25, Batch: 280, Loss: 0.340104
+Train Epoch: 25, Batch: 300, Loss: 0.116521
+Train Epoch: 25, Batch: 320, Loss: 0.152472
+Train Epoch: 25, Batch: 340, Loss: 0.108696
+Train Epoch: 25, Batch: 360, Loss: 0.115465
+Train Epoch: 25, Batch: 380, Loss: 0.181760
+Train Epoch: 25, Batch: 400, Loss: 0.138330
+Train Epoch: 25, AverageLoss: 0.116003, Oer:0.000000
+training for epoch 25 takes 227.87135314941406 seconds
+
+start evaluating!
+Epoch: 25, batch: 20, loss: 0.071130, aver_batch_oer:0.038246
+Epoch: 25, batch: 40, loss: 0.110819, aver_batch_oer:0.041438
+Epoch: 25, batch: 60, loss: 0.070929, aver_batch_oer:0.036760
+Epoch: 25, batch: 80, loss: 0.138790, aver_batch_oer:0.068483
+Epoch: 25, batch: 100, loss: 0.058441, aver_batch_oer:0.037715
+Test Epoch: 25, Loss: 0.131296, oer:0.060729
+testing for epoch 25 takes 35.4132878780365 seconds
+
+start training!
+Train Epoch: 26, Batch: 20, Loss: 0.127106
+Train Epoch: 26, Batch: 40, Loss: 0.100457
+Train Epoch: 26, Batch: 60, Loss: 0.084985
+Train Epoch: 26, Batch: 80, Loss: 0.069829
+Train Epoch: 26, Batch: 100, Loss: 0.128875
+Train Epoch: 26, Batch: 120, Loss: 0.097242
+Train Epoch: 26, Batch: 140, Loss: 0.102790
+Train Epoch: 26, Batch: 160, Loss: 0.097551
+Train Epoch: 26, Batch: 180, Loss: 0.079724
+Train Epoch: 26, Batch: 200, Loss: 0.270945
+Train Epoch: 26, Batch: 220, Loss: 0.078709
+Train Epoch: 26, Batch: 240, Loss: 0.208075
+Train Epoch: 26, Batch: 260, Loss: 0.086703
+Train Epoch: 26, Batch: 280, Loss: 0.093810
+Train Epoch: 26, Batch: 300, Loss: 0.065411
+Train Epoch: 26, Batch: 320, Loss: 0.070788
+Train Epoch: 26, Batch: 340, Loss: 0.161222
+Train Epoch: 26, Batch: 360, Loss: 0.110607
+Train Epoch: 26, Batch: 380, Loss: 0.133790
+Train Epoch: 26, Batch: 400, Loss: 0.134393
+Train Epoch: 26, AverageLoss: 0.108170, Oer:0.000000
+training for epoch 26 takes 234.14466905593872 seconds
+
+start evaluating!
+Epoch: 26, batch: 20, loss: 0.072836, aver_batch_oer:0.035468
+Epoch: 26, batch: 40, loss: 0.123197, aver_batch_oer:0.040532
+Epoch: 26, batch: 60, loss: 0.094557, aver_batch_oer:0.049458
+Epoch: 26, batch: 80, loss: 0.154783, aver_batch_oer:0.067020
+Epoch: 26, batch: 100, loss: 0.056822, aver_batch_oer:0.033266
+Test Epoch: 26, Loss: 0.136349, oer:0.058219
+testing for epoch 26 takes 35.3330602645874 seconds
+
+start training!
+Train Epoch: 27, Batch: 20, Loss: 0.110538
+Train Epoch: 27, Batch: 40, Loss: 0.110553
+Train Epoch: 27, Batch: 60, Loss: 0.061113
+Train Epoch: 27, Batch: 80, Loss: 0.080096
+Train Epoch: 27, Batch: 100, Loss: 0.087357
+Train Epoch: 27, Batch: 120, Loss: 0.040604
+Train Epoch: 27, Batch: 140, Loss: 0.167655
+Train Epoch: 27, Batch: 160, Loss: 0.061889
+Train Epoch: 27, Batch: 180, Loss: 0.149477
+Train Epoch: 27, Batch: 200, Loss: 0.073217
+Train Epoch: 27, Batch: 220, Loss: 0.102611
+Train Epoch: 27, Batch: 240, Loss: 0.119234
+Train Epoch: 27, Batch: 260, Loss: 0.088862
+Train Epoch: 27, Batch: 280, Loss: 0.039947
+Train Epoch: 27, Batch: 300, Loss: 0.137998
+Train Epoch: 27, Batch: 320, Loss: 0.099242
+Train Epoch: 27, Batch: 340, Loss: 0.087344
+Train Epoch: 27, Batch: 360, Loss: 0.070871
+Train Epoch: 27, Batch: 380, Loss: 0.061180
+Train Epoch: 27, Batch: 400, Loss: 0.126869
+Train Epoch: 27, AverageLoss: 0.095624, Oer:0.000000
+training for epoch 27 takes 229.88012218475342 seconds
+
+start evaluating!
+Epoch: 27, batch: 20, loss: 0.080941, aver_batch_oer:0.043408
+Epoch: 27, batch: 40, loss: 0.099274, aver_batch_oer:0.032473
+Epoch: 27, batch: 60, loss: 0.047034, aver_batch_oer:0.027086
+Epoch: 27, batch: 80, loss: 0.148454, aver_batch_oer:0.068021
+Epoch: 27, batch: 100, loss: 0.054689, aver_batch_oer:0.034776
+Test Epoch: 27, Loss: 0.109868, oer:0.049645
+testing for epoch 27 takes 35.57683825492859 seconds
+
+start training!
+Train Epoch: 28, Batch: 20, Loss: 0.045139
+Train Epoch: 28, Batch: 40, Loss: 0.107468
+Train Epoch: 28, Batch: 60, Loss: 0.074827
+Train Epoch: 28, Batch: 80, Loss: 0.085062
+Train Epoch: 28, Batch: 100, Loss: 0.080356
+Train Epoch: 28, Batch: 120, Loss: 0.097476
+Train Epoch: 28, Batch: 140, Loss: 0.053263
+Train Epoch: 28, Batch: 160, Loss: 0.047780
+Train Epoch: 28, Batch: 180, Loss: 0.075348
+Train Epoch: 28, Batch: 200, Loss: 0.049515
+Train Epoch: 28, Batch: 220, Loss: 0.194118
+Train Epoch: 28, Batch: 240, Loss: 0.110318
+Train Epoch: 28, Batch: 260, Loss: 0.068053
+Train Epoch: 28, Batch: 280, Loss: 0.072804
+Train Epoch: 28, Batch: 300, Loss: 0.093172
+Train Epoch: 28, Batch: 320, Loss: 0.084022
+Train Epoch: 28, Batch: 340, Loss: 0.074088
+Train Epoch: 28, Batch: 360, Loss: 0.058887
+Train Epoch: 28, Batch: 380, Loss: 0.050072
+Train Epoch: 28, Batch: 400, Loss: 0.136261
+Train Epoch: 28, AverageLoss: 0.086037, Oer:0.000000
+training for epoch 28 takes 228.98645877838135 seconds
+
+start evaluating!
+Epoch: 28, batch: 20, loss: 0.081743, aver_batch_oer:0.046740
+Epoch: 28, batch: 40, loss: 0.098808, aver_batch_oer:0.031637
+Epoch: 28, batch: 60, loss: 0.050405, aver_batch_oer:0.024213
+Epoch: 28, batch: 80, loss: 0.166661, aver_batch_oer:0.073841
+Epoch: 28, batch: 100, loss: 0.056473, aver_batch_oer:0.033444
+Test Epoch: 28, Loss: 0.111901, oer:0.050187
+testing for epoch 28 takes 36.94713473320007 seconds
+
+start training!
+Train Epoch: 29, Batch: 20, Loss: 0.044754
+Train Epoch: 29, Batch: 40, Loss: 0.092706
+Train Epoch: 29, Batch: 60, Loss: 0.097805
+Train Epoch: 29, Batch: 80, Loss: 0.083256
+Train Epoch: 29, Batch: 100, Loss: 0.124580
+Train Epoch: 29, Batch: 120, Loss: 0.082658
+Train Epoch: 29, Batch: 140, Loss: 0.066643
+Train Epoch: 29, Batch: 160, Loss: 0.044658
+Train Epoch: 29, Batch: 180, Loss: 0.091381
+Train Epoch: 29, Batch: 200, Loss: 0.065188
+Train Epoch: 29, Batch: 220, Loss: 0.099614
+Train Epoch: 29, Batch: 240, Loss: 0.124576
+Train Epoch: 29, Batch: 260, Loss: 0.072457
+Train Epoch: 29, Batch: 280, Loss: 0.111744
+Train Epoch: 29, Batch: 300, Loss: 0.088046
+Train Epoch: 29, Batch: 320, Loss: 0.077342
+Train Epoch: 29, Batch: 340, Loss: 0.108184
+Train Epoch: 29, Batch: 360, Loss: 0.094337
+Train Epoch: 29, Batch: 380, Loss: 0.083478
+Train Epoch: 29, Batch: 400, Loss: 0.124380
+Train Epoch: 29, AverageLoss: 0.087914, Oer:0.000000
+training for epoch 29 takes 228.66692757606506 seconds
+
+start evaluating!
+Epoch: 29, batch: 20, loss: 0.089341, aver_batch_oer:0.049212
+Epoch: 29, batch: 40, loss: 0.107933, aver_batch_oer:0.035680
+Epoch: 29, batch: 60, loss: 0.105158, aver_batch_oer:0.055982
+Epoch: 29, batch: 80, loss: 0.270018, aver_batch_oer:0.097228
+Epoch: 29, batch: 100, loss: 0.092465, aver_batch_oer:0.042044
+Test Epoch: 29, Loss: 0.155615, oer:0.065794
+testing for epoch 29 takes 36.06853532791138 seconds
+
+start training!
+Train Epoch: 30, Batch: 20, Loss: 0.049199
+Train Epoch: 30, Batch: 40, Loss: 0.084828
+Train Epoch: 30, Batch: 60, Loss: 0.069437
+Train Epoch: 30, Batch: 80, Loss: 0.073856
+Train Epoch: 30, Batch: 100, Loss: 0.044727
+Train Epoch: 30, Batch: 120, Loss: 0.234587
+Train Epoch: 30, Batch: 140, Loss: 0.080163
+Train Epoch: 30, Batch: 160, Loss: 0.046701
+Train Epoch: 30, Batch: 180, Loss: 0.040950
+Train Epoch: 30, Batch: 200, Loss: 0.048553
+Train Epoch: 30, Batch: 220, Loss: 0.133692
+Train Epoch: 30, Batch: 240, Loss: 0.067145
+Train Epoch: 30, Batch: 260, Loss: 0.074417
+Train Epoch: 30, Batch: 280, Loss: 0.068218
+Train Epoch: 30, Batch: 300, Loss: 0.082201
+Train Epoch: 30, Batch: 320, Loss: 0.114368
+Train Epoch: 30, Batch: 340, Loss: 0.042713
+Train Epoch: 30, Batch: 360, Loss: 0.094104
+Train Epoch: 30, Batch: 380, Loss: 0.081710
+Train Epoch: 30, Batch: 400, Loss: 0.069279
+Train Epoch: 30, AverageLoss: 0.084789, Oer:0.000000
+training for epoch 30 takes 231.15729570388794 seconds
+
+start evaluating!
+Epoch: 30, batch: 20, loss: 0.073043, aver_batch_oer:0.029841
+Epoch: 30, batch: 40, loss: 0.118978, aver_batch_oer:0.039950
+Epoch: 30, batch: 60, loss: 0.057107, aver_batch_oer:0.030390
+Epoch: 30, batch: 80, loss: 0.146290, aver_batch_oer:0.067853
+Epoch: 30, batch: 100, loss: 0.069691, aver_batch_oer:0.042465
+Test Epoch: 30, Loss: 0.109372, oer:0.047025
+testing for epoch 30 takes 35.57788443565369 seconds
+
+start training!
+Train Epoch: 31, Batch: 20, Loss: 0.029857
+Train Epoch: 31, Batch: 40, Loss: 0.079614
+Train Epoch: 31, Batch: 60, Loss: 0.117732
+Train Epoch: 31, Batch: 80, Loss: 0.031824
+Train Epoch: 31, Batch: 100, Loss: 0.066884
+Train Epoch: 31, Batch: 120, Loss: 0.083897
+Train Epoch: 31, Batch: 140, Loss: 0.114263
+Train Epoch: 31, Batch: 160, Loss: 0.049474
+Train Epoch: 31, Batch: 180, Loss: 0.056300
+Train Epoch: 31, Batch: 200, Loss: 0.060640
+Train Epoch: 31, Batch: 220, Loss: 0.127947
+Train Epoch: 31, Batch: 240, Loss: 0.042676
+Train Epoch: 31, Batch: 260, Loss: 0.054909
+Train Epoch: 31, Batch: 280, Loss: 0.116770
+Train Epoch: 31, Batch: 300, Loss: 0.044620
+Train Epoch: 31, Batch: 320, Loss: 0.060409
+Train Epoch: 31, Batch: 340, Loss: 0.092649
+Train Epoch: 31, Batch: 360, Loss: 0.061781
+Train Epoch: 31, Batch: 380, Loss: 0.080944
+Train Epoch: 31, Batch: 400, Loss: 0.107909
+Train Epoch: 31, AverageLoss: 0.074426, Oer:0.000000
+training for epoch 31 takes 236.9248549938202 seconds
+
+start evaluating!
+Epoch: 31, batch: 20, loss: 0.092531, aver_batch_oer:0.046604
+Epoch: 31, batch: 40, loss: 0.123868, aver_batch_oer:0.044521
+Epoch: 31, batch: 60, loss: 0.082220, aver_batch_oer:0.048193
+Epoch: 31, batch: 80, loss: 0.149324, aver_batch_oer:0.070607
+Epoch: 31, batch: 100, loss: 0.097876, aver_batch_oer:0.042952
+Test Epoch: 31, Loss: 0.155347, oer:0.060779
+testing for epoch 31 takes 34.322206258773804 seconds
+
+start training!
+Train Epoch: 32, Batch: 20, Loss: 0.092492
+Train Epoch: 32, Batch: 40, Loss: 0.083815
+Train Epoch: 32, Batch: 60, Loss: 0.079288
+Train Epoch: 32, Batch: 80, Loss: 0.048914
+Train Epoch: 32, Batch: 100, Loss: 0.116186
+Train Epoch: 32, Batch: 120, Loss: 0.050388
+Train Epoch: 32, Batch: 140, Loss: 0.082513
+Train Epoch: 32, Batch: 160, Loss: 0.072199
+Train Epoch: 32, Batch: 180, Loss: 0.102511
+Train Epoch: 32, Batch: 200, Loss: 0.033539
+Train Epoch: 32, Batch: 220, Loss: 0.040794
+Train Epoch: 32, Batch: 240, Loss: 0.052978
+Train Epoch: 32, Batch: 260, Loss: 0.069177
+Train Epoch: 32, Batch: 280, Loss: 0.155504
+Train Epoch: 32, Batch: 300, Loss: 0.069966
+Train Epoch: 32, Batch: 320, Loss: 0.042712
+Train Epoch: 32, Batch: 340, Loss: 0.056264
+Train Epoch: 32, Batch: 360, Loss: 0.080636
+Train Epoch: 32, Batch: 380, Loss: 0.069295
+Train Epoch: 32, Batch: 400, Loss: 0.062605
+Train Epoch: 32, AverageLoss: 0.072803, Oer:0.000000
+training for epoch 32 takes 231.8960998058319 seconds
+
+start evaluating!
+Epoch: 32, batch: 20, loss: 0.107006, aver_batch_oer:0.043732
+Epoch: 32, batch: 40, loss: 0.101122, aver_batch_oer:0.035872
+Epoch: 32, batch: 60, loss: 0.046046, aver_batch_oer:0.031232
+Epoch: 32, batch: 80, loss: 0.096789, aver_batch_oer:0.045611
+Epoch: 32, batch: 100, loss: 0.048917, aver_batch_oer:0.028878
+Test Epoch: 32, Loss: 0.112451, oer:0.048206
+testing for epoch 32 takes 36.68246245384216 seconds
+
+start training!
+Train Epoch: 33, Batch: 20, Loss: 0.054587
+Train Epoch: 33, Batch: 40, Loss: 0.098013
+Train Epoch: 33, Batch: 60, Loss: 0.076897
+Train Epoch: 33, Batch: 80, Loss: 0.041101
+Train Epoch: 33, Batch: 100, Loss: 0.040164
+Train Epoch: 33, Batch: 120, Loss: 0.054260
+Train Epoch: 33, Batch: 140, Loss: 0.023248
+Train Epoch: 33, Batch: 160, Loss: 0.113883
+Train Epoch: 33, Batch: 180, Loss: 0.035475
+Train Epoch: 33, Batch: 200, Loss: 0.038752
+Train Epoch: 33, Batch: 220, Loss: 0.049930
+Train Epoch: 33, Batch: 240, Loss: 0.301910
+Train Epoch: 33, Batch: 260, Loss: 0.066384
+Train Epoch: 33, Batch: 280, Loss: 0.037478
+Train Epoch: 33, Batch: 300, Loss: 0.138361
+Train Epoch: 33, Batch: 320, Loss: 0.048028
+Train Epoch: 33, Batch: 340, Loss: 0.144141
+Train Epoch: 33, Batch: 360, Loss: 0.231194
+Train Epoch: 33, Batch: 380, Loss: 0.042536
+Train Epoch: 33, Batch: 400, Loss: 0.037437
+Train Epoch: 33, AverageLoss: 0.076737, Oer:0.000000
+training for epoch 33 takes 226.4171736240387 seconds
+
+start evaluating!
+Epoch: 33, batch: 20, loss: 0.071523, aver_batch_oer:0.033957
+Epoch: 33, batch: 40, loss: 0.136334, aver_batch_oer:0.039773
+Epoch: 33, batch: 60, loss: 0.036802, aver_batch_oer:0.025038
+Epoch: 33, batch: 80, loss: 0.160416, aver_batch_oer:0.063166
+Epoch: 33, batch: 100, loss: 0.046044, aver_batch_oer:0.028899
+Test Epoch: 33, Loss: 0.098187, oer:0.045568
+testing for epoch 33 takes 36.271631479263306 seconds
+
+start training!
+Train Epoch: 34, Batch: 20, Loss: 0.039243
+Train Epoch: 34, Batch: 40, Loss: 0.036722
+Train Epoch: 34, Batch: 60, Loss: 0.102413
+Train Epoch: 34, Batch: 80, Loss: 0.057768
+Train Epoch: 34, Batch: 100, Loss: 0.048222
+Train Epoch: 34, Batch: 120, Loss: 0.073611
+Train Epoch: 34, Batch: 140, Loss: 0.076550
+Train Epoch: 34, Batch: 160, Loss: 0.026063
+Train Epoch: 34, Batch: 180, Loss: 0.046894
+Train Epoch: 34, Batch: 200, Loss: 0.050363
+Train Epoch: 34, Batch: 220, Loss: 0.063439
+Train Epoch: 34, Batch: 240, Loss: 0.058510
+Train Epoch: 34, Batch: 260, Loss: 0.073485
+Train Epoch: 34, Batch: 280, Loss: 0.113588
+Train Epoch: 34, Batch: 300, Loss: 0.046299
+Train Epoch: 34, Batch: 320, Loss: 0.059265
+Train Epoch: 34, Batch: 340, Loss: 0.093107
+Train Epoch: 34, Batch: 360, Loss: 0.031760
+Train Epoch: 34, Batch: 380, Loss: 0.060023
+Train Epoch: 34, Batch: 400, Loss: 0.053867
+Train Epoch: 34, AverageLoss: 0.063784, Oer:0.000000
+training for epoch 34 takes 224.7026824951172 seconds
+
+start evaluating!
+Epoch: 34, batch: 20, loss: 0.086298, aver_batch_oer:0.039397
+Epoch: 34, batch: 40, loss: 0.111243, aver_batch_oer:0.026939
+Epoch: 34, batch: 60, loss: 0.031184, aver_batch_oer:0.021289
+Epoch: 34, batch: 80, loss: 0.085984, aver_batch_oer:0.036091
+Epoch: 34, batch: 100, loss: 0.041721, aver_batch_oer:0.025399
+Test Epoch: 34, Loss: 0.098057, oer:0.043862
+testing for epoch 34 takes 35.99253869056702 seconds
+
+start training!
+Train Epoch: 35, Batch: 20, Loss: 0.025681
+Train Epoch: 35, Batch: 40, Loss: 0.032890
+Train Epoch: 35, Batch: 60, Loss: 0.029548
+Train Epoch: 35, Batch: 80, Loss: 0.072746
+Train Epoch: 35, Batch: 100, Loss: 0.050540
+Train Epoch: 35, Batch: 120, Loss: 0.059073
+Train Epoch: 35, Batch: 140, Loss: 0.045568
+Train Epoch: 35, Batch: 160, Loss: 0.095469
+Train Epoch: 35, Batch: 180, Loss: 0.096721
+Train Epoch: 35, Batch: 200, Loss: 0.098200
+Train Epoch: 35, Batch: 220, Loss: 0.208474
+Train Epoch: 35, Batch: 240, Loss: 0.084708
+Train Epoch: 35, Batch: 260, Loss: 0.061376
+Train Epoch: 35, Batch: 280, Loss: 0.041201
+Train Epoch: 35, Batch: 300, Loss: 0.055939
+Train Epoch: 35, Batch: 320, Loss: 0.035335
+Train Epoch: 35, Batch: 340, Loss: 0.054831
+Train Epoch: 35, Batch: 360, Loss: 0.086444
+Train Epoch: 35, Batch: 380, Loss: 0.032139
+Train Epoch: 35, Batch: 400, Loss: 0.040856
+Train Epoch: 35, AverageLoss: 0.064986, Oer:0.000000
+training for epoch 35 takes 235.96517205238342 seconds
+
+start evaluating!
+Epoch: 35, batch: 20, loss: 0.049546, aver_batch_oer:0.028277
+Epoch: 35, batch: 40, loss: 0.101219, aver_batch_oer:0.030981
+Epoch: 35, batch: 60, loss: 0.026184, aver_batch_oer:0.017019
+Epoch: 35, batch: 80, loss: 0.095357, aver_batch_oer:0.034015
+Epoch: 35, batch: 100, loss: 0.057988, aver_batch_oer:0.029033
+Test Epoch: 35, Loss: 0.098437, oer:0.042022
+testing for epoch 35 takes 35.51331305503845 seconds
+
+start training!
+Train Epoch: 36, Batch: 20, Loss: 0.070433
+Train Epoch: 36, Batch: 40, Loss: 0.078083
+Train Epoch: 36, Batch: 60, Loss: 0.024427
+Train Epoch: 36, Batch: 80, Loss: 0.028384
+Train Epoch: 36, Batch: 100, Loss: 0.094382
+Train Epoch: 36, Batch: 120, Loss: 0.061890
+Train Epoch: 36, Batch: 140, Loss: 0.071776
+Train Epoch: 36, Batch: 160, Loss: 0.032775
+Train Epoch: 36, Batch: 180, Loss: 0.052878
+Train Epoch: 36, Batch: 200, Loss: 0.080935
+Train Epoch: 36, Batch: 220, Loss: 0.042778
+Train Epoch: 36, Batch: 240, Loss: 0.084412
+Train Epoch: 36, Batch: 260, Loss: 0.045984
+Train Epoch: 36, Batch: 280, Loss: 0.040131
+Train Epoch: 36, Batch: 300, Loss: 0.029544
+Train Epoch: 36, Batch: 320, Loss: 0.075405
+Train Epoch: 36, Batch: 340, Loss: 0.031045
+Train Epoch: 36, Batch: 360, Loss: 0.034249
+Train Epoch: 36, Batch: 380, Loss: 0.065345
+Train Epoch: 36, Batch: 400, Loss: 0.094354
+Train Epoch: 36, AverageLoss: 0.051986, Oer:0.000000
+training for epoch 36 takes 225.58499932289124 seconds
+
+start evaluating!
+Epoch: 36, batch: 20, loss: 0.063688, aver_batch_oer:0.027598
+Epoch: 36, batch: 40, loss: 0.106132, aver_batch_oer:0.033270
+Epoch: 36, batch: 60, loss: 0.050874, aver_batch_oer:0.025763
+Epoch: 36, batch: 80, loss: 0.187205, aver_batch_oer:0.053568
+Epoch: 36, batch: 100, loss: 0.043832, aver_batch_oer:0.022501
+Test Epoch: 36, Loss: 0.106789, oer:0.041884
+testing for epoch 36 takes 35.82557940483093 seconds
+
+start training!
+Train Epoch: 37, Batch: 20, Loss: 0.018944
+Train Epoch: 37, Batch: 40, Loss: 0.034973
+Train Epoch: 37, Batch: 60, Loss: 0.061691
+Train Epoch: 37, Batch: 80, Loss: 0.034134
+Train Epoch: 37, Batch: 100, Loss: 0.052330
+Train Epoch: 37, Batch: 120, Loss: 0.060815
+Train Epoch: 37, Batch: 140, Loss: 0.046578
+Train Epoch: 37, Batch: 160, Loss: 0.041089
+Train Epoch: 37, Batch: 180, Loss: 0.024455
+Train Epoch: 37, Batch: 200, Loss: 0.018378
+Train Epoch: 37, Batch: 220, Loss: 0.147911
+Train Epoch: 37, Batch: 240, Loss: 0.063885
+Train Epoch: 37, Batch: 260, Loss: 0.093391
+Train Epoch: 37, Batch: 280, Loss: 0.028628
+Train Epoch: 37, Batch: 300, Loss: 0.068168
+Train Epoch: 37, Batch: 320, Loss: 0.093079
+Train Epoch: 37, Batch: 340, Loss: 0.224356
+Train Epoch: 37, Batch: 360, Loss: 0.027348
+Train Epoch: 37, Batch: 380, Loss: 0.044011
+Train Epoch: 37, Batch: 400, Loss: 0.063228
+Train Epoch: 37, AverageLoss: 0.055971, Oer:0.000000
+training for epoch 37 takes 226.94023513793945 seconds
+
+start evaluating!
+Epoch: 37, batch: 20, loss: 0.061029, aver_batch_oer:0.038021
+Epoch: 37, batch: 40, loss: 0.123099, aver_batch_oer:0.036059
+Epoch: 37, batch: 60, loss: 0.025573, aver_batch_oer:0.014217
+Epoch: 37, batch: 80, loss: 0.140260, aver_batch_oer:0.049951
+Epoch: 37, batch: 100, loss: 0.041330, aver_batch_oer:0.024330
+Test Epoch: 37, Loss: 0.095225, oer:0.038915
+testing for epoch 37 takes 35.704838275909424 seconds
+
+start training!
+Train Epoch: 38, Batch: 20, Loss: 0.068956
+Train Epoch: 38, Batch: 40, Loss: 0.038193
+Train Epoch: 38, Batch: 60, Loss: 0.030834
+Train Epoch: 38, Batch: 80, Loss: 0.045305
+Train Epoch: 38, Batch: 100, Loss: 0.042361
+Train Epoch: 38, Batch: 120, Loss: 0.042939
+Train Epoch: 38, Batch: 140, Loss: 0.051098
+Train Epoch: 38, Batch: 160, Loss: 0.050168
+Train Epoch: 38, Batch: 180, Loss: 0.029977
+Train Epoch: 38, Batch: 200, Loss: 0.042496
+Train Epoch: 38, Batch: 220, Loss: 0.049267
+Train Epoch: 38, Batch: 240, Loss: 0.029480
+Train Epoch: 38, Batch: 260, Loss: 0.041581
+Train Epoch: 38, Batch: 280, Loss: 0.082141
+Train Epoch: 38, Batch: 300, Loss: 0.041126
+Train Epoch: 38, Batch: 320, Loss: 0.061053
+Train Epoch: 38, Batch: 340, Loss: 0.079510
+Train Epoch: 38, Batch: 360, Loss: 0.068107
+Train Epoch: 38, Batch: 380, Loss: 0.047619
+Train Epoch: 38, Batch: 400, Loss: 0.036275
+Train Epoch: 38, AverageLoss: 0.048541, Oer:0.000000
+training for epoch 38 takes 227.62200093269348 seconds
+
+start evaluating!
+Epoch: 38, batch: 20, loss: 0.060975, aver_batch_oer:0.025465
+Epoch: 38, batch: 40, loss: 0.121168, aver_batch_oer:0.028332
+Epoch: 38, batch: 60, loss: 0.031380, aver_batch_oer:0.019904
+Epoch: 38, batch: 80, loss: 0.114687, aver_batch_oer:0.053690
+Epoch: 38, batch: 100, loss: 0.044221, aver_batch_oer:0.022466
+Test Epoch: 38, Loss: 0.093902, oer:0.039564
+testing for epoch 38 takes 35.18576383590698 seconds
+
+start training!
+Train Epoch: 39, Batch: 20, Loss: 0.023375
+Train Epoch: 39, Batch: 40, Loss: 0.044927
+Train Epoch: 39, Batch: 60, Loss: 0.038550
+Train Epoch: 39, Batch: 80, Loss: 0.032482
+Train Epoch: 39, Batch: 100, Loss: 0.045052
+Train Epoch: 39, Batch: 120, Loss: 0.055108
+Train Epoch: 39, Batch: 140, Loss: 0.031375
+Train Epoch: 39, Batch: 160, Loss: 0.044376
+Train Epoch: 39, Batch: 180, Loss: 0.041129
+Train Epoch: 39, Batch: 200, Loss: 0.060846
+Train Epoch: 39, Batch: 220, Loss: 0.028719
+Train Epoch: 39, Batch: 240, Loss: 0.032209
+Train Epoch: 39, Batch: 260, Loss: 0.029614
+Train Epoch: 39, Batch: 280, Loss: 0.057590
+Train Epoch: 39, Batch: 300, Loss: 0.047876
+Train Epoch: 39, Batch: 320, Loss: 0.051061
+Train Epoch: 39, Batch: 340, Loss: 0.034138
+Train Epoch: 39, Batch: 360, Loss: 0.028802
+Train Epoch: 39, Batch: 380, Loss: 0.058039
+Train Epoch: 39, Batch: 400, Loss: 0.055823
+Train Epoch: 39, AverageLoss: 0.050026, Oer:0.000000
+training for epoch 39 takes 229.82511615753174 seconds
+
+start evaluating!
+Epoch: 39, batch: 20, loss: 0.045556, aver_batch_oer:0.028059
+Epoch: 39, batch: 40, loss: 0.102853, aver_batch_oer:0.023774
+Epoch: 39, batch: 60, loss: 0.030466, aver_batch_oer:0.020443
+Epoch: 39, batch: 80, loss: 0.152993, aver_batch_oer:0.057656
+Epoch: 39, batch: 100, loss: 0.047957, aver_batch_oer:0.026772
+Test Epoch: 39, Loss: 0.091804, oer:0.039789
+testing for epoch 39 takes 36.04513168334961 seconds
+
+start training!
+Train Epoch: 40, Batch: 20, Loss: 0.050133
+Train Epoch: 40, Batch: 40, Loss: 0.029792
+Train Epoch: 40, Batch: 60, Loss: 0.033306
+Train Epoch: 40, Batch: 80, Loss: 0.101390
+Train Epoch: 40, Batch: 100, Loss: 0.043124
+Train Epoch: 40, Batch: 120, Loss: 0.028754
+Train Epoch: 40, Batch: 140, Loss: 0.019136
+Train Epoch: 40, Batch: 160, Loss: 0.072015
+Train Epoch: 40, Batch: 180, Loss: 0.045421
+Train Epoch: 40, Batch: 200, Loss: 0.045297
+Train Epoch: 40, Batch: 220, Loss: 0.059800
+Train Epoch: 40, Batch: 240, Loss: 0.044345
+Train Epoch: 40, Batch: 260, Loss: 0.042060
+Train Epoch: 40, Batch: 280, Loss: 0.032612
+Train Epoch: 40, Batch: 300, Loss: 0.028593
+Train Epoch: 40, Batch: 320, Loss: 0.025179
+Train Epoch: 40, Batch: 340, Loss: 0.022280
+Train Epoch: 40, Batch: 360, Loss: 0.044686
+Train Epoch: 40, Batch: 380, Loss: 0.043329
+Train Epoch: 40, Batch: 400, Loss: 0.045530
+Train Epoch: 40, AverageLoss: 0.045942, Oer:0.000000
+training for epoch 40 takes 224.87362098693848 seconds
+
+start evaluating!
+Epoch: 40, batch: 20, loss: 0.032566, aver_batch_oer:0.017764
+Epoch: 40, batch: 40, loss: 0.115558, aver_batch_oer:0.028547
+Epoch: 40, batch: 60, loss: 0.044261, aver_batch_oer:0.028521
+Epoch: 40, batch: 80, loss: 0.161054, aver_batch_oer:0.048240
+Epoch: 40, batch: 100, loss: 0.037009, aver_batch_oer:0.024287
+Test Epoch: 40, Loss: 0.101748, oer:0.040015
+testing for epoch 40 takes 34.03824520111084 seconds
+
+start training!
+Train Epoch: 41, Batch: 20, Loss: 0.022964
+Train Epoch: 41, Batch: 40, Loss: 0.044414
+Train Epoch: 41, Batch: 60, Loss: 0.048598
+Train Epoch: 41, Batch: 80, Loss: 0.137636
+Train Epoch: 41, Batch: 100, Loss: 0.027009
+Train Epoch: 41, Batch: 120, Loss: 0.034559
+Train Epoch: 41, Batch: 140, Loss: 0.061735
+Train Epoch: 41, Batch: 160, Loss: 0.034171
+Train Epoch: 41, Batch: 180, Loss: 0.033555
+Train Epoch: 41, Batch: 200, Loss: 0.030520
+Train Epoch: 41, Batch: 220, Loss: 0.063040
+Train Epoch: 41, Batch: 240, Loss: 0.030228
+Train Epoch: 41, Batch: 260, Loss: 0.022698
+Train Epoch: 41, Batch: 280, Loss: 0.018957
+Train Epoch: 41, Batch: 300, Loss: 0.048636
+Train Epoch: 41, Batch: 320, Loss: 0.025286
+Train Epoch: 41, Batch: 340, Loss: 0.033123
+Train Epoch: 41, Batch: 360, Loss: 0.072353
+Train Epoch: 41, Batch: 380, Loss: 0.031326
+Train Epoch: 41, Batch: 400, Loss: 0.030736
+Train Epoch: 41, AverageLoss: 0.043630, Oer:0.000000
+training for epoch 41 takes 234.77452540397644 seconds
+
+start evaluating!
+Epoch: 41, batch: 20, loss: 0.040848, aver_batch_oer:0.025929
+Epoch: 41, batch: 40, loss: 0.127454, aver_batch_oer:0.032994
+Epoch: 41, batch: 60, loss: 0.028331, aver_batch_oer:0.017129
+Epoch: 41, batch: 80, loss: 0.081688, aver_batch_oer:0.038338
+Epoch: 41, batch: 100, loss: 0.043936, aver_batch_oer:0.026198
+Test Epoch: 41, Loss: 0.089105, oer:0.039012
+testing for epoch 41 takes 35.387696504592896 seconds
+
+start training!
+Train Epoch: 42, Batch: 20, Loss: 0.020304
+Train Epoch: 42, Batch: 40, Loss: 0.033087
+Train Epoch: 42, Batch: 60, Loss: 0.020804
+Train Epoch: 42, Batch: 80, Loss: 0.051169
+Train Epoch: 42, Batch: 100, Loss: 0.021181
+Train Epoch: 42, Batch: 120, Loss: 0.040193
+Train Epoch: 42, Batch: 140, Loss: 0.030289
+Train Epoch: 42, Batch: 160, Loss: 0.024043
+Train Epoch: 42, Batch: 180, Loss: 0.042527
+Train Epoch: 42, Batch: 200, Loss: 0.037284
+Train Epoch: 42, Batch: 220, Loss: 0.028286
+Train Epoch: 42, Batch: 240, Loss: 0.028823
+Train Epoch: 42, Batch: 260, Loss: 0.020457
+Train Epoch: 42, Batch: 280, Loss: 0.075229
+Train Epoch: 42, Batch: 300, Loss: 0.041928
+Train Epoch: 42, Batch: 320, Loss: 0.058510
+Train Epoch: 42, Batch: 340, Loss: 0.027857
+Train Epoch: 42, Batch: 360, Loss: 0.032208
+Train Epoch: 42, Batch: 380, Loss: 0.038093
+Train Epoch: 42, Batch: 400, Loss: 0.049109
+Train Epoch: 42, AverageLoss: 0.040527, Oer:0.000000
+training for epoch 42 takes 232.1372799873352 seconds
+
+start evaluating!
+Epoch: 42, batch: 20, loss: 0.058231, aver_batch_oer:0.029867
+Epoch: 42, batch: 40, loss: 0.117431, aver_batch_oer:0.026239
+Epoch: 42, batch: 60, loss: 0.043146, aver_batch_oer:0.020903
+Epoch: 42, batch: 80, loss: 0.214425, aver_batch_oer:0.059106
+Epoch: 42, batch: 100, loss: 0.034607, aver_batch_oer:0.022642
+Test Epoch: 42, Loss: 0.125249, oer:0.047451
+testing for epoch 42 takes 36.44330596923828 seconds
+
+start training!
+Train Epoch: 43, Batch: 20, Loss: 0.021489
+Train Epoch: 43, Batch: 40, Loss: 0.024340
+Train Epoch: 43, Batch: 60, Loss: 0.018502
+Train Epoch: 43, Batch: 80, Loss: 0.076292
+Train Epoch: 43, Batch: 100, Loss: 0.047347
+Train Epoch: 43, Batch: 120, Loss: 0.060712
+Train Epoch: 43, Batch: 140, Loss: 0.034203
+Train Epoch: 43, Batch: 160, Loss: 0.028284
+Train Epoch: 43, Batch: 180, Loss: 0.041284
+Train Epoch: 43, Batch: 200, Loss: 0.046718
+Train Epoch: 43, Batch: 220, Loss: 0.032512
+Train Epoch: 43, Batch: 240, Loss: 0.034592
+Train Epoch: 43, Batch: 260, Loss: 0.029600
+Train Epoch: 43, Batch: 280, Loss: 0.030145
+Train Epoch: 43, Batch: 300, Loss: 0.040282
+Train Epoch: 43, Batch: 320, Loss: 0.036849
+Train Epoch: 43, Batch: 340, Loss: 0.030105
+Train Epoch: 43, Batch: 360, Loss: 0.019588
+Train Epoch: 43, Batch: 380, Loss: 0.036869
+Train Epoch: 43, Batch: 400, Loss: 0.038869
+Train Epoch: 43, AverageLoss: 0.038296, Oer:0.000000
+training for epoch 43 takes 231.2002944946289 seconds
+
+start evaluating!
+Epoch: 43, batch: 20, loss: 0.043907, aver_batch_oer:0.026431
+Epoch: 43, batch: 40, loss: 0.136498, aver_batch_oer:0.026117
+Epoch: 43, batch: 60, loss: 0.026136, aver_batch_oer:0.015121
+Epoch: 43, batch: 80, loss: 0.136484, aver_batch_oer:0.040886
+Epoch: 43, batch: 100, loss: 0.026387, aver_batch_oer:0.017394
+Test Epoch: 43, Loss: 0.094432, oer:0.036069
+testing for epoch 43 takes 35.80265140533447 seconds
+
+start training!
+Train Epoch: 44, Batch: 20, Loss: 0.024311
+Train Epoch: 44, Batch: 40, Loss: 0.039170
+Train Epoch: 44, Batch: 60, Loss: 0.027954
+Train Epoch: 44, Batch: 80, Loss: 0.042842
+Train Epoch: 44, Batch: 100, Loss: 0.062497
+Train Epoch: 44, Batch: 120, Loss: 0.020484
+Train Epoch: 44, Batch: 140, Loss: 0.017528
+Train Epoch: 44, Batch: 160, Loss: 0.039171
+Train Epoch: 44, Batch: 180, Loss: 0.026092
+Train Epoch: 44, Batch: 200, Loss: 0.018019
+Train Epoch: 44, Batch: 220, Loss: 0.049233
+Train Epoch: 44, Batch: 240, Loss: 0.043639
+Train Epoch: 44, Batch: 260, Loss: 0.040722
+Train Epoch: 44, Batch: 280, Loss: 0.026006
+Train Epoch: 44, Batch: 300, Loss: 0.025661
+Train Epoch: 44, Batch: 320, Loss: 0.139203
+Train Epoch: 44, Batch: 340, Loss: 0.043650
+Train Epoch: 44, Batch: 360, Loss: 0.026138
+Train Epoch: 44, Batch: 380, Loss: 0.063852
+Train Epoch: 44, Batch: 400, Loss: 0.023048
+Train Epoch: 44, AverageLoss: 0.035920, Oer:0.000000
+training for epoch 44 takes 227.81508493423462 seconds
+
+start evaluating!
+Epoch: 44, batch: 20, loss: 0.066997, aver_batch_oer:0.034587
+Epoch: 44, batch: 40, loss: 0.130575, aver_batch_oer:0.026348
+Epoch: 44, batch: 60, loss: 0.022971, aver_batch_oer:0.016749
+Epoch: 44, batch: 80, loss: 0.106801, aver_batch_oer:0.033395
+Epoch: 44, batch: 100, loss: 0.034402, aver_batch_oer:0.021010
+Test Epoch: 44, Loss: 0.103962, oer:0.040756
+testing for epoch 44 takes 35.71512532234192 seconds
+
+start training!
+Train Epoch: 45, Batch: 20, Loss: 0.017633
+Train Epoch: 45, Batch: 40, Loss: 0.023660
+Train Epoch: 45, Batch: 60, Loss: 0.024556
+Train Epoch: 45, Batch: 80, Loss: 0.023033
+Train Epoch: 45, Batch: 100, Loss: 0.023810
+Train Epoch: 45, Batch: 120, Loss: 0.024702
+Train Epoch: 45, Batch: 140, Loss: 0.023986
+Train Epoch: 45, Batch: 160, Loss: 0.084123
+Train Epoch: 45, Batch: 180, Loss: 0.076851
+Train Epoch: 45, Batch: 200, Loss: 0.040405
+Train Epoch: 45, Batch: 220, Loss: 0.025514
+Train Epoch: 45, Batch: 240, Loss: 0.027192
+Train Epoch: 45, Batch: 260, Loss: 0.035954
+Train Epoch: 45, Batch: 280, Loss: 0.019593
+Train Epoch: 45, Batch: 300, Loss: 0.029496
+Train Epoch: 45, Batch: 320, Loss: 0.030584
+Train Epoch: 45, Batch: 340, Loss: 0.026452
+Train Epoch: 45, Batch: 360, Loss: 0.023249
+Train Epoch: 45, Batch: 380, Loss: 0.031211
+Train Epoch: 45, Batch: 400, Loss: 0.044488
+Train Epoch: 45, AverageLoss: 0.035682, Oer:0.000000
+training for epoch 45 takes 230.8429946899414 seconds
+
+start evaluating!
+Epoch: 45, batch: 20, loss: 0.033579, aver_batch_oer:0.022759
+Epoch: 45, batch: 40, loss: 0.130570, aver_batch_oer:0.027412
+Epoch: 45, batch: 60, loss: 0.025545, aver_batch_oer:0.017141
+Epoch: 45, batch: 80, loss: 0.183632, aver_batch_oer:0.055549
+Epoch: 45, batch: 100, loss: 0.038348, aver_batch_oer:0.021118
+Test Epoch: 45, Loss: 0.100567, oer:0.037531
+testing for epoch 45 takes 35.79782438278198 seconds
+
+start training!
+Train Epoch: 46, Batch: 20, Loss: 0.028954
+Train Epoch: 46, Batch: 40, Loss: 0.035239
+Train Epoch: 46, Batch: 60, Loss: 0.024078
+Train Epoch: 46, Batch: 80, Loss: 0.047984
+Train Epoch: 46, Batch: 100, Loss: 0.035016
+Train Epoch: 46, Batch: 120, Loss: 0.026761
+Train Epoch: 46, Batch: 140, Loss: 0.049199
+Train Epoch: 46, Batch: 160, Loss: 0.036730
+Train Epoch: 46, Batch: 180, Loss: 0.029858
+Train Epoch: 46, Batch: 200, Loss: 0.016970
+Train Epoch: 46, Batch: 220, Loss: 0.019859
+Train Epoch: 46, Batch: 240, Loss: 0.023652
+Train Epoch: 46, Batch: 260, Loss: 0.028350
+Train Epoch: 46, Batch: 280, Loss: 0.035081
+Train Epoch: 46, Batch: 300, Loss: 0.036425
+Train Epoch: 46, Batch: 320, Loss: 0.041989
+Train Epoch: 46, Batch: 340, Loss: 0.022600
+Train Epoch: 46, Batch: 360, Loss: 0.027582
+Train Epoch: 46, Batch: 380, Loss: 0.017026
+Train Epoch: 46, Batch: 400, Loss: 0.026272
+Train Epoch: 46, AverageLoss: 0.028263, Oer:0.000000
+training for epoch 46 takes 227.66490197181702 seconds
+
+start evaluating!
+Epoch: 46, batch: 20, loss: 0.057641, aver_batch_oer:0.026734
+Epoch: 46, batch: 40, loss: 0.147296, aver_batch_oer:0.030843
+Epoch: 46, batch: 60, loss: 0.035372, aver_batch_oer:0.023800
+Epoch: 46, batch: 80, loss: 0.171625, aver_batch_oer:0.050669
+Epoch: 46, batch: 100, loss: 0.042283, aver_batch_oer:0.025181
+Test Epoch: 46, Loss: 0.112423, oer:0.038407
+testing for epoch 46 takes 35.960208892822266 seconds
+
+start training!
+Train Epoch: 47, Batch: 20, Loss: 0.018975
+Train Epoch: 47, Batch: 40, Loss: 0.023562
+Train Epoch: 47, Batch: 60, Loss: 0.019153
+Train Epoch: 47, Batch: 80, Loss: 0.019918
+Train Epoch: 47, Batch: 100, Loss: 0.030249
+Train Epoch: 47, Batch: 120, Loss: 0.036800
+Train Epoch: 47, Batch: 140, Loss: 0.035617
+Train Epoch: 47, Batch: 160, Loss: 0.051770
+Train Epoch: 47, Batch: 180, Loss: 0.048840
+Train Epoch: 47, Batch: 200, Loss: 0.039249
+Train Epoch: 47, Batch: 220, Loss: 0.040048
+Train Epoch: 47, Batch: 240, Loss: 0.087996
+Train Epoch: 47, Batch: 260, Loss: 0.032951
+Train Epoch: 47, Batch: 280, Loss: 0.019552
+Train Epoch: 47, Batch: 300, Loss: 0.026869
+Train Epoch: 47, Batch: 320, Loss: 0.041978
+Train Epoch: 47, Batch: 340, Loss: 0.026131
+Train Epoch: 47, Batch: 360, Loss: 0.032058
+Train Epoch: 47, Batch: 380, Loss: 0.095417
+Train Epoch: 47, Batch: 400, Loss: 0.074083
+Train Epoch: 47, AverageLoss: 0.036440, Oer:0.000000
+training for epoch 47 takes 229.68520593643188 seconds
+
+start evaluating!
+Epoch: 47, batch: 20, loss: 0.159286, aver_batch_oer:0.034874
+Epoch: 47, batch: 40, loss: 0.155238, aver_batch_oer:0.037296
+Epoch: 47, batch: 60, loss: 0.051767, aver_batch_oer:0.031178
+Epoch: 47, batch: 80, loss: 0.208493, aver_batch_oer:0.066928
+Epoch: 47, batch: 100, loss: 0.045897, aver_batch_oer:0.022963
+Test Epoch: 47, Loss: 0.147099, oer:0.049663
+testing for epoch 47 takes 36.31337642669678 seconds
+
+start training!
+Train Epoch: 48, Batch: 20, Loss: 0.036999
+Train Epoch: 48, Batch: 40, Loss: 0.041821
+Train Epoch: 48, Batch: 60, Loss: 0.030663
+Train Epoch: 48, Batch: 80, Loss: 0.028451
+Train Epoch: 48, Batch: 100, Loss: 0.018493
+Train Epoch: 48, Batch: 120, Loss: 0.023465
+Train Epoch: 48, Batch: 140, Loss: 0.016783
+Train Epoch: 48, Batch: 160, Loss: 0.025045
+Train Epoch: 48, Batch: 180, Loss: 0.024124
+Train Epoch: 48, Batch: 200, Loss: 0.018215
+Train Epoch: 48, Batch: 220, Loss: 0.025614
+Train Epoch: 48, Batch: 240, Loss: 0.019184
+Train Epoch: 48, Batch: 260, Loss: 0.024738
+Train Epoch: 48, Batch: 280, Loss: 0.019406
+Train Epoch: 48, Batch: 300, Loss: 0.021222
+Train Epoch: 48, Batch: 320, Loss: 0.042605
+Train Epoch: 48, Batch: 340, Loss: 0.030060
+Train Epoch: 48, Batch: 360, Loss: 0.017241
+Train Epoch: 48, Batch: 380, Loss: 0.017546
+Train Epoch: 48, Batch: 400, Loss: 0.026755
+Train Epoch: 48, AverageLoss: 0.027771, Oer:0.000000
+training for epoch 48 takes 234.1991810798645 seconds
+
+start evaluating!
+Epoch: 48, batch: 20, loss: 0.034064, aver_batch_oer:0.021899
+Epoch: 48, batch: 40, loss: 0.131223, aver_batch_oer:0.022689
+Epoch: 48, batch: 60, loss: 0.018937, aver_batch_oer:0.014149
+Epoch: 48, batch: 80, loss: 0.157228, aver_batch_oer:0.044085
+Epoch: 48, batch: 100, loss: 0.031216, aver_batch_oer:0.018904
+Test Epoch: 48, Loss: 0.110148, oer:0.036368
+testing for epoch 48 takes 35.808542013168335 seconds
+
+start training!
+Train Epoch: 49, Batch: 20, Loss: 0.015645
+Train Epoch: 49, Batch: 40, Loss: 0.031326
+Train Epoch: 49, Batch: 60, Loss: 0.013065
+Train Epoch: 49, Batch: 80, Loss: 0.023705
+Train Epoch: 49, Batch: 100, Loss: 0.025358
+Train Epoch: 49, Batch: 120, Loss: 0.020989
+Train Epoch: 49, Batch: 140, Loss: 0.017322
+Train Epoch: 49, Batch: 160, Loss: 0.028283
+Train Epoch: 49, Batch: 180, Loss: 0.012763
+Train Epoch: 49, Batch: 200, Loss: 0.019878
+Train Epoch: 49, Batch: 220, Loss: 0.022357
+Train Epoch: 49, Batch: 240, Loss: 0.023191
+Train Epoch: 49, Batch: 260, Loss: 0.019231
+Train Epoch: 49, Batch: 280, Loss: 0.031683
+Train Epoch: 49, Batch: 300, Loss: 0.032800
+Train Epoch: 49, Batch: 320, Loss: 0.035438
+Train Epoch: 49, Batch: 340, Loss: 0.026092
+Train Epoch: 49, Batch: 360, Loss: 0.165121
+Train Epoch: 49, Batch: 380, Loss: 0.034310
+Train Epoch: 49, Batch: 400, Loss: 0.035175
+Train Epoch: 49, AverageLoss: 0.028327, Oer:0.000000
+training for epoch 49 takes 224.264883518219 seconds
+
+start evaluating!
+Epoch: 49, batch: 20, loss: 0.031284, aver_batch_oer:0.020725
+Epoch: 49, batch: 40, loss: 0.122020, aver_batch_oer:0.036009
+Epoch: 49, batch: 60, loss: 0.029594, aver_batch_oer:0.018333
+Epoch: 49, batch: 80, loss: 0.140032, aver_batch_oer:0.046255
+Epoch: 49, batch: 100, loss: 0.032388, aver_batch_oer:0.021048
+Test Epoch: 49, Loss: 0.099243, oer:0.038384
+testing for epoch 49 takes 32.600517988204956 seconds
+
+start training!
+Train Epoch: 50, Batch: 20, Loss: 0.032798
+Train Epoch: 50, Batch: 40, Loss: 0.029623
+Train Epoch: 50, Batch: 60, Loss: 0.029624
+Train Epoch: 50, Batch: 80, Loss: 0.014262
+Train Epoch: 50, Batch: 100, Loss: 0.017250
+Train Epoch: 50, Batch: 120, Loss: 0.036444
+Train Epoch: 50, Batch: 140, Loss: 0.035128
+Train Epoch: 50, Batch: 160, Loss: 0.014328
+Train Epoch: 50, Batch: 180, Loss: 0.024341
+Train Epoch: 50, Batch: 200, Loss: 0.034268
+Train Epoch: 50, Batch: 220, Loss: 0.020962
+Train Epoch: 50, Batch: 240, Loss: 0.018330
+Train Epoch: 50, Batch: 260, Loss: 0.022953
+Train Epoch: 50, Batch: 280, Loss: 0.024438
+Train Epoch: 50, Batch: 300, Loss: 0.023261
+Train Epoch: 50, Batch: 320, Loss: 0.060598
+Train Epoch: 50, Batch: 340, Loss: 0.026372
+Train Epoch: 50, Batch: 360, Loss: 0.028501
+Train Epoch: 50, Batch: 380, Loss: 0.020727
+Train Epoch: 50, Batch: 400, Loss: 0.068660
+Train Epoch: 50, AverageLoss: 0.031471, Oer:0.000000
+training for epoch 50 takes 225.94802021980286 seconds
+
+start evaluating!
+Epoch: 50, batch: 20, loss: 0.046048, aver_batch_oer:0.022670
+Epoch: 50, batch: 40, loss: 0.133381, aver_batch_oer:0.023063
+Epoch: 50, batch: 60, loss: 0.028089, aver_batch_oer:0.018621
+Epoch: 50, batch: 80, loss: 0.187141, aver_batch_oer:0.061240
+Epoch: 50, batch: 100, loss: 0.041221, aver_batch_oer:0.024642
+Test Epoch: 50, Loss: 0.112450, oer:0.039825
+testing for epoch 50 takes 36.34068274497986 seconds
+
+start training!
+Train Epoch: 51, Batch: 20, Loss: 0.021506
+Train Epoch: 51, Batch: 40, Loss: 0.027922
+Train Epoch: 51, Batch: 60, Loss: 0.023191
+Train Epoch: 51, Batch: 80, Loss: 0.033574
+Train Epoch: 51, Batch: 100, Loss: 0.028395
+Train Epoch: 51, Batch: 120, Loss: 0.022053
+Train Epoch: 51, Batch: 140, Loss: 0.016169
+Train Epoch: 51, Batch: 160, Loss: 0.031583
+Train Epoch: 51, Batch: 180, Loss: 0.029538
+Train Epoch: 51, Batch: 200, Loss: 0.039826
+Train Epoch: 51, Batch: 220, Loss: 0.023488
+Train Epoch: 51, Batch: 240, Loss: 0.019808
+Train Epoch: 51, Batch: 260, Loss: 0.028439
+Train Epoch: 51, Batch: 280, Loss: 0.020836
+Train Epoch: 51, Batch: 300, Loss: 0.017948
+Train Epoch: 51, Batch: 320, Loss: 0.054318
+Train Epoch: 51, Batch: 340, Loss: 0.043483
+Train Epoch: 51, Batch: 360, Loss: 0.025797
+Train Epoch: 51, Batch: 380, Loss: 0.023860
+Train Epoch: 51, Batch: 400, Loss: 0.031431
+Train Epoch: 51, AverageLoss: 0.030110, Oer:0.000000
+training for epoch 51 takes 228.82614612579346 seconds
+
+start evaluating!
+Epoch: 51, batch: 20, loss: 0.048393, aver_batch_oer:0.024168
+Epoch: 51, batch: 40, loss: 0.147086, aver_batch_oer:0.026630
+Epoch: 51, batch: 60, loss: 0.032899, aver_batch_oer:0.020375
+Epoch: 51, batch: 80, loss: 0.220383, aver_batch_oer:0.055059
+Epoch: 51, batch: 100, loss: 0.068572, aver_batch_oer:0.031578
+Test Epoch: 51, Loss: 0.119029, oer:0.039516
+testing for epoch 51 takes 36.30733633041382 seconds
+
+start training!
+Train Epoch: 52, Batch: 20, Loss: 0.026956
+Train Epoch: 52, Batch: 40, Loss: 0.044829
+Train Epoch: 52, Batch: 60, Loss: 0.016635
+Train Epoch: 52, Batch: 80, Loss: 0.042599
+Train Epoch: 52, Batch: 100, Loss: 0.016079
+Train Epoch: 52, Batch: 120, Loss: 0.020198
+Train Epoch: 52, Batch: 140, Loss: 0.016555
+Train Epoch: 52, Batch: 160, Loss: 0.012163
+Train Epoch: 52, Batch: 180, Loss: 0.018932
+Train Epoch: 52, Batch: 200, Loss: 0.022530
+Train Epoch: 52, Batch: 220, Loss: 0.045285
+Train Epoch: 52, Batch: 240, Loss: 0.046058
+Train Epoch: 52, Batch: 260, Loss: 0.023314
+Train Epoch: 52, Batch: 280, Loss: 0.023076
+Train Epoch: 52, Batch: 300, Loss: 0.026815
+Train Epoch: 52, Batch: 320, Loss: 0.014107
+Train Epoch: 52, Batch: 340, Loss: 0.029931
+Train Epoch: 52, Batch: 360, Loss: 0.029386
+Train Epoch: 52, Batch: 380, Loss: 0.018761
+Train Epoch: 52, Batch: 400, Loss: 0.033247
+Train Epoch: 52, AverageLoss: 0.023129, Oer:0.000000
+training for epoch 52 takes 223.50919699668884 seconds
+
+start evaluating!
+Epoch: 52, batch: 20, loss: 0.035753, aver_batch_oer:0.019517
+Epoch: 52, batch: 40, loss: 0.142944, aver_batch_oer:0.026254
+Epoch: 52, batch: 60, loss: 0.063538, aver_batch_oer:0.029751
+Epoch: 52, batch: 80, loss: 0.196703, aver_batch_oer:0.049625
+Epoch: 52, batch: 100, loss: 0.033308, aver_batch_oer:0.022795
+Test Epoch: 52, Loss: 0.112238, oer:0.035997
+testing for epoch 52 takes 35.18749523162842 seconds
+
+start training!
+Train Epoch: 53, Batch: 20, Loss: 0.017969
+Train Epoch: 53, Batch: 40, Loss: 0.019019
+Train Epoch: 53, Batch: 60, Loss: 0.025186
+Train Epoch: 53, Batch: 80, Loss: 0.017561
+Train Epoch: 53, Batch: 100, Loss: 0.017859
+Train Epoch: 53, Batch: 120, Loss: 0.014933
+Train Epoch: 53, Batch: 140, Loss: 0.021065
+Train Epoch: 53, Batch: 160, Loss: 0.023418
+Train Epoch: 53, Batch: 180, Loss: 0.012005
+Train Epoch: 53, Batch: 200, Loss: 0.022213
+Train Epoch: 53, Batch: 220, Loss: 0.016397
+Train Epoch: 53, Batch: 240, Loss: 0.019658
+Train Epoch: 53, Batch: 260, Loss: 0.034516
+Train Epoch: 53, Batch: 280, Loss: 0.019523
+Train Epoch: 53, Batch: 300, Loss: 0.032349
+Train Epoch: 53, Batch: 320, Loss: 0.014293
+Train Epoch: 53, Batch: 340, Loss: 0.015653
+Train Epoch: 53, Batch: 360, Loss: 0.024821
+Train Epoch: 53, Batch: 380, Loss: 0.019721
+Train Epoch: 53, Batch: 400, Loss: 0.018164
+Train Epoch: 53, AverageLoss: 0.019941, Oer:0.000000
+training for epoch 53 takes 232.5092339515686 seconds
+
+start evaluating!
+Epoch: 53, batch: 20, loss: 0.037903, aver_batch_oer:0.020192
+Epoch: 53, batch: 40, loss: 0.149228, aver_batch_oer:0.023091
+Epoch: 53, batch: 60, loss: 0.037131, aver_batch_oer:0.022688
+Epoch: 53, batch: 80, loss: 0.161571, aver_batch_oer:0.048244
+Epoch: 53, batch: 100, loss: 0.030041, aver_batch_oer:0.017359
+Test Epoch: 53, Loss: 0.118529, oer:0.035557
+testing for epoch 53 takes 35.93628215789795 seconds
+
+start training!
+Train Epoch: 54, Batch: 20, Loss: 0.017847
+Train Epoch: 54, Batch: 40, Loss: 0.014282
+Train Epoch: 54, Batch: 60, Loss: 0.020104
+Train Epoch: 54, Batch: 80, Loss: 0.014828
+Train Epoch: 54, Batch: 100, Loss: 0.037394
+Train Epoch: 54, Batch: 120, Loss: 0.033488
+Train Epoch: 54, Batch: 140, Loss: 0.084423
+Train Epoch: 54, Batch: 160, Loss: 0.088408
+Train Epoch: 54, Batch: 180, Loss: 0.027584
+Train Epoch: 54, Batch: 200, Loss: 0.027184
+Train Epoch: 54, Batch: 220, Loss: 0.036357
+Train Epoch: 54, Batch: 240, Loss: 0.026816
+Train Epoch: 54, Batch: 260, Loss: 0.030216
+Train Epoch: 54, Batch: 280, Loss: 0.028794
+Train Epoch: 54, Batch: 300, Loss: 0.019465
+Train Epoch: 54, Batch: 320, Loss: 0.047348
+Train Epoch: 54, Batch: 340, Loss: 0.024099
+Train Epoch: 54, Batch: 360, Loss: 0.024935
+Train Epoch: 54, Batch: 380, Loss: 0.021418
+Train Epoch: 54, Batch: 400, Loss: 0.023103
+Train Epoch: 54, AverageLoss: 0.034704, Oer:0.000000
+training for epoch 54 takes 224.65506649017334 seconds
+
+start evaluating!
+Epoch: 54, batch: 20, loss: 0.045704, aver_batch_oer:0.024858
+Epoch: 54, batch: 40, loss: 0.137298, aver_batch_oer:0.022975
+Epoch: 54, batch: 60, loss: 0.028270, aver_batch_oer:0.019636
+Epoch: 54, batch: 80, loss: 0.161809, aver_batch_oer:0.057497
+Epoch: 54, batch: 100, loss: 0.031330, aver_batch_oer:0.019815
+Test Epoch: 54, Loss: 0.106352, oer:0.037134
+testing for epoch 54 takes 35.63231372833252 seconds
+
+start training!
+Train Epoch: 55, Batch: 20, Loss: 0.012468
+Train Epoch: 55, Batch: 40, Loss: 0.016445
+Train Epoch: 55, Batch: 60, Loss: 0.019349
+Train Epoch: 55, Batch: 80, Loss: 0.018670
+Train Epoch: 55, Batch: 100, Loss: 0.021238
+Train Epoch: 55, Batch: 120, Loss: 0.015158
+Train Epoch: 55, Batch: 140, Loss: 0.016653
+Train Epoch: 55, Batch: 160, Loss: 0.020080
+Train Epoch: 55, Batch: 180, Loss: 0.018490
+Train Epoch: 55, Batch: 200, Loss: 0.026114
+Train Epoch: 55, Batch: 220, Loss: 0.014104
+Train Epoch: 55, Batch: 240, Loss: 0.020933
+Train Epoch: 55, Batch: 260, Loss: 0.020855
+Train Epoch: 55, Batch: 280, Loss: 0.031048
+Train Epoch: 55, Batch: 300, Loss: 0.027170
+Train Epoch: 55, Batch: 320, Loss: 0.015136
+Train Epoch: 55, Batch: 340, Loss: 0.016859
+Train Epoch: 55, Batch: 360, Loss: 0.015791
+Train Epoch: 55, Batch: 380, Loss: 0.023419
+Train Epoch: 55, Batch: 400, Loss: 0.019429
+Train Epoch: 55, AverageLoss: 0.020072, Oer:0.000000
+training for epoch 55 takes 232.08844757080078 seconds
+
+start evaluating!
+Epoch: 55, batch: 20, loss: 0.047259, aver_batch_oer:0.023452
+Epoch: 55, batch: 40, loss: 0.161684, aver_batch_oer:0.025442
+Epoch: 55, batch: 60, loss: 0.028691, aver_batch_oer:0.017451
+Epoch: 55, batch: 80, loss: 0.170672, aver_batch_oer:0.045520
+Epoch: 55, batch: 100, loss: 0.023339, aver_batch_oer:0.017272
+Test Epoch: 55, Loss: 0.110821, oer:0.034573
+testing for epoch 55 takes 31.39971160888672 seconds
+
+start training!
+Train Epoch: 56, Batch: 20, Loss: 0.014845
+Train Epoch: 56, Batch: 40, Loss: 0.020332
+Train Epoch: 56, Batch: 60, Loss: 0.017289
+Train Epoch: 56, Batch: 80, Loss: 0.014430
+Train Epoch: 56, Batch: 100, Loss: 0.022931
+Train Epoch: 56, Batch: 120, Loss: 0.025255
+Train Epoch: 56, Batch: 140, Loss: 0.018968
+Train Epoch: 56, Batch: 160, Loss: 0.011467
+Train Epoch: 56, Batch: 180, Loss: 0.018241
+Train Epoch: 56, Batch: 200, Loss: 0.017037
+Train Epoch: 56, Batch: 220, Loss: 0.017415
+Train Epoch: 56, Batch: 240, Loss: 0.016060
+Train Epoch: 56, Batch: 260, Loss: 0.014708
+Train Epoch: 56, Batch: 280, Loss: 0.017218
+Train Epoch: 56, Batch: 300, Loss: 0.015160
+Train Epoch: 56, Batch: 320, Loss: 0.019624
+Train Epoch: 56, Batch: 340, Loss: 0.016088
+Train Epoch: 56, Batch: 360, Loss: 0.016312
+Train Epoch: 56, Batch: 380, Loss: 0.018984
+Train Epoch: 56, Batch: 400, Loss: 0.013783
+Train Epoch: 56, AverageLoss: 0.018066, Oer:0.000000
+training for epoch 56 takes 223.95283222198486 seconds
+
+start evaluating!
+Epoch: 56, batch: 20, loss: 0.053327, aver_batch_oer:0.023849
+Epoch: 56, batch: 40, loss: 0.155203, aver_batch_oer:0.026393
+Epoch: 56, batch: 60, loss: 0.024382, aver_batch_oer:0.019288
+Epoch: 56, batch: 80, loss: 0.161819, aver_batch_oer:0.047174
+Epoch: 56, batch: 100, loss: 0.025653, aver_batch_oer:0.018904
+Test Epoch: 56, Loss: 0.113756, oer:0.033778
+testing for epoch 56 takes 36.501338958740234 seconds
+
+start training!
+Train Epoch: 57, Batch: 20, Loss: 0.015243
+Train Epoch: 57, Batch: 40, Loss: 0.020369
+Train Epoch: 57, Batch: 60, Loss: 0.036011
+Train Epoch: 57, Batch: 80, Loss: 0.011992
+Train Epoch: 57, Batch: 100, Loss: 0.022833
+Train Epoch: 57, Batch: 120, Loss: 0.013767
+Train Epoch: 57, Batch: 140, Loss: 0.015934
+Train Epoch: 57, Batch: 160, Loss: 0.015648
+Train Epoch: 57, Batch: 180, Loss: 0.019147
+Train Epoch: 57, Batch: 200, Loss: 0.017374
+Train Epoch: 57, Batch: 220, Loss: 0.011249
+Train Epoch: 57, Batch: 240, Loss: 0.017169
+Train Epoch: 57, Batch: 260, Loss: 0.019920
+Train Epoch: 57, Batch: 280, Loss: 0.016731
+Train Epoch: 57, Batch: 300, Loss: 0.016700
+Train Epoch: 57, Batch: 320, Loss: 0.015727
+Train Epoch: 57, Batch: 340, Loss: 0.013733
+Train Epoch: 57, Batch: 360, Loss: 0.040487
+Train Epoch: 57, Batch: 380, Loss: 0.051254
+Train Epoch: 57, Batch: 400, Loss: 0.057491
+Train Epoch: 57, AverageLoss: 0.022395, Oer:0.000000
+training for epoch 57 takes 226.5135862827301 seconds
+
+start evaluating!
+Epoch: 57, batch: 20, loss: 0.038055, aver_batch_oer:0.023684
+Epoch: 57, batch: 40, loss: 0.217396, aver_batch_oer:0.043144
+Epoch: 57, batch: 60, loss: 0.045967, aver_batch_oer:0.026642
+Epoch: 57, batch: 80, loss: 0.136371, aver_batch_oer:0.046799
+Epoch: 57, batch: 100, loss: 0.035681, aver_batch_oer:0.022054
+Test Epoch: 57, Loss: 0.127076, oer:0.043130
+testing for epoch 57 takes 35.919058322906494 seconds
+
+start training!
+Train Epoch: 58, Batch: 20, Loss: 0.028808
+Train Epoch: 58, Batch: 40, Loss: 0.037159
+Train Epoch: 58, Batch: 60, Loss: 0.022296
+Train Epoch: 58, Batch: 80, Loss: 0.035627
+Train Epoch: 58, Batch: 100, Loss: 0.014295
+Train Epoch: 58, Batch: 120, Loss: 0.019090
+Train Epoch: 58, Batch: 140, Loss: 0.019989
+Train Epoch: 58, Batch: 160, Loss: 0.015316
+Train Epoch: 58, Batch: 180, Loss: 0.015794
+Train Epoch: 58, Batch: 200, Loss: 0.012138
+Train Epoch: 58, Batch: 220, Loss: 0.019801
+Train Epoch: 58, Batch: 240, Loss: 0.031575
+Train Epoch: 58, Batch: 260, Loss: 0.062175
+Train Epoch: 58, Batch: 280, Loss: 0.045762
+Train Epoch: 58, Batch: 300, Loss: 0.024540
+Train Epoch: 58, Batch: 320, Loss: 0.020153
+Train Epoch: 58, Batch: 340, Loss: 0.023718
+Train Epoch: 58, Batch: 360, Loss: 0.015756
+Train Epoch: 58, Batch: 380, Loss: 0.022256
+Train Epoch: 58, Batch: 400, Loss: 0.022919
+Train Epoch: 58, AverageLoss: 0.028212, Oer:0.000000
+training for epoch 58 takes 225.8174946308136 seconds
+
+start evaluating!
+Epoch: 58, batch: 20, loss: 0.036836, aver_batch_oer:0.017588
+Epoch: 58, batch: 40, loss: 0.157515, aver_batch_oer:0.026632
+Epoch: 58, batch: 60, loss: 0.042328, aver_batch_oer:0.023720
+Epoch: 58, batch: 80, loss: 0.146643, aver_batch_oer:0.035643
+Epoch: 58, batch: 100, loss: 0.039321, aver_batch_oer:0.020168
+Test Epoch: 58, Loss: 0.110006, oer:0.034453
+testing for epoch 58 takes 35.028608560562134 seconds
+
+start training!
+Train Epoch: 59, Batch: 20, Loss: 0.013816
+Train Epoch: 59, Batch: 40, Loss: 0.012394
+Train Epoch: 59, Batch: 60, Loss: 0.033500
+Train Epoch: 59, Batch: 80, Loss: 0.014569
+Train Epoch: 59, Batch: 100, Loss: 0.018083
+Train Epoch: 59, Batch: 120, Loss: 0.026369
+Train Epoch: 59, Batch: 140, Loss: 0.016684
+Train Epoch: 59, Batch: 160, Loss: 0.035527
+Train Epoch: 59, Batch: 180, Loss: 0.026809
+Train Epoch: 59, Batch: 200, Loss: 0.016224
+Train Epoch: 59, Batch: 220, Loss: 0.017198
+Train Epoch: 59, Batch: 240, Loss: 0.021019
+Train Epoch: 59, Batch: 260, Loss: 0.016916
+Train Epoch: 59, Batch: 280, Loss: 0.016665
+Train Epoch: 59, Batch: 300, Loss: 0.020795
+Train Epoch: 59, Batch: 320, Loss: 0.010931
+Train Epoch: 59, Batch: 340, Loss: 0.021006
+Train Epoch: 59, Batch: 360, Loss: 0.018112
+Train Epoch: 59, Batch: 380, Loss: 0.014024
+Train Epoch: 59, Batch: 400, Loss: 0.014207
+Train Epoch: 59, AverageLoss: 0.018321, Oer:0.000000
+training for epoch 59 takes 222.35082387924194 seconds
+
+start evaluating!
+Epoch: 59, batch: 20, loss: 0.056868, aver_batch_oer:0.025321
+Epoch: 59, batch: 40, loss: 0.136516, aver_batch_oer:0.025576
+Epoch: 59, batch: 60, loss: 0.046796, aver_batch_oer:0.022040
+Epoch: 59, batch: 80, loss: 0.118373, aver_batch_oer:0.025320
+Epoch: 59, batch: 100, loss: 0.029447, aver_batch_oer:0.015973
+Test Epoch: 59, Loss: 0.114145, oer:0.033322
+testing for epoch 59 takes 36.56994414329529 seconds
+
+start training!
+Train Epoch: 60, Batch: 20, Loss: 0.020024
+Train Epoch: 60, Batch: 40, Loss: 0.018688
+Train Epoch: 60, Batch: 60, Loss: 0.015887
+Train Epoch: 60, Batch: 80, Loss: 0.013242
+Train Epoch: 60, Batch: 100, Loss: 0.011706
+Train Epoch: 60, Batch: 120, Loss: 0.029120
+Train Epoch: 60, Batch: 140, Loss: 0.017495
+Train Epoch: 60, Batch: 160, Loss: 0.015582
+Train Epoch: 60, Batch: 180, Loss: 0.012172
+Train Epoch: 60, Batch: 200, Loss: 0.018474
+Train Epoch: 60, Batch: 220, Loss: 0.016771
+Train Epoch: 60, Batch: 240, Loss: 0.017526
+Train Epoch: 60, Batch: 260, Loss: 0.019439
+Train Epoch: 60, Batch: 280, Loss: 0.014494
+Train Epoch: 60, Batch: 300, Loss: 0.020644
+Train Epoch: 60, Batch: 320, Loss: 0.022674
+Train Epoch: 60, Batch: 340, Loss: 0.025190
+Train Epoch: 60, Batch: 360, Loss: 0.021154
+Train Epoch: 60, Batch: 380, Loss: 0.010929
+Train Epoch: 60, Batch: 400, Loss: 0.019995
+Train Epoch: 60, AverageLoss: 0.017180, Oer:0.000000
+training for epoch 60 takes 224.59339451789856 seconds
+
+start evaluating!
+Epoch: 60, batch: 20, loss: 0.034485, aver_batch_oer:0.019225
+Epoch: 60, batch: 40, loss: 0.158319, aver_batch_oer:0.024642
+Epoch: 60, batch: 60, loss: 0.019121, aver_batch_oer:0.014114
+Epoch: 60, batch: 80, loss: 0.148072, aver_batch_oer:0.040182
+Epoch: 60, batch: 100, loss: 0.041079, aver_batch_oer:0.019657
+Test Epoch: 60, Loss: 0.115394, oer:0.032383
+testing for epoch 60 takes 36.11818218231201 seconds
+
+start training!
+Train Epoch: 61, Batch: 20, Loss: 0.016985
+Train Epoch: 61, Batch: 40, Loss: 0.018733
+Train Epoch: 61, Batch: 60, Loss: 0.016749
+Train Epoch: 61, Batch: 80, Loss: 0.019988
+Train Epoch: 61, Batch: 100, Loss: 0.013905
+Train Epoch: 61, Batch: 120, Loss: 0.015009
+Train Epoch: 61, Batch: 140, Loss: 0.017900
+Train Epoch: 61, Batch: 160, Loss: 0.018459
+Train Epoch: 61, Batch: 180, Loss: 0.016411
+Train Epoch: 61, Batch: 200, Loss: 0.020202
+Train Epoch: 61, Batch: 220, Loss: 0.018709
+Train Epoch: 61, Batch: 240, Loss: 0.019690
+Train Epoch: 61, Batch: 260, Loss: 0.014016
+Train Epoch: 61, Batch: 280, Loss: 0.016047
+Train Epoch: 61, Batch: 300, Loss: 0.013255
+Train Epoch: 61, Batch: 320, Loss: 0.015548
+Train Epoch: 61, Batch: 340, Loss: 0.011706
+Train Epoch: 61, Batch: 360, Loss: 0.017360
+Train Epoch: 61, Batch: 380, Loss: 0.014427
+Train Epoch: 61, Batch: 400, Loss: 0.015719
+Train Epoch: 61, AverageLoss: 0.016528, Oer:0.000000
+training for epoch 61 takes 222.75131392478943 seconds
+
+start evaluating!
+Epoch: 61, batch: 20, loss: 0.037652, aver_batch_oer:0.018487
+Epoch: 61, batch: 40, loss: 0.162767, aver_batch_oer:0.025929
+Epoch: 61, batch: 60, loss: 0.024542, aver_batch_oer:0.017248
+Epoch: 61, batch: 80, loss: 0.160737, aver_batch_oer:0.046215
+Epoch: 61, batch: 100, loss: 0.043629, aver_batch_oer:0.021386
+Test Epoch: 61, Loss: 0.119483, oer:0.033826
+testing for epoch 61 takes 35.99651098251343 seconds
+
+start training!
+Train Epoch: 62, Batch: 20, Loss: 0.019439
+Train Epoch: 62, Batch: 40, Loss: 0.014902
+Train Epoch: 62, Batch: 60, Loss: 0.018920
+Train Epoch: 62, Batch: 80, Loss: 0.018504
+Train Epoch: 62, Batch: 100, Loss: 0.030024
+Train Epoch: 62, Batch: 120, Loss: 0.028896
+Train Epoch: 62, Batch: 140, Loss: 0.044141
+Train Epoch: 62, Batch: 160, Loss: 0.042182
+Train Epoch: 62, Batch: 180, Loss: 0.037478
+Train Epoch: 62, Batch: 200, Loss: 0.094093
+Train Epoch: 62, Batch: 220, Loss: 0.056782
+Train Epoch: 62, Batch: 240, Loss: 0.030828
+Train Epoch: 62, Batch: 260, Loss: 0.023583
+Train Epoch: 62, Batch: 280, Loss: 0.022547
+Train Epoch: 62, Batch: 300, Loss: 0.037471
+Train Epoch: 62, Batch: 320, Loss: 0.021007
+Train Epoch: 62, Batch: 340, Loss: 0.022234
+Train Epoch: 62, Batch: 360, Loss: 0.028225
+Train Epoch: 62, Batch: 380, Loss: 0.017352
+Train Epoch: 62, Batch: 400, Loss: 0.021833
+Train Epoch: 62, AverageLoss: 0.032313, Oer:0.000000
+training for epoch 62 takes 225.13592624664307 seconds
+
+start evaluating!
+Epoch: 62, batch: 20, loss: 0.037529, aver_batch_oer:0.020451
+Epoch: 62, batch: 40, loss: 0.157703, aver_batch_oer:0.030630
+Epoch: 62, batch: 60, loss: 0.058034, aver_batch_oer:0.023618
+Epoch: 62, batch: 80, loss: 0.129405, aver_batch_oer:0.031643
+Epoch: 62, batch: 100, loss: 0.038986, aver_batch_oer:0.020524
+Test Epoch: 62, Loss: 0.105392, oer:0.033840
+testing for epoch 62 takes 35.87266755104065 seconds
+
+start training!
+Train Epoch: 63, Batch: 20, Loss: 0.025783
+Train Epoch: 63, Batch: 40, Loss: 0.020156
+Train Epoch: 63, Batch: 60, Loss: 0.016650
+Train Epoch: 63, Batch: 80, Loss: 0.026563
+Train Epoch: 63, Batch: 100, Loss: 0.021182
+Train Epoch: 63, Batch: 120, Loss: 0.016890
+Train Epoch: 63, Batch: 140, Loss: 0.021285
+Train Epoch: 63, Batch: 160, Loss: 0.012869
+Train Epoch: 63, Batch: 180, Loss: 0.030123
+Train Epoch: 63, Batch: 200, Loss: 0.044812
+Train Epoch: 63, Batch: 220, Loss: 0.113278
+Train Epoch: 63, Batch: 240, Loss: 0.026528
+Train Epoch: 63, Batch: 260, Loss: 0.045299
+Train Epoch: 63, Batch: 280, Loss: 0.023868
+Train Epoch: 63, Batch: 300, Loss: 0.016821
+Train Epoch: 63, Batch: 320, Loss: 0.045222
+Train Epoch: 63, Batch: 340, Loss: 0.020195
+Train Epoch: 63, Batch: 360, Loss: 0.012659
+Train Epoch: 63, Batch: 380, Loss: 0.016495
+Train Epoch: 63, Batch: 400, Loss: 0.024938
+Train Epoch: 63, AverageLoss: 0.024564, Oer:0.000000
+training for epoch 63 takes 224.89813446998596 seconds
+
+start evaluating!
+Epoch: 63, batch: 20, loss: 0.024916, aver_batch_oer:0.016155
+Epoch: 63, batch: 40, loss: 0.181768, aver_batch_oer:0.027367
+Epoch: 63, batch: 60, loss: 0.044057, aver_batch_oer:0.019993
+Epoch: 63, batch: 80, loss: 0.164548, aver_batch_oer:0.046665
+Epoch: 63, batch: 100, loss: 0.035288, aver_batch_oer:0.018704
+Test Epoch: 63, Loss: 0.108454, oer:0.034555
+testing for epoch 63 takes 35.27809929847717 seconds
+
+start training!
+Train Epoch: 64, Batch: 20, Loss: 0.017777
+Train Epoch: 64, Batch: 40, Loss: 0.012008
+Train Epoch: 64, Batch: 60, Loss: 0.036314
+Train Epoch: 64, Batch: 80, Loss: 0.014622
+Train Epoch: 64, Batch: 100, Loss: 0.013572
+Train Epoch: 64, Batch: 120, Loss: 0.021244
+Train Epoch: 64, Batch: 140, Loss: 0.011775
+Train Epoch: 64, Batch: 160, Loss: 0.027328
+Train Epoch: 64, Batch: 180, Loss: 0.014277
+Train Epoch: 64, Batch: 200, Loss: 0.010692
+Train Epoch: 64, Batch: 220, Loss: 0.024898
+Train Epoch: 64, Batch: 240, Loss: 0.030876
+Train Epoch: 64, Batch: 260, Loss: 0.018989
+Train Epoch: 64, Batch: 280, Loss: 0.018472
+Train Epoch: 64, Batch: 300, Loss: 0.021118
+Train Epoch: 64, Batch: 320, Loss: 0.015129
+Train Epoch: 64, Batch: 340, Loss: 0.014862
+Train Epoch: 64, Batch: 360, Loss: 0.015004
+Train Epoch: 64, Batch: 380, Loss: 0.033840
+Train Epoch: 64, Batch: 400, Loss: 0.015277
+Train Epoch: 64, AverageLoss: 0.017021, Oer:0.000000
+training for epoch 64 takes 230.3850860595703 seconds
+
+start evaluating!
+Epoch: 64, batch: 20, loss: 0.031581, aver_batch_oer:0.020908
+Epoch: 64, batch: 40, loss: 0.166875, aver_batch_oer:0.027155
+Epoch: 64, batch: 60, loss: 0.037028, aver_batch_oer:0.024115
+Epoch: 64, batch: 80, loss: 0.154658, aver_batch_oer:0.044169
+Epoch: 64, batch: 100, loss: 0.044464, aver_batch_oer:0.020904
+Test Epoch: 64, Loss: 0.117496, oer:0.034432
+testing for epoch 64 takes 36.828675985336304 seconds
+
+start training!
+Train Epoch: 65, Batch: 20, Loss: 0.019736
+Train Epoch: 65, Batch: 40, Loss: 0.013805
+Train Epoch: 65, Batch: 60, Loss: 0.018057
+Train Epoch: 65, Batch: 80, Loss: 0.011453
+Train Epoch: 65, Batch: 100, Loss: 0.016681
+Train Epoch: 65, Batch: 120, Loss: 0.017408
+Train Epoch: 65, Batch: 140, Loss: 0.020262
+Train Epoch: 65, Batch: 160, Loss: 0.017254
+Train Epoch: 65, Batch: 180, Loss: 0.016025
+Train Epoch: 65, Batch: 200, Loss: 0.018168
+Train Epoch: 65, Batch: 220, Loss: 0.017843
+Train Epoch: 65, Batch: 240, Loss: 0.014127
+Train Epoch: 65, Batch: 260, Loss: 0.012813
+Train Epoch: 65, Batch: 280, Loss: 0.018053
+Train Epoch: 65, Batch: 300, Loss: 0.018064
+Train Epoch: 65, Batch: 320, Loss: 0.023421
+Train Epoch: 65, Batch: 340, Loss: 0.017589
+Train Epoch: 65, Batch: 360, Loss: 0.010340
+Train Epoch: 65, Batch: 380, Loss: 0.017724
+Train Epoch: 65, Batch: 400, Loss: 0.019289
+Train Epoch: 65, AverageLoss: 0.016223, Oer:0.000000
+training for epoch 65 takes 219.93617248535156 seconds
+
+start evaluating!
+Epoch: 65, batch: 20, loss: 0.031867, aver_batch_oer:0.019883
+Epoch: 65, batch: 40, loss: 0.184475, aver_batch_oer:0.026039
+Epoch: 65, batch: 60, loss: 0.036625, aver_batch_oer:0.020820
+Epoch: 65, batch: 80, loss: 0.197209, aver_batch_oer:0.047417
+Epoch: 65, batch: 100, loss: 0.038040, aver_batch_oer:0.019950
+Test Epoch: 65, Loss: 0.120993, oer:0.033891
+testing for epoch 65 takes 35.47339701652527 seconds
+
+start training!
+Train Epoch: 66, Batch: 20, Loss: 0.009683
+Train Epoch: 66, Batch: 40, Loss: 0.012702
+Train Epoch: 66, Batch: 60, Loss: 0.015408
+Train Epoch: 66, Batch: 80, Loss: 0.012567
+Train Epoch: 66, Batch: 100, Loss: 0.010449
+Train Epoch: 66, Batch: 120, Loss: 0.009266
+Train Epoch: 66, Batch: 140, Loss: 0.014959
+Train Epoch: 66, Batch: 160, Loss: 0.012638
+Train Epoch: 66, Batch: 180, Loss: 0.019971
+Train Epoch: 66, Batch: 200, Loss: 0.016679
+Train Epoch: 66, Batch: 220, Loss: 0.011261
+Train Epoch: 66, Batch: 240, Loss: 0.012000
+Train Epoch: 66, Batch: 260, Loss: 0.013417
+Train Epoch: 66, Batch: 280, Loss: 0.014316
+Train Epoch: 66, Batch: 300, Loss: 0.016866
+Train Epoch: 66, Batch: 320, Loss: 0.013071
+Train Epoch: 66, Batch: 340, Loss: 0.016055
+Train Epoch: 66, Batch: 360, Loss: 0.014543
+Train Epoch: 66, Batch: 380, Loss: 0.014421
+Train Epoch: 66, Batch: 400, Loss: 0.009916
+Train Epoch: 66, AverageLoss: 0.015853, Oer:0.000000
+training for epoch 66 takes 225.42647528648376 seconds
+
+start evaluating!
+Epoch: 66, batch: 20, loss: 0.030740, aver_batch_oer:0.017580
+Epoch: 66, batch: 40, loss: 0.195903, aver_batch_oer:0.027750
+Epoch: 66, batch: 60, loss: 0.035975, aver_batch_oer:0.018736
+Epoch: 66, batch: 80, loss: 0.225851, aver_batch_oer:0.048543
+Epoch: 66, batch: 100, loss: 0.040547, aver_batch_oer:0.019368
+Test Epoch: 66, Loss: 0.123325, oer:0.033728
+testing for epoch 66 takes 35.994017124176025 seconds
+
+start training!
+Train Epoch: 67, Batch: 20, Loss: 0.019739
+Train Epoch: 67, Batch: 40, Loss: 0.013201
+Train Epoch: 67, Batch: 60, Loss: 0.025675
+Train Epoch: 67, Batch: 80, Loss: 0.021177
+Train Epoch: 67, Batch: 100, Loss: 0.015179
+Train Epoch: 67, Batch: 120, Loss: 0.011384
+Train Epoch: 67, Batch: 140, Loss: 0.025679
+Train Epoch: 67, Batch: 160, Loss: 0.017690
+Train Epoch: 67, Batch: 180, Loss: 0.011162
+Train Epoch: 67, Batch: 200, Loss: 0.020515
+Train Epoch: 67, Batch: 220, Loss: 0.018143
+Train Epoch: 67, Batch: 240, Loss: 0.014784
+Train Epoch: 67, Batch: 260, Loss: 0.016655
+Train Epoch: 67, Batch: 280, Loss: 0.013244
+Train Epoch: 67, Batch: 300, Loss: 0.018998
+Train Epoch: 67, Batch: 320, Loss: 0.017002
+Train Epoch: 67, Batch: 340, Loss: 0.012336
+Train Epoch: 67, Batch: 360, Loss: 0.015344
+Train Epoch: 67, Batch: 380, Loss: 0.014915
+Train Epoch: 67, Batch: 400, Loss: 0.019211
+Train Epoch: 67, AverageLoss: 0.015723, Oer:0.000000
+training for epoch 67 takes 225.0212800502777 seconds
+
+start evaluating!
+Epoch: 67, batch: 20, loss: 0.041326, aver_batch_oer:0.019936
+Epoch: 67, batch: 40, loss: 0.201138, aver_batch_oer:0.028820
+Epoch: 67, batch: 60, loss: 0.036518, aver_batch_oer:0.020659
+Epoch: 67, batch: 80, loss: 0.170925, aver_batch_oer:0.047903
+Epoch: 67, batch: 100, loss: 0.025814, aver_batch_oer:0.018364
+Test Epoch: 67, Loss: 0.124704, oer:0.033024
+testing for epoch 67 takes 35.21763038635254 seconds
+
+start training!
+Train Epoch: 68, Batch: 20, Loss: 0.014299
+Train Epoch: 68, Batch: 40, Loss: 0.016868
+Train Epoch: 68, Batch: 60, Loss: 0.014023
+Train Epoch: 68, Batch: 80, Loss: 0.015893
+Train Epoch: 68, Batch: 100, Loss: 0.018385
+Train Epoch: 68, Batch: 120, Loss: 0.014637
+Train Epoch: 68, Batch: 140, Loss: 0.014316
+Train Epoch: 68, Batch: 160, Loss: 0.012495
+Train Epoch: 68, Batch: 180, Loss: 0.016905
+Train Epoch: 68, Batch: 200, Loss: 0.014082
+Train Epoch: 68, Batch: 220, Loss: 0.025877
+Train Epoch: 68, Batch: 240, Loss: 0.016827
+Train Epoch: 68, Batch: 260, Loss: 0.021756
+Train Epoch: 68, Batch: 280, Loss: 0.026225
+Train Epoch: 68, Batch: 300, Loss: 0.050879
+Train Epoch: 68, Batch: 320, Loss: 0.023586
+Train Epoch: 68, Batch: 340, Loss: 0.083361
+Train Epoch: 68, Batch: 360, Loss: 0.025697
+Train Epoch: 68, Batch: 380, Loss: 0.068383
+Train Epoch: 68, Batch: 400, Loss: 0.035610
+Train Epoch: 68, AverageLoss: 0.023615, Oer:0.000000
+training for epoch 68 takes 226.49261808395386 seconds
+
+start evaluating!
+Epoch: 68, batch: 20, loss: 0.136828, aver_batch_oer:0.036356
+Epoch: 68, batch: 40, loss: 0.173469, aver_batch_oer:0.037123
+Epoch: 68, batch: 60, loss: 0.113119, aver_batch_oer:0.045155
+Epoch: 68, batch: 80, loss: 0.106454, aver_batch_oer:0.038442
+Epoch: 68, batch: 100, loss: 0.077268, aver_batch_oer:0.027699
+Test Epoch: 68, Loss: 0.169781, oer:0.051827
+testing for epoch 68 takes 35.730855226516724 seconds
+
+start training!
+Train Epoch: 69, Batch: 20, Loss: 0.034620
+Train Epoch: 69, Batch: 40, Loss: 0.016557
+Train Epoch: 69, Batch: 60, Loss: 0.019870
+Train Epoch: 69, Batch: 80, Loss: 0.020029
+Train Epoch: 69, Batch: 100, Loss: 0.015021
+Train Epoch: 69, Batch: 120, Loss: 0.018168
+Train Epoch: 69, Batch: 140, Loss: 0.019371
+Train Epoch: 69, Batch: 160, Loss: 0.020033
+Train Epoch: 69, Batch: 180, Loss: 0.018162
+Train Epoch: 69, Batch: 200, Loss: 0.015472
+Train Epoch: 69, Batch: 220, Loss: 0.018591
+Train Epoch: 69, Batch: 240, Loss: 0.018760
+Train Epoch: 69, Batch: 260, Loss: 0.014759
+Train Epoch: 69, Batch: 280, Loss: 0.018531
+Train Epoch: 69, Batch: 300, Loss: 0.012635
+Train Epoch: 69, Batch: 320, Loss: 0.019892
+Train Epoch: 69, Batch: 340, Loss: 0.012827
+Train Epoch: 69, Batch: 360, Loss: 0.012263
+Train Epoch: 69, Batch: 380, Loss: 0.027843
+Train Epoch: 69, Batch: 400, Loss: 0.018720
+Train Epoch: 69, AverageLoss: 0.019701, Oer:0.000000
+training for epoch 69 takes 221.93183588981628 seconds
+
+start evaluating!
+Epoch: 69, batch: 20, loss: 0.041888, aver_batch_oer:0.022268
+Epoch: 69, batch: 40, loss: 0.178136, aver_batch_oer:0.026393
+Epoch: 69, batch: 60, loss: 0.024172, aver_batch_oer:0.018454
+Epoch: 69, batch: 80, loss: 0.154290, aver_batch_oer:0.047888
+Epoch: 69, batch: 100, loss: 0.053915, aver_batch_oer:0.024560
+Test Epoch: 69, Loss: 0.121361, oer:0.034749
+testing for epoch 69 takes 35.86033082008362 seconds
+
+start training!
+Train Epoch: 70, Batch: 20, Loss: 0.016611
+Train Epoch: 70, Batch: 40, Loss: 0.019341
+Train Epoch: 70, Batch: 60, Loss: 0.012907
+Train Epoch: 70, Batch: 80, Loss: 0.025251
+Train Epoch: 70, Batch: 100, Loss: 0.016737
+Train Epoch: 70, Batch: 120, Loss: 0.013907
+Train Epoch: 70, Batch: 140, Loss: 0.012085
+Train Epoch: 70, Batch: 160, Loss: 0.011969
+Train Epoch: 70, Batch: 180, Loss: 0.011511
+Train Epoch: 70, Batch: 200, Loss: 0.027413
+Train Epoch: 70, Batch: 220, Loss: 0.023633
+Train Epoch: 70, Batch: 240, Loss: 0.014042
+Train Epoch: 70, Batch: 260, Loss: 0.013981
+Train Epoch: 70, Batch: 280, Loss: 0.011923
+Train Epoch: 70, Batch: 300, Loss: 0.018090
+Train Epoch: 70, Batch: 320, Loss: 0.025694
+Train Epoch: 70, Batch: 340, Loss: 0.013587
+Train Epoch: 70, Batch: 360, Loss: 0.018152
+Train Epoch: 70, Batch: 380, Loss: 0.026632
+Train Epoch: 70, Batch: 400, Loss: 0.020705
+Train Epoch: 70, AverageLoss: 0.016022, Oer:0.000000
+training for epoch 70 takes 222.5924928188324 seconds
+
+start evaluating!
+Epoch: 70, batch: 20, loss: 0.034189, aver_batch_oer:0.019035
+Epoch: 70, batch: 40, loss: 0.177903, aver_batch_oer:0.025089
+Epoch: 70, batch: 60, loss: 0.022768, aver_batch_oer:0.017065
+Epoch: 70, batch: 80, loss: 0.108837, aver_batch_oer:0.041860
+Epoch: 70, batch: 100, loss: 0.052591, aver_batch_oer:0.023632
+Test Epoch: 70, Loss: 0.122216, oer:0.033943
+testing for epoch 70 takes 35.549854040145874 seconds
+
+start training!
+Train Epoch: 71, Batch: 20, Loss: 0.017960
+Train Epoch: 71, Batch: 40, Loss: 0.016133
+Train Epoch: 71, Batch: 60, Loss: 0.014064
+Train Epoch: 71, Batch: 80, Loss: 0.020357
+Train Epoch: 71, Batch: 100, Loss: 0.014475
+Train Epoch: 71, Batch: 120, Loss: 0.012897
+Train Epoch: 71, Batch: 140, Loss: 0.017424
+Train Epoch: 71, Batch: 160, Loss: 0.018093
+Train Epoch: 71, Batch: 180, Loss: 0.012150
+Train Epoch: 71, Batch: 200, Loss: 0.016647
+Train Epoch: 71, Batch: 220, Loss: 0.018227
+Train Epoch: 71, Batch: 240, Loss: 0.013462
+Train Epoch: 71, Batch: 260, Loss: 0.008672
+Train Epoch: 71, Batch: 280, Loss: 0.013605
+Train Epoch: 71, Batch: 300, Loss: 0.014648
+Train Epoch: 71, Batch: 320, Loss: 0.016147
+Train Epoch: 71, Batch: 340, Loss: 0.012590
+Train Epoch: 71, Batch: 360, Loss: 0.013895
+Train Epoch: 71, Batch: 380, Loss: 0.012308
+Train Epoch: 71, Batch: 400, Loss: 0.018232
+Train Epoch: 71, AverageLoss: 0.015383, Oer:0.000000
+training for epoch 71 takes 226.1992495059967 seconds
+
+start evaluating!
+Epoch: 71, batch: 20, loss: 0.034651, aver_batch_oer:0.020217
+Epoch: 71, batch: 40, loss: 0.175607, aver_batch_oer:0.025432
+Epoch: 71, batch: 60, loss: 0.028062, aver_batch_oer:0.019261
+Epoch: 71, batch: 80, loss: 0.143231, aver_batch_oer:0.043570
+Epoch: 71, batch: 100, loss: 0.038230, aver_batch_oer:0.020269
+Test Epoch: 71, Loss: 0.125779, oer:0.032861
+testing for epoch 71 takes 35.843114137649536 seconds
+
+start training!
+Train Epoch: 72, Batch: 20, Loss: 0.009237
+Train Epoch: 72, Batch: 40, Loss: 0.013904
+Train Epoch: 72, Batch: 60, Loss: 0.012639
+Train Epoch: 72, Batch: 80, Loss: 0.013561
+Train Epoch: 72, Batch: 100, Loss: 0.015915
+Train Epoch: 72, Batch: 120, Loss: 0.009461
+Train Epoch: 72, Batch: 140, Loss: 0.014254
+Train Epoch: 72, Batch: 160, Loss: 0.018209
+Train Epoch: 72, Batch: 180, Loss: 0.020791
+Train Epoch: 72, Batch: 200, Loss: 0.012560
+Train Epoch: 72, Batch: 220, Loss: 0.014444
+Train Epoch: 72, Batch: 240, Loss: 0.014547
+Train Epoch: 72, Batch: 260, Loss: 0.014706
+Train Epoch: 72, Batch: 280, Loss: 0.013420
+Train Epoch: 72, Batch: 300, Loss: 0.017489
+Train Epoch: 72, Batch: 320, Loss: 0.014187
+Train Epoch: 72, Batch: 340, Loss: 0.015680
+Train Epoch: 72, Batch: 360, Loss: 0.015494
+Train Epoch: 72, Batch: 380, Loss: 0.017801
+Train Epoch: 72, Batch: 400, Loss: 0.018940
+Train Epoch: 72, AverageLoss: 0.015217, Oer:0.000000
+training for epoch 72 takes 222.2577245235443 seconds
+
+start evaluating!
+Epoch: 72, batch: 20, loss: 0.041477, aver_batch_oer:0.020152
+Epoch: 72, batch: 40, loss: 0.214690, aver_batch_oer:0.031140
+Epoch: 72, batch: 60, loss: 0.041220, aver_batch_oer:0.020674
+Epoch: 72, batch: 80, loss: 0.132349, aver_batch_oer:0.048291
+Epoch: 72, batch: 100, loss: 0.045849, aver_batch_oer:0.021656
+Test Epoch: 72, Loss: 0.127309, oer:0.033659
+testing for epoch 72 takes 35.51705479621887 seconds
+
+start training!
+Train Epoch: 73, Batch: 20, Loss: 0.016613
+Train Epoch: 73, Batch: 40, Loss: 0.014066
+Train Epoch: 73, Batch: 60, Loss: 0.025279
+Train Epoch: 73, Batch: 80, Loss: 0.013644
+Train Epoch: 73, Batch: 100, Loss: 0.023322
+Train Epoch: 73, Batch: 120, Loss: 0.014187
+Train Epoch: 73, Batch: 140, Loss: 0.018978
+Train Epoch: 73, Batch: 160, Loss: 0.010312
+Train Epoch: 73, Batch: 180, Loss: 0.017069
+Train Epoch: 73, Batch: 200, Loss: 0.012523
+Train Epoch: 73, Batch: 220, Loss: 0.014766
+Train Epoch: 73, Batch: 240, Loss: 0.013245
+Train Epoch: 73, Batch: 260, Loss: 0.016031
+Train Epoch: 73, Batch: 280, Loss: 0.020414
+Train Epoch: 73, Batch: 300, Loss: 0.014763
+Train Epoch: 73, Batch: 320, Loss: 0.018965
+Train Epoch: 73, Batch: 340, Loss: 0.013736
+Train Epoch: 73, Batch: 360, Loss: 0.014001
+Train Epoch: 73, Batch: 380, Loss: 0.012842
+Train Epoch: 73, Batch: 400, Loss: 0.014642
+Train Epoch: 73, AverageLoss: 0.015006, Oer:0.000000
+training for epoch 73 takes 223.68937611579895 seconds
+
+start evaluating!
+Epoch: 73, batch: 20, loss: 0.041113, aver_batch_oer:0.019265
+Epoch: 73, batch: 40, loss: 0.206780, aver_batch_oer:0.025867
+Epoch: 73, batch: 60, loss: 0.017401, aver_batch_oer:0.015407
+Epoch: 73, batch: 80, loss: 0.228774, aver_batch_oer:0.050019
+Epoch: 73, batch: 100, loss: 0.052748, aver_batch_oer:0.020777
+Test Epoch: 73, Loss: 0.133367, oer:0.034484
+testing for epoch 73 takes 36.643518924713135 seconds
+
+start training!
+Train Epoch: 74, Batch: 20, Loss: 0.019946
+Train Epoch: 74, Batch: 40, Loss: 0.009181
+Train Epoch: 74, Batch: 60, Loss: 0.016607
+Train Epoch: 74, Batch: 80, Loss: 0.018879
+Train Epoch: 74, Batch: 100, Loss: 0.015170
+Train Epoch: 74, Batch: 120, Loss: 0.013229
+Train Epoch: 74, Batch: 140, Loss: 0.012906
+Train Epoch: 74, Batch: 160, Loss: 0.013710
+Train Epoch: 74, Batch: 180, Loss: 0.016725
+Train Epoch: 74, Batch: 200, Loss: 0.015586
+Train Epoch: 74, Batch: 220, Loss: 0.011455
+Train Epoch: 74, Batch: 240, Loss: 0.014033
+Train Epoch: 74, Batch: 260, Loss: 0.012430
+Train Epoch: 74, Batch: 280, Loss: 0.014465
+Train Epoch: 74, Batch: 300, Loss: 0.024314
+Train Epoch: 74, Batch: 320, Loss: 0.011207
+Train Epoch: 74, Batch: 340, Loss: 0.016929
+Train Epoch: 74, Batch: 360, Loss: 0.012147
+Train Epoch: 74, Batch: 380, Loss: 0.021402
+Train Epoch: 74, Batch: 400, Loss: 0.015485
+Train Epoch: 74, AverageLoss: 0.015290, Oer:0.000000
+training for epoch 74 takes 225.74025082588196 seconds
+
+start evaluating!
+Epoch: 74, batch: 20, loss: 0.053538, aver_batch_oer:0.026771
+Epoch: 74, batch: 40, loss: 0.186321, aver_batch_oer:0.030251
+Epoch: 74, batch: 60, loss: 0.024795, aver_batch_oer:0.017599
+Epoch: 74, batch: 80, loss: 0.190747, aver_batch_oer:0.053225
+Epoch: 74, batch: 100, loss: 0.054285, aver_batch_oer:0.022030
+Test Epoch: 74, Loss: 0.138826, oer:0.034491
+testing for epoch 74 takes 35.91314649581909 seconds
+
+start training!
+Train Epoch: 75, Batch: 20, Loss: 0.015649
+Train Epoch: 75, Batch: 40, Loss: 0.011966
+Train Epoch: 75, Batch: 60, Loss: 0.015279
+Train Epoch: 75, Batch: 80, Loss: 0.014827
+Train Epoch: 75, Batch: 100, Loss: 0.046043
+Train Epoch: 75, Batch: 120, Loss: 0.094210
+Train Epoch: 75, Batch: 140, Loss: 0.057857
+Train Epoch: 75, Batch: 160, Loss: 0.024493
+Train Epoch: 75, Batch: 180, Loss: 0.026802
+Train Epoch: 75, Batch: 200, Loss: 0.013906
+Train Epoch: 75, Batch: 220, Loss: 0.015291
+Train Epoch: 75, Batch: 240, Loss: 0.013445
+Train Epoch: 75, Batch: 260, Loss: 0.015730
+Train Epoch: 75, Batch: 280, Loss: 0.021056
+Train Epoch: 75, Batch: 300, Loss: 0.028819
+Train Epoch: 75, Batch: 320, Loss: 0.022982
+Train Epoch: 75, Batch: 340, Loss: 0.016759
+Train Epoch: 75, Batch: 360, Loss: 0.016889
+Train Epoch: 75, Batch: 380, Loss: 0.023125
+Train Epoch: 75, Batch: 400, Loss: 0.019446
+Train Epoch: 75, AverageLoss: 0.024791, Oer:0.000000
+training for epoch 75 takes 222.7918200492859 seconds
+
+start evaluating!
+Epoch: 75, batch: 20, loss: 0.036896, aver_batch_oer:0.021153
+Epoch: 75, batch: 40, loss: 0.171262, aver_batch_oer:0.031019
+Epoch: 75, batch: 60, loss: 0.022224, aver_batch_oer:0.016202
+Epoch: 75, batch: 80, loss: 0.144127, aver_batch_oer:0.044962
+Epoch: 75, batch: 100, loss: 0.034729, aver_batch_oer:0.018049
+Test Epoch: 75, Loss: 0.120929, oer:0.034725
+testing for epoch 75 takes 35.49755239486694 seconds
+
+start training!
+Train Epoch: 76, Batch: 20, Loss: 0.014494
+Train Epoch: 76, Batch: 40, Loss: 0.012657
+Train Epoch: 76, Batch: 60, Loss: 0.016109
+Train Epoch: 76, Batch: 80, Loss: 0.014741
+Train Epoch: 76, Batch: 100, Loss: 0.016340
+Train Epoch: 76, Batch: 120, Loss: 0.016234
+Train Epoch: 76, Batch: 140, Loss: 0.011965
+Train Epoch: 76, Batch: 160, Loss: 0.013931
+Train Epoch: 76, Batch: 180, Loss: 0.011461
+Train Epoch: 76, Batch: 200, Loss: 0.013955
+Train Epoch: 76, Batch: 220, Loss: 0.016344
+Train Epoch: 76, Batch: 240, Loss: 0.017290
+Train Epoch: 76, Batch: 260, Loss: 0.014070
+Train Epoch: 76, Batch: 280, Loss: 0.023616
+Train Epoch: 76, Batch: 300, Loss: 0.015140
+Train Epoch: 76, Batch: 320, Loss: 0.017093
+Train Epoch: 76, Batch: 340, Loss: 0.012130
+Train Epoch: 76, Batch: 360, Loss: 0.014759
+Train Epoch: 76, Batch: 380, Loss: 0.014218
+Train Epoch: 76, Batch: 400, Loss: 0.012140
+Train Epoch: 76, AverageLoss: 0.014942, Oer:0.000000
+training for epoch 76 takes 231.9819986820221 seconds
+
+start evaluating!
+Epoch: 76, batch: 20, loss: 0.034928, aver_batch_oer:0.018589
+Epoch: 76, batch: 40, loss: 0.188001, aver_batch_oer:0.031106
+Epoch: 76, batch: 60, loss: 0.027598, aver_batch_oer:0.018380
+Epoch: 76, batch: 80, loss: 0.181949, aver_batch_oer:0.044816
+Epoch: 76, batch: 100, loss: 0.026368, aver_batch_oer:0.016654
+Test Epoch: 76, Loss: 0.119643, oer:0.032662
+testing for epoch 76 takes 35.55851721763611 seconds
+
+start training!
+Train Epoch: 77, Batch: 20, Loss: 0.011697
+Train Epoch: 77, Batch: 40, Loss: 0.018056
+Train Epoch: 77, Batch: 60, Loss: 0.010372
+Train Epoch: 77, Batch: 80, Loss: 0.012715
+Train Epoch: 77, Batch: 100, Loss: 0.016416
+Train Epoch: 77, Batch: 120, Loss: 0.010434
+Train Epoch: 77, Batch: 140, Loss: 0.017249
+Train Epoch: 77, Batch: 160, Loss: 0.012881
+Train Epoch: 77, Batch: 180, Loss: 0.012240
+Train Epoch: 77, Batch: 200, Loss: 0.011087
+Train Epoch: 77, Batch: 220, Loss: 0.017813
+Train Epoch: 77, Batch: 240, Loss: 0.016517
+Train Epoch: 77, Batch: 260, Loss: 0.020949
+Train Epoch: 77, Batch: 280, Loss: 0.015006
+Train Epoch: 77, Batch: 300, Loss: 0.013173
+Train Epoch: 77, Batch: 320, Loss: 0.013351
+Train Epoch: 77, Batch: 340, Loss: 0.014075
+Train Epoch: 77, Batch: 360, Loss: 0.013449
+Train Epoch: 77, Batch: 380, Loss: 0.023669
+Train Epoch: 77, Batch: 400, Loss: 0.011630
+Train Epoch: 77, AverageLoss: 0.014473, Oer:0.000000
+training for epoch 77 takes 233.2311897277832 seconds
+
+start evaluating!
+Epoch: 77, batch: 20, loss: 0.032389, aver_batch_oer:0.017522
+Epoch: 77, batch: 40, loss: 0.190756, aver_batch_oer:0.028624
+Epoch: 77, batch: 60, loss: 0.022410, aver_batch_oer:0.017128
+Epoch: 77, batch: 80, loss: 0.177872, aver_batch_oer:0.045116
+Epoch: 77, batch: 100, loss: 0.034939, aver_batch_oer:0.017391
+Test Epoch: 77, Loss: 0.125589, oer:0.033441
+testing for epoch 77 takes 36.11244583129883 seconds
+
+start training!
+Train Epoch: 78, Batch: 20, Loss: 0.012633
+Train Epoch: 78, Batch: 40, Loss: 0.018760
+Train Epoch: 78, Batch: 60, Loss: 0.018679
+Train Epoch: 78, Batch: 80, Loss: 0.013121
+Train Epoch: 78, Batch: 100, Loss: 0.008220
+Train Epoch: 78, Batch: 120, Loss: 0.012551
+Train Epoch: 78, Batch: 140, Loss: 0.011625
+Train Epoch: 78, Batch: 160, Loss: 0.015771
+Train Epoch: 78, Batch: 180, Loss: 0.018364
+Train Epoch: 78, Batch: 200, Loss: 0.011236
+Train Epoch: 78, Batch: 220, Loss: 0.009117
+Train Epoch: 78, Batch: 240, Loss: 0.013943
+Train Epoch: 78, Batch: 260, Loss: 0.014205
+Train Epoch: 78, Batch: 280, Loss: 0.019915
+Train Epoch: 78, Batch: 300, Loss: 0.015225
+Train Epoch: 78, Batch: 320, Loss: 0.013624
+Train Epoch: 78, Batch: 340, Loss: 0.014012
+Train Epoch: 78, Batch: 360, Loss: 0.009716
+Train Epoch: 78, Batch: 380, Loss: 0.015516
+Train Epoch: 78, Batch: 400, Loss: 0.020331
+Train Epoch: 78, AverageLoss: 0.014473, Oer:0.000000
+training for epoch 78 takes 225.17158484458923 seconds
+
+start evaluating!
+Epoch: 78, batch: 20, loss: 0.033035, aver_batch_oer:0.015813
+Epoch: 78, batch: 40, loss: 0.192904, aver_batch_oer:0.029187
+Epoch: 78, batch: 60, loss: 0.029781, aver_batch_oer:0.018477
+Epoch: 78, batch: 80, loss: 0.236557, aver_batch_oer:0.045073
+Epoch: 78, batch: 100, loss: 0.036058, aver_batch_oer:0.019329
+Test Epoch: 78, Loss: 0.132924, oer:0.033558
+testing for epoch 78 takes 35.368406772613525 seconds
+
+start training!
+Train Epoch: 79, Batch: 20, Loss: 0.011544
+Train Epoch: 79, Batch: 40, Loss: 0.011433
+Train Epoch: 79, Batch: 60, Loss: 0.014331
+Train Epoch: 79, Batch: 80, Loss: 0.011550
+Train Epoch: 79, Batch: 100, Loss: 0.019465
+Train Epoch: 79, Batch: 120, Loss: 0.015414
+Train Epoch: 79, Batch: 140, Loss: 0.019822
+Train Epoch: 79, Batch: 160, Loss: 0.016438
+Train Epoch: 79, Batch: 180, Loss: 0.020039
+Train Epoch: 79, Batch: 200, Loss: 0.014409
+Train Epoch: 79, Batch: 220, Loss: 0.015195
+Train Epoch: 79, Batch: 240, Loss: 0.012079
+Train Epoch: 79, Batch: 260, Loss: 0.014776
+Train Epoch: 79, Batch: 280, Loss: 0.012502
+Train Epoch: 79, Batch: 300, Loss: 0.015149
+Train Epoch: 79, Batch: 320, Loss: 0.014281
+Train Epoch: 79, Batch: 340, Loss: 0.010689
+Train Epoch: 79, Batch: 360, Loss: 0.014874
+Train Epoch: 79, Batch: 380, Loss: 0.012335
+Train Epoch: 79, Batch: 400, Loss: 0.012591
+Train Epoch: 79, AverageLoss: 0.014246, Oer:0.000000
+training for epoch 79 takes 230.72120237350464 seconds
+
+start evaluating!
+Epoch: 79, batch: 20, loss: 0.028601, aver_batch_oer:0.016912
+Epoch: 79, batch: 40, loss: 0.190762, aver_batch_oer:0.030063
+Epoch: 79, batch: 60, loss: 0.023270, aver_batch_oer:0.016896
+Epoch: 79, batch: 80, loss: 0.187100, aver_batch_oer:0.045555
+Epoch: 79, batch: 100, loss: 0.027477, aver_batch_oer:0.016713
+Test Epoch: 79, Loss: 0.133680, oer:0.033187
+testing for epoch 79 takes 36.05810856819153 seconds
+
+start training!
+Train Epoch: 80, Batch: 20, Loss: 0.010056
+Train Epoch: 80, Batch: 40, Loss: 0.017354
+Train Epoch: 80, Batch: 60, Loss: 0.015357
+Train Epoch: 80, Batch: 80, Loss: 0.018032
+Train Epoch: 80, Batch: 100, Loss: 0.016174
+Train Epoch: 80, Batch: 120, Loss: 0.011674
+Train Epoch: 80, Batch: 140, Loss: 0.015839
+Train Epoch: 80, Batch: 160, Loss: 0.010775
+Train Epoch: 80, Batch: 180, Loss: 0.014224
+Train Epoch: 80, Batch: 200, Loss: 0.013209
+Train Epoch: 80, Batch: 220, Loss: 0.015297
+Train Epoch: 80, Batch: 240, Loss: 0.011518
+Train Epoch: 80, Batch: 260, Loss: 0.018030
+Train Epoch: 80, Batch: 280, Loss: 0.015242
+Train Epoch: 80, Batch: 300, Loss: 0.012873
+Train Epoch: 80, Batch: 320, Loss: 0.013414
+Train Epoch: 80, Batch: 340, Loss: 0.010414
+Train Epoch: 80, Batch: 360, Loss: 0.018129
+Train Epoch: 80, Batch: 380, Loss: 0.008282
+Train Epoch: 80, Batch: 400, Loss: 0.010625
+Train Epoch: 80, AverageLoss: 0.014131, Oer:0.000000
+training for epoch 80 takes 234.55375480651855 seconds
+
+start evaluating!
+Epoch: 80, batch: 20, loss: 0.031983, aver_batch_oer:0.018482
+Epoch: 80, batch: 40, loss: 0.197927, aver_batch_oer:0.029998
+Epoch: 80, batch: 60, loss: 0.031508, aver_batch_oer:0.019152
+Epoch: 80, batch: 80, loss: 0.198920, aver_batch_oer:0.044933
+Epoch: 80, batch: 100, loss: 0.030090, aver_batch_oer:0.015705
+Test Epoch: 80, Loss: 0.135001, oer:0.032672
+testing for epoch 80 takes 35.7684805393219 seconds
+
+start training!
+Train Epoch: 81, Batch: 20, Loss: 0.008542
+Train Epoch: 81, Batch: 40, Loss: 0.018982
+Train Epoch: 81, Batch: 60, Loss: 0.014205
+Train Epoch: 81, Batch: 80, Loss: 0.012833
+Train Epoch: 81, Batch: 100, Loss: 0.008906
+Train Epoch: 81, Batch: 120, Loss: 0.011673
+Train Epoch: 81, Batch: 140, Loss: 0.010782
+Train Epoch: 81, Batch: 160, Loss: 0.022197
+Train Epoch: 81, Batch: 180, Loss: 0.010332
+Train Epoch: 81, Batch: 200, Loss: 0.012668
+Train Epoch: 81, Batch: 220, Loss: 0.013614
+Train Epoch: 81, Batch: 240, Loss: 0.013190
+Train Epoch: 81, Batch: 260, Loss: 0.016216
+Train Epoch: 81, Batch: 280, Loss: 0.020141
+Train Epoch: 81, Batch: 300, Loss: 0.012504
+Train Epoch: 81, Batch: 320, Loss: 0.014300
+Train Epoch: 81, Batch: 340, Loss: 0.011801
+Train Epoch: 81, Batch: 360, Loss: 0.010805
+Train Epoch: 81, Batch: 380, Loss: 0.014352
+Train Epoch: 81, Batch: 400, Loss: 0.012649
+Train Epoch: 81, AverageLoss: 0.014105, Oer:0.000000
+training for epoch 81 takes 227.0481197834015 seconds
+
+start evaluating!
+Epoch: 81, batch: 20, loss: 0.033756, aver_batch_oer:0.017449
+Epoch: 81, batch: 40, loss: 0.229731, aver_batch_oer:0.031752
+Epoch: 81, batch: 60, loss: 0.032722, aver_batch_oer:0.020801
+Epoch: 81, batch: 80, loss: 0.192425, aver_batch_oer:0.043830
+Epoch: 81, batch: 100, loss: 0.044002, aver_batch_oer:0.020239
+Test Epoch: 81, Loss: 0.139026, oer:0.033940
+testing for epoch 81 takes 35.33945274353027 seconds
+
+start training!
+Train Epoch: 82, Batch: 20, Loss: 0.016836
+Train Epoch: 82, Batch: 40, Loss: 0.015907
+Train Epoch: 82, Batch: 60, Loss: 0.015727
+Train Epoch: 82, Batch: 80, Loss: 0.011212
+Train Epoch: 82, Batch: 100, Loss: 0.014633
+Train Epoch: 82, Batch: 120, Loss: 0.013615
+Train Epoch: 82, Batch: 140, Loss: 0.011843
+Train Epoch: 82, Batch: 160, Loss: 0.018147
+Train Epoch: 82, Batch: 180, Loss: 0.011280
+Train Epoch: 82, Batch: 200, Loss: 0.018238
+Train Epoch: 82, Batch: 220, Loss: 0.017043
+Train Epoch: 82, Batch: 240, Loss: 0.012563
+Train Epoch: 82, Batch: 260, Loss: 0.010005
+Train Epoch: 82, Batch: 280, Loss: 0.013539
+Train Epoch: 82, Batch: 300, Loss: 0.009700
+Train Epoch: 82, Batch: 320, Loss: 0.009845
+Train Epoch: 82, Batch: 340, Loss: 0.018647
+Train Epoch: 82, Batch: 360, Loss: 0.018061
+Train Epoch: 82, Batch: 380, Loss: 0.014907
+Train Epoch: 82, Batch: 400, Loss: 0.015216
+Train Epoch: 82, AverageLoss: 0.013825, Oer:0.000000
+training for epoch 82 takes 223.59448838233948 seconds
+
+start evaluating!
+Epoch: 82, batch: 20, loss: 0.033089, aver_batch_oer:0.015686
+Epoch: 82, batch: 40, loss: 0.214788, aver_batch_oer:0.030914
+Epoch: 82, batch: 60, loss: 0.027666, aver_batch_oer:0.019349
+Epoch: 82, batch: 80, loss: 0.184365, aver_batch_oer:0.042665
+Epoch: 82, batch: 100, loss: 0.035815, aver_batch_oer:0.018220
+Test Epoch: 82, Loss: 0.134056, oer:0.032815
+testing for epoch 82 takes 35.9935188293457 seconds
+
+start training!
+Train Epoch: 83, Batch: 20, Loss: 0.013744
+Train Epoch: 83, Batch: 40, Loss: 0.015832
+Train Epoch: 83, Batch: 60, Loss: 0.012332
+Train Epoch: 83, Batch: 80, Loss: 0.009808
+Train Epoch: 83, Batch: 100, Loss: 0.016541
+Train Epoch: 83, Batch: 120, Loss: 0.011636
+Train Epoch: 83, Batch: 140, Loss: 0.012570
+Train Epoch: 83, Batch: 160, Loss: 0.013612
+Train Epoch: 83, Batch: 180, Loss: 0.015017
+Train Epoch: 83, Batch: 200, Loss: 0.014685
+Train Epoch: 83, Batch: 220, Loss: 0.018360
+Train Epoch: 83, Batch: 240, Loss: 0.010999
+Train Epoch: 83, Batch: 260, Loss: 0.012384
+Train Epoch: 83, Batch: 280, Loss: 0.012650
+Train Epoch: 83, Batch: 300, Loss: 0.012785
+Train Epoch: 83, Batch: 320, Loss: 0.013123
+Train Epoch: 83, Batch: 340, Loss: 0.014109
+Train Epoch: 83, Batch: 360, Loss: 0.010292
+Train Epoch: 83, Batch: 380, Loss: 0.012210
+Train Epoch: 83, Batch: 400, Loss: 0.011887
+Train Epoch: 83, AverageLoss: 0.013768, Oer:0.000000
+training for epoch 83 takes 222.38264632225037 seconds
+
+start evaluating!
+Epoch: 83, batch: 20, loss: 0.044569, aver_batch_oer:0.020729
+Epoch: 83, batch: 40, loss: 0.223687, aver_batch_oer:0.030313
+Epoch: 83, batch: 60, loss: 0.026374, aver_batch_oer:0.017110
+Epoch: 83, batch: 80, loss: 0.165774, aver_batch_oer:0.045143
+Epoch: 83, batch: 100, loss: 0.026176, aver_batch_oer:0.016648
+Test Epoch: 83, Loss: 0.131176, oer:0.031965
+testing for epoch 83 takes 35.71244931221008 seconds
+
+start training!
+Train Epoch: 84, Batch: 20, Loss: 0.009151
+Train Epoch: 84, Batch: 40, Loss: 0.015110
+Train Epoch: 84, Batch: 60, Loss: 0.014479
+Train Epoch: 84, Batch: 80, Loss: 0.013006
+Train Epoch: 84, Batch: 100, Loss: 0.014903
+Train Epoch: 84, Batch: 120, Loss: 0.014830
+Train Epoch: 84, Batch: 140, Loss: 0.016381
+Train Epoch: 84, Batch: 160, Loss: 0.012402
+Train Epoch: 84, Batch: 180, Loss: 0.009879
+Train Epoch: 84, Batch: 200, Loss: 0.015447
+Train Epoch: 84, Batch: 220, Loss: 0.011727
+Train Epoch: 84, Batch: 240, Loss: 0.017339
+Train Epoch: 84, Batch: 260, Loss: 0.016700
+Train Epoch: 84, Batch: 280, Loss: 0.012430
+Train Epoch: 84, Batch: 300, Loss: 0.021292
+Train Epoch: 84, Batch: 320, Loss: 0.013655
+Train Epoch: 84, Batch: 340, Loss: 0.013011
+Train Epoch: 84, Batch: 360, Loss: 0.023057
+Train Epoch: 84, Batch: 380, Loss: 0.013338
+Train Epoch: 84, Batch: 400, Loss: 0.011219
+Train Epoch: 84, AverageLoss: 0.014042, Oer:0.000000
+training for epoch 84 takes 226.21720433235168 seconds
+
+start evaluating!
+Epoch: 84, batch: 20, loss: 0.038397, aver_batch_oer:0.017709
+Epoch: 84, batch: 40, loss: 0.200741, aver_batch_oer:0.023703
+Epoch: 84, batch: 60, loss: 0.033328, aver_batch_oer:0.018914
+Epoch: 84, batch: 80, loss: 0.166562, aver_batch_oer:0.049041
+Epoch: 84, batch: 100, loss: 0.054713, aver_batch_oer:0.022878
+Test Epoch: 84, Loss: 0.149939, oer:0.034806
+testing for epoch 84 takes 36.22749853134155 seconds
+
+start training!
+Train Epoch: 85, Batch: 20, Loss: 0.019664
+Train Epoch: 85, Batch: 40, Loss: 0.022298
+Train Epoch: 85, Batch: 60, Loss: 0.042810
+Train Epoch: 85, Batch: 80, Loss: 0.017117
+Train Epoch: 85, Batch: 100, Loss: 0.011482
+Train Epoch: 85, Batch: 120, Loss: 0.014181
+Train Epoch: 85, Batch: 140, Loss: 0.020079
+Train Epoch: 85, Batch: 160, Loss: 0.017042
+Train Epoch: 85, Batch: 180, Loss: 0.015049
+Train Epoch: 85, Batch: 200, Loss: 0.011179
+Train Epoch: 85, Batch: 220, Loss: 0.015545
+Train Epoch: 85, Batch: 240, Loss: 0.014826
+Train Epoch: 85, Batch: 260, Loss: 0.011107
+Train Epoch: 85, Batch: 280, Loss: 0.014778
+Train Epoch: 85, Batch: 300, Loss: 0.015304
+Train Epoch: 85, Batch: 320, Loss: 0.016004
+Train Epoch: 85, Batch: 340, Loss: 0.015111
+Train Epoch: 85, Batch: 360, Loss: 0.014594
+Train Epoch: 85, Batch: 380, Loss: 0.009854
+Train Epoch: 85, Batch: 400, Loss: 0.017316
+Train Epoch: 85, AverageLoss: 0.015897, Oer:0.000000
+training for epoch 85 takes 237.1990625858307 seconds
+
+start evaluating!
+Epoch: 85, batch: 20, loss: 0.037276, aver_batch_oer:0.018155
+Epoch: 85, batch: 40, loss: 0.191303, aver_batch_oer:0.026838
+Epoch: 85, batch: 60, loss: 0.019993, aver_batch_oer:0.017566
+Epoch: 85, batch: 80, loss: 0.228817, aver_batch_oer:0.050918
+Epoch: 85, batch: 100, loss: 0.032034, aver_batch_oer:0.021749
+Test Epoch: 85, Loss: 0.133234, oer:0.034291
+testing for epoch 85 takes 35.76518726348877 seconds
+
+start training!
+Train Epoch: 86, Batch: 20, Loss: 0.013634
+Train Epoch: 86, Batch: 40, Loss: 0.008536
+Train Epoch: 86, Batch: 60, Loss: 0.015038
+Train Epoch: 86, Batch: 80, Loss: 0.008463
+Train Epoch: 86, Batch: 100, Loss: 0.011364
+Train Epoch: 86, Batch: 120, Loss: 0.014280
+Train Epoch: 86, Batch: 140, Loss: 0.010065
+Train Epoch: 86, Batch: 160, Loss: 0.009918
+Train Epoch: 86, Batch: 180, Loss: 0.012925
+Train Epoch: 86, Batch: 200, Loss: 0.010595
+Train Epoch: 86, Batch: 220, Loss: 0.014538
+Train Epoch: 86, Batch: 240, Loss: 0.011793
+Train Epoch: 86, Batch: 260, Loss: 0.011718
+Train Epoch: 86, Batch: 280, Loss: 0.011743
+Train Epoch: 86, Batch: 300, Loss: 0.017985
+Train Epoch: 86, Batch: 320, Loss: 0.013690
+Train Epoch: 86, Batch: 340, Loss: 0.013852
+Train Epoch: 86, Batch: 360, Loss: 0.014427
+Train Epoch: 86, Batch: 380, Loss: 0.011437
+Train Epoch: 86, Batch: 400, Loss: 0.013369
+Train Epoch: 86, AverageLoss: 0.013416, Oer:0.000000
+training for epoch 86 takes 223.069105386734 seconds
+
+start evaluating!
+Epoch: 86, batch: 20, loss: 0.044375, aver_batch_oer:0.023209
+Epoch: 86, batch: 40, loss: 0.179684, aver_batch_oer:0.023677
+Epoch: 86, batch: 60, loss: 0.023840, aver_batch_oer:0.015995
+Epoch: 86, batch: 80, loss: 0.251978, aver_batch_oer:0.047111
+Epoch: 86, batch: 100, loss: 0.024646, aver_batch_oer:0.017556
+Test Epoch: 86, Loss: 0.135148, oer:0.032968
+testing for epoch 86 takes 29.831823587417603 seconds
+
+start training!
+Train Epoch: 87, Batch: 20, Loss: 0.019282
+Train Epoch: 87, Batch: 40, Loss: 0.008984
+Train Epoch: 87, Batch: 60, Loss: 0.010723
+Train Epoch: 87, Batch: 80, Loss: 0.010114
+Train Epoch: 87, Batch: 100, Loss: 0.010727
+Train Epoch: 87, Batch: 120, Loss: 0.014051
+Train Epoch: 87, Batch: 140, Loss: 0.013199
+Train Epoch: 87, Batch: 160, Loss: 0.013165
+Train Epoch: 87, Batch: 180, Loss: 0.014974
+Train Epoch: 87, Batch: 200, Loss: 0.013637
+Train Epoch: 87, Batch: 220, Loss: 0.015146
+Train Epoch: 87, Batch: 240, Loss: 0.014912
+Train Epoch: 87, Batch: 260, Loss: 0.009590
+Train Epoch: 87, Batch: 280, Loss: 0.014640
+Train Epoch: 87, Batch: 300, Loss: 0.014725
+Train Epoch: 87, Batch: 320, Loss: 0.014433
+Train Epoch: 87, Batch: 340, Loss: 0.013118
+Train Epoch: 87, Batch: 360, Loss: 0.013778
+Train Epoch: 87, Batch: 380, Loss: 0.016318
+Train Epoch: 87, Batch: 400, Loss: 0.011964
+Train Epoch: 87, AverageLoss: 0.013297, Oer:0.000000
+training for epoch 87 takes 222.60526084899902 seconds
+
+start evaluating!
+Epoch: 87, batch: 20, loss: 0.033546, aver_batch_oer:0.017027
+Epoch: 87, batch: 40, loss: 0.190374, aver_batch_oer:0.028025
+Epoch: 87, batch: 60, loss: 0.024835, aver_batch_oer:0.017200
+Epoch: 87, batch: 80, loss: 0.210647, aver_batch_oer:0.046466
+Epoch: 87, batch: 100, loss: 0.035494, aver_batch_oer:0.018188
+Test Epoch: 87, Loss: 0.138193, oer:0.033848
+testing for epoch 87 takes 35.85159635543823 seconds
+
+start training!
+Train Epoch: 88, Batch: 20, Loss: 0.018231
+Train Epoch: 88, Batch: 40, Loss: 0.010604
+Train Epoch: 88, Batch: 60, Loss: 0.020561
+Train Epoch: 88, Batch: 80, Loss: 0.010643
+Train Epoch: 88, Batch: 100, Loss: 0.014545
+Train Epoch: 88, Batch: 120, Loss: 0.014711
+Train Epoch: 88, Batch: 140, Loss: 0.013671
+Train Epoch: 88, Batch: 160, Loss: 0.011353
+Train Epoch: 88, Batch: 180, Loss: 0.012793
+Train Epoch: 88, Batch: 200, Loss: 0.013118
+Train Epoch: 88, Batch: 220, Loss: 0.013423
+Train Epoch: 88, Batch: 240, Loss: 0.015723
+Train Epoch: 88, Batch: 260, Loss: 0.013398
+Train Epoch: 88, Batch: 280, Loss: 0.014405
+Train Epoch: 88, Batch: 300, Loss: 0.011960
+Train Epoch: 88, Batch: 320, Loss: 0.012874
+Train Epoch: 88, Batch: 340, Loss: 0.014630
+Train Epoch: 88, Batch: 360, Loss: 0.009612
+Train Epoch: 88, Batch: 380, Loss: 0.015483
+Train Epoch: 88, Batch: 400, Loss: 0.014958
+Train Epoch: 88, AverageLoss: 0.013283, Oer:0.000000
+training for epoch 88 takes 224.40026760101318 seconds
+
+start evaluating!
+Epoch: 88, batch: 20, loss: 0.036397, aver_batch_oer:0.015896
+Epoch: 88, batch: 40, loss: 0.196632, aver_batch_oer:0.026993
+Epoch: 88, batch: 60, loss: 0.018899, aver_batch_oer:0.014342
+Epoch: 88, batch: 80, loss: 0.181536, aver_batch_oer:0.045070
+Epoch: 88, batch: 100, loss: 0.035990, aver_batch_oer:0.018406
+Test Epoch: 88, Loss: 0.138948, oer:0.032899
+testing for epoch 88 takes 35.810559034347534 seconds
+
+start training!
+Train Epoch: 89, Batch: 20, Loss: 0.011764
+Train Epoch: 89, Batch: 40, Loss: 0.012004
+Train Epoch: 89, Batch: 60, Loss: 0.009917
+Train Epoch: 89, Batch: 80, Loss: 0.012371
+Train Epoch: 89, Batch: 100, Loss: 0.011849
+Train Epoch: 89, Batch: 120, Loss: 0.010605
+Train Epoch: 89, Batch: 140, Loss: 0.009161
+Train Epoch: 89, Batch: 160, Loss: 0.010767
+Train Epoch: 89, Batch: 180, Loss: 0.010071
+Train Epoch: 89, Batch: 200, Loss: 0.013819
+Train Epoch: 89, Batch: 220, Loss: 0.010910
+Train Epoch: 89, Batch: 240, Loss: 0.011319
+Train Epoch: 89, Batch: 260, Loss: 0.009747
+Train Epoch: 89, Batch: 280, Loss: 0.009346
+Train Epoch: 89, Batch: 300, Loss: 0.013827
+Train Epoch: 89, Batch: 320, Loss: 0.012212
+Train Epoch: 89, Batch: 340, Loss: 0.017369
+Train Epoch: 89, Batch: 360, Loss: 0.012822
+Train Epoch: 89, Batch: 380, Loss: 0.015043
+Train Epoch: 89, Batch: 400, Loss: 0.010577
+Train Epoch: 89, AverageLoss: 0.012964, Oer:0.000000
+training for epoch 89 takes 237.2432782649994 seconds
+
+start evaluating!
+Epoch: 89, batch: 20, loss: 0.036987, aver_batch_oer:0.016271
+Epoch: 89, batch: 40, loss: 0.205492, aver_batch_oer:0.026909
+Epoch: 89, batch: 60, loss: 0.018914, aver_batch_oer:0.014165
+Epoch: 89, batch: 80, loss: 0.201556, aver_batch_oer:0.046632
+Epoch: 89, batch: 100, loss: 0.028835, aver_batch_oer:0.016899
+Test Epoch: 89, Loss: 0.139231, oer:0.032478
+testing for epoch 89 takes 36.98623538017273 seconds
+
+start training!
+Train Epoch: 90, Batch: 20, Loss: 0.014216
+Train Epoch: 90, Batch: 40, Loss: 0.010674
+Train Epoch: 90, Batch: 60, Loss: 0.014523
+Train Epoch: 90, Batch: 80, Loss: 0.010559
+Train Epoch: 90, Batch: 100, Loss: 0.017974
+Train Epoch: 90, Batch: 120, Loss: 0.012614
+Train Epoch: 90, Batch: 140, Loss: 0.014353
+Train Epoch: 90, Batch: 160, Loss: 0.017053
+Train Epoch: 90, Batch: 180, Loss: 0.013061
+Train Epoch: 90, Batch: 200, Loss: 0.015367
+Train Epoch: 90, Batch: 220, Loss: 0.010631
+Train Epoch: 90, Batch: 240, Loss: 0.011586
+Train Epoch: 90, Batch: 260, Loss: 0.015041
+Train Epoch: 90, Batch: 280, Loss: 0.011289
+Train Epoch: 90, Batch: 300, Loss: 0.011759
+Train Epoch: 90, Batch: 320, Loss: 0.011996
+Train Epoch: 90, Batch: 340, Loss: 0.013447
+Train Epoch: 90, Batch: 360, Loss: 0.018034
+Train Epoch: 90, Batch: 380, Loss: 0.012697
+Train Epoch: 90, Batch: 400, Loss: 0.016571
+Train Epoch: 90, AverageLoss: 0.012841, Oer:0.000000
+training for epoch 90 takes 229.58685493469238 seconds
+
+start evaluating!
+Epoch: 90, batch: 20, loss: 0.035959, aver_batch_oer:0.019149
+Epoch: 90, batch: 40, loss: 0.186148, aver_batch_oer:0.026466
+Epoch: 90, batch: 60, loss: 0.025837, aver_batch_oer:0.015710
+Epoch: 90, batch: 80, loss: 0.191526, aver_batch_oer:0.044015
+Epoch: 90, batch: 100, loss: 0.023953, aver_batch_oer:0.016064
+Test Epoch: 90, Loss: 0.140888, oer:0.032032
+testing for epoch 90 takes 35.34877824783325 seconds
+
+start training!
+Train Epoch: 91, Batch: 20, Loss: 0.008774
+Train Epoch: 91, Batch: 40, Loss: 0.013456
+Train Epoch: 91, Batch: 60, Loss: 0.011862
+Train Epoch: 91, Batch: 80, Loss: 0.009196
+Train Epoch: 91, Batch: 100, Loss: 0.016531
+Train Epoch: 91, Batch: 120, Loss: 0.010431
+Train Epoch: 91, Batch: 140, Loss: 0.014266
+Train Epoch: 91, Batch: 160, Loss: 0.013402
+Train Epoch: 91, Batch: 180, Loss: 0.013767
+Train Epoch: 91, Batch: 200, Loss: 0.014787
+Train Epoch: 91, Batch: 220, Loss: 0.011304
+Train Epoch: 91, Batch: 240, Loss: 0.011790
+Train Epoch: 91, Batch: 260, Loss: 0.015932
+Train Epoch: 91, Batch: 280, Loss: 0.014675
+Train Epoch: 91, Batch: 300, Loss: 0.010979
+Train Epoch: 91, Batch: 320, Loss: 0.009408
+Train Epoch: 91, Batch: 340, Loss: 0.009430
+Train Epoch: 91, Batch: 360, Loss: 0.012641
+Train Epoch: 91, Batch: 380, Loss: 0.016523
+Train Epoch: 91, Batch: 400, Loss: 0.011878
+Train Epoch: 91, AverageLoss: 0.012667, Oer:0.000000
+training for epoch 91 takes 223.71406030654907 seconds
+
+start evaluating!
+Epoch: 91, batch: 20, loss: 0.039848, aver_batch_oer:0.017301
+Epoch: 91, batch: 40, loss: 0.200093, aver_batch_oer:0.026482
+Epoch: 91, batch: 60, loss: 0.030487, aver_batch_oer:0.018199
+Epoch: 91, batch: 80, loss: 0.228580, aver_batch_oer:0.046544
+Epoch: 91, batch: 100, loss: 0.028682, aver_batch_oer:0.017299
+Test Epoch: 91, Loss: 0.141462, oer:0.032580
+testing for epoch 91 takes 35.66592526435852 seconds
+
+start training!
+Train Epoch: 92, Batch: 20, Loss: 0.018620
+Train Epoch: 92, Batch: 40, Loss: 0.010334
+Train Epoch: 92, Batch: 60, Loss: 0.009845
+Train Epoch: 92, Batch: 80, Loss: 0.017448
+Train Epoch: 92, Batch: 100, Loss: 0.011866
+Train Epoch: 92, Batch: 120, Loss: 0.012905
+Train Epoch: 92, Batch: 140, Loss: 0.011540
+Train Epoch: 92, Batch: 160, Loss: 0.015880
+Train Epoch: 92, Batch: 180, Loss: 0.012317
+Train Epoch: 92, Batch: 200, Loss: 0.014218
+Train Epoch: 92, Batch: 220, Loss: 0.016221
+Train Epoch: 92, Batch: 240, Loss: 0.011831
+Train Epoch: 92, Batch: 260, Loss: 0.011974
+Train Epoch: 92, Batch: 280, Loss: 0.013304
+Train Epoch: 92, Batch: 300, Loss: 0.009221
+Train Epoch: 92, Batch: 320, Loss: 0.012492
+Train Epoch: 92, Batch: 340, Loss: 0.011604
+Train Epoch: 92, Batch: 360, Loss: 0.008583
+Train Epoch: 92, Batch: 380, Loss: 0.013166
+Train Epoch: 92, Batch: 400, Loss: 0.017566
+Train Epoch: 92, AverageLoss: 0.012703, Oer:0.000000
+training for epoch 92 takes 223.18296670913696 seconds
+
+start evaluating!
+Epoch: 92, batch: 20, loss: 0.038518, aver_batch_oer:0.016238
+Epoch: 92, batch: 40, loss: 0.197318, aver_batch_oer:0.026402
+Epoch: 92, batch: 60, loss: 0.029087, aver_batch_oer:0.017595
+Epoch: 92, batch: 80, loss: 0.232836, aver_batch_oer:0.045526
+Epoch: 92, batch: 100, loss: 0.029495, aver_batch_oer:0.016494
+Test Epoch: 92, Loss: 0.141716, oer:0.032135
+testing for epoch 92 takes 36.04072451591492 seconds
+
+start training!
+Train Epoch: 93, Batch: 20, Loss: 0.014091
+Train Epoch: 93, Batch: 40, Loss: 0.015898
+Train Epoch: 93, Batch: 60, Loss: 0.009518
+Train Epoch: 93, Batch: 80, Loss: 0.011356
+Train Epoch: 93, Batch: 100, Loss: 0.012018
+Train Epoch: 93, Batch: 120, Loss: 0.013730
+Train Epoch: 93, Batch: 140, Loss: 0.012151
+Train Epoch: 93, Batch: 160, Loss: 0.011350
+Train Epoch: 93, Batch: 180, Loss: 0.010382
+Train Epoch: 93, Batch: 200, Loss: 0.015746
+Train Epoch: 93, Batch: 220, Loss: 0.008131
+Train Epoch: 93, Batch: 240, Loss: 0.012460
+Train Epoch: 93, Batch: 260, Loss: 0.010353
+Train Epoch: 93, Batch: 280, Loss: 0.014313
+Train Epoch: 93, Batch: 300, Loss: 0.009643
+Train Epoch: 93, Batch: 320, Loss: 0.015003
+Train Epoch: 93, Batch: 340, Loss: 0.014431
+Train Epoch: 93, Batch: 360, Loss: 0.015530
+Train Epoch: 93, Batch: 380, Loss: 0.012848
+Train Epoch: 93, Batch: 400, Loss: 0.012302
+Train Epoch: 93, AverageLoss: 0.012561, Oer:0.000000
+training for epoch 93 takes 232.3601496219635 seconds
+
+start evaluating!
+Epoch: 93, batch: 20, loss: 0.036851, aver_batch_oer:0.016673
+Epoch: 93, batch: 40, loss: 0.199194, aver_batch_oer:0.026520
+Epoch: 93, batch: 60, loss: 0.029752, aver_batch_oer:0.017478
+Epoch: 93, batch: 80, loss: 0.266185, aver_batch_oer:0.044875
+Epoch: 93, batch: 100, loss: 0.024807, aver_batch_oer:0.016202
+Test Epoch: 93, Loss: 0.145753, oer:0.032188
+testing for epoch 93 takes 36.43001747131348 seconds
+
+start training!
+Train Epoch: 94, Batch: 20, Loss: 0.012097
+Train Epoch: 94, Batch: 40, Loss: 0.009361
+Train Epoch: 94, Batch: 60, Loss: 0.013849
+Train Epoch: 94, Batch: 80, Loss: 0.010474
+Train Epoch: 94, Batch: 100, Loss: 0.010016
+Train Epoch: 94, Batch: 120, Loss: 0.010486
+Train Epoch: 94, Batch: 140, Loss: 0.012563
+Train Epoch: 94, Batch: 160, Loss: 0.008736
+Train Epoch: 94, Batch: 180, Loss: 0.014901
+Train Epoch: 94, Batch: 200, Loss: 0.011490
+Train Epoch: 94, Batch: 220, Loss: 0.011024
+Train Epoch: 94, Batch: 240, Loss: 0.018322
+Train Epoch: 94, Batch: 260, Loss: 0.010867
+Train Epoch: 94, Batch: 280, Loss: 0.012931
+Train Epoch: 94, Batch: 300, Loss: 0.011724
+Train Epoch: 94, Batch: 320, Loss: 0.017560
+Train Epoch: 94, Batch: 340, Loss: 0.015763
+Train Epoch: 94, Batch: 360, Loss: 0.011457
+Train Epoch: 94, Batch: 380, Loss: 0.017014
+Train Epoch: 94, Batch: 400, Loss: 0.015448
+Train Epoch: 94, AverageLoss: 0.012501, Oer:0.000000
+training for epoch 94 takes 222.75967502593994 seconds
+
+start evaluating!
+Epoch: 94, batch: 20, loss: 0.040126, aver_batch_oer:0.016882
+Epoch: 94, batch: 40, loss: 0.233569, aver_batch_oer:0.030166
+Epoch: 94, batch: 60, loss: 0.028451, aver_batch_oer:0.018229
+Epoch: 94, batch: 80, loss: 0.193863, aver_batch_oer:0.042733
+Epoch: 94, batch: 100, loss: 0.033188, aver_batch_oer:0.016801
+Test Epoch: 94, Loss: 0.143271, oer:0.032829
+testing for epoch 94 takes 35.55364537239075 seconds
+
+start training!
+Train Epoch: 95, Batch: 20, Loss: 0.010834
+Train Epoch: 95, Batch: 40, Loss: 0.012245
+Train Epoch: 95, Batch: 60, Loss: 0.014322
+Train Epoch: 95, Batch: 80, Loss: 0.016302
+Train Epoch: 95, Batch: 100, Loss: 0.016152
+Train Epoch: 95, Batch: 120, Loss: 0.012653
+Train Epoch: 95, Batch: 140, Loss: 0.011579
+Train Epoch: 95, Batch: 160, Loss: 0.014590
+Train Epoch: 95, Batch: 180, Loss: 0.012807
+Train Epoch: 95, Batch: 200, Loss: 0.011373
+Train Epoch: 95, Batch: 220, Loss: 0.011108
+Train Epoch: 95, Batch: 240, Loss: 0.013256
+Train Epoch: 95, Batch: 260, Loss: 0.011510
+Train Epoch: 95, Batch: 280, Loss: 0.012413
+Train Epoch: 95, Batch: 300, Loss: 0.010921
+Train Epoch: 95, Batch: 320, Loss: 0.018008
+Train Epoch: 95, Batch: 340, Loss: 0.008912
+Train Epoch: 95, Batch: 360, Loss: 0.008892
+Train Epoch: 95, Batch: 380, Loss: 0.013877
+Train Epoch: 95, Batch: 400, Loss: 0.010729
+Train Epoch: 95, AverageLoss: 0.012527, Oer:0.000000
+training for epoch 95 takes 229.04691791534424 seconds
+
+start evaluating!
+Epoch: 95, batch: 20, loss: 0.036644, aver_batch_oer:0.015824
+Epoch: 95, batch: 40, loss: 0.237835, aver_batch_oer:0.030759
+Epoch: 95, batch: 60, loss: 0.028036, aver_batch_oer:0.017526
+Epoch: 95, batch: 80, loss: 0.195756, aver_batch_oer:0.043687
+Epoch: 95, batch: 100, loss: 0.030798, aver_batch_oer:0.017619
+Test Epoch: 95, Loss: 0.144506, oer:0.032449
+testing for epoch 95 takes 34.720810651779175 seconds
+
+start training!
+Train Epoch: 96, Batch: 20, Loss: 0.011290
+Train Epoch: 96, Batch: 40, Loss: 0.013367
+Train Epoch: 96, Batch: 60, Loss: 0.008354
+Train Epoch: 96, Batch: 80, Loss: 0.011104
+Train Epoch: 96, Batch: 100, Loss: 0.009588
+Train Epoch: 96, Batch: 120, Loss: 0.016880
+Train Epoch: 96, Batch: 140, Loss: 0.012349
+Train Epoch: 96, Batch: 160, Loss: 0.014671
+Train Epoch: 96, Batch: 180, Loss: 0.011768
+Train Epoch: 96, Batch: 200, Loss: 0.010550
+Train Epoch: 96, Batch: 220, Loss: 0.014287
+Train Epoch: 96, Batch: 240, Loss: 0.010562
+Train Epoch: 96, Batch: 260, Loss: 0.012946
+Train Epoch: 96, Batch: 280, Loss: 0.011288
+Train Epoch: 96, Batch: 300, Loss: 0.015069
+Train Epoch: 96, Batch: 320, Loss: 0.015772
+Train Epoch: 96, Batch: 340, Loss: 0.013717
+Train Epoch: 96, Batch: 360, Loss: 0.014532
+Train Epoch: 96, Batch: 380, Loss: 0.011868
+Train Epoch: 96, Batch: 400, Loss: 0.010243
+Train Epoch: 96, AverageLoss: 0.012339, Oer:0.000000
+training for epoch 96 takes 222.90316462516785 seconds
+
+start evaluating!
+Epoch: 96, batch: 20, loss: 0.034766, aver_batch_oer:0.014772
+Epoch: 96, batch: 40, loss: 0.223494, aver_batch_oer:0.029572
+Epoch: 96, batch: 60, loss: 0.029579, aver_batch_oer:0.017840
+Epoch: 96, batch: 80, loss: 0.181051, aver_batch_oer:0.043421
+Epoch: 96, batch: 100, loss: 0.029208, aver_batch_oer:0.017482
+Test Epoch: 96, Loss: 0.144855, oer:0.032503
+testing for epoch 96 takes 37.06977105140686 seconds
+
+start training!
+Train Epoch: 97, Batch: 20, Loss: 0.011401
+Train Epoch: 97, Batch: 40, Loss: 0.009979
+Train Epoch: 97, Batch: 60, Loss: 0.011323
+Train Epoch: 97, Batch: 80, Loss: 0.013517
+Train Epoch: 97, Batch: 100, Loss: 0.013350
+Train Epoch: 97, Batch: 120, Loss: 0.012509
+Train Epoch: 97, Batch: 140, Loss: 0.013210
+Train Epoch: 97, Batch: 160, Loss: 0.010835
+Train Epoch: 97, Batch: 180, Loss: 0.010650
+Train Epoch: 97, Batch: 200, Loss: 0.012878
+Train Epoch: 97, Batch: 220, Loss: 0.013677
+Train Epoch: 97, Batch: 240, Loss: 0.012948
+Train Epoch: 97, Batch: 260, Loss: 0.010482
+Train Epoch: 97, Batch: 280, Loss: 0.010142
+Train Epoch: 97, Batch: 300, Loss: 0.009884
+Train Epoch: 97, Batch: 320, Loss: 0.015055
+Train Epoch: 97, Batch: 340, Loss: 0.010036
+Train Epoch: 97, Batch: 360, Loss: 0.013995
+Train Epoch: 97, Batch: 380, Loss: 0.014670
+Train Epoch: 97, Batch: 400, Loss: 0.011975
+Train Epoch: 97, AverageLoss: 0.012264, Oer:0.000000
+training for epoch 97 takes 230.63766598701477 seconds
+
+start evaluating!
+Epoch: 97, batch: 20, loss: 0.034330, aver_batch_oer:0.015177
+Epoch: 97, batch: 40, loss: 0.221601, aver_batch_oer:0.029455
+Epoch: 97, batch: 60, loss: 0.029507, aver_batch_oer:0.017186
+Epoch: 97, batch: 80, loss: 0.207264, aver_batch_oer:0.043932
+Epoch: 97, batch: 100, loss: 0.027916, aver_batch_oer:0.015692
+Test Epoch: 97, Loss: 0.147883, oer:0.032684
+testing for epoch 97 takes 36.095120906829834 seconds
+
+start training!
+Train Epoch: 98, Batch: 20, Loss: 0.012408
+Train Epoch: 98, Batch: 40, Loss: 0.012766
+Train Epoch: 98, Batch: 60, Loss: 0.011065
+Train Epoch: 98, Batch: 80, Loss: 0.012280
+Train Epoch: 98, Batch: 100, Loss: 0.008596
+Train Epoch: 98, Batch: 120, Loss: 0.013035
+Train Epoch: 98, Batch: 140, Loss: 0.011471
+Train Epoch: 98, Batch: 160, Loss: 0.010867
+Train Epoch: 98, Batch: 180, Loss: 0.011615
+Train Epoch: 98, Batch: 200, Loss: 0.012435
+Train Epoch: 98, Batch: 220, Loss: 0.014981
+Train Epoch: 98, Batch: 240, Loss: 0.013252
+Train Epoch: 98, Batch: 260, Loss: 0.013143
+Train Epoch: 98, Batch: 280, Loss: 0.012674
+Train Epoch: 98, Batch: 300, Loss: 0.013569
+Train Epoch: 98, Batch: 320, Loss: 0.012676
+Train Epoch: 98, Batch: 340, Loss: 0.016917
+Train Epoch: 98, Batch: 360, Loss: 0.010115
+Train Epoch: 98, Batch: 380, Loss: 0.010589
+Train Epoch: 98, Batch: 400, Loss: 0.010233
+Train Epoch: 98, AverageLoss: 0.012256, Oer:0.000000
+training for epoch 98 takes 235.50194311141968 seconds
+
+start evaluating!
+Epoch: 98, batch: 20, loss: 0.040147, aver_batch_oer:0.016542
+Epoch: 98, batch: 40, loss: 0.234235, aver_batch_oer:0.030091
+Epoch: 98, batch: 60, loss: 0.030345, aver_batch_oer:0.017651
+Epoch: 98, batch: 80, loss: 0.225295, aver_batch_oer:0.043441
+Epoch: 98, batch: 100, loss: 0.030667, aver_batch_oer:0.017364
+Test Epoch: 98, Loss: 0.148293, oer:0.032521
+testing for epoch 98 takes 33.546359062194824 seconds
+
+start training!
+Train Epoch: 99, Batch: 20, Loss: 0.009510
+Train Epoch: 99, Batch: 40, Loss: 0.014394
+Train Epoch: 99, Batch: 60, Loss: 0.013164
+Train Epoch: 99, Batch: 80, Loss: 0.013269
+Train Epoch: 99, Batch: 100, Loss: 0.010054
+Train Epoch: 99, Batch: 120, Loss: 0.018069
+Train Epoch: 99, Batch: 140, Loss: 0.009773
+Train Epoch: 99, Batch: 160, Loss: 0.010868
+Train Epoch: 99, Batch: 180, Loss: 0.016120
+Train Epoch: 99, Batch: 200, Loss: 0.009986
+Train Epoch: 99, Batch: 220, Loss: 0.014186
+Train Epoch: 99, Batch: 240, Loss: 0.011861
+Train Epoch: 99, Batch: 260, Loss: 0.018700
+Train Epoch: 99, Batch: 280, Loss: 0.013021
+Train Epoch: 99, Batch: 300, Loss: 0.012623
+Train Epoch: 99, Batch: 320, Loss: 0.009474
+Train Epoch: 99, Batch: 340, Loss: 0.011439
+Train Epoch: 99, Batch: 360, Loss: 0.010840
+Train Epoch: 99, Batch: 380, Loss: 0.011507
+Train Epoch: 99, Batch: 400, Loss: 0.013626
+Train Epoch: 99, AverageLoss: 0.012198, Oer:0.000000
+training for epoch 99 takes 231.67332005500793 seconds
+
+start evaluating!
+Epoch: 99, batch: 20, loss: 0.038146, aver_batch_oer:0.015924
+Epoch: 99, batch: 40, loss: 0.223527, aver_batch_oer:0.030168
+Epoch: 99, batch: 60, loss: 0.029711, aver_batch_oer:0.017921
+Epoch: 99, batch: 80, loss: 0.209218, aver_batch_oer:0.043437
+Epoch: 99, batch: 100, loss: 0.030416, aver_batch_oer:0.016604
+Test Epoch: 99, Loss: 0.147227, oer:0.032404
+testing for epoch 99 takes 35.746509075164795 seconds
